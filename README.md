@@ -518,7 +518,7 @@ The content is generated from [here](https://developer.android.com/sitemap.xml) 
 
 - [**See all links**](fe)
 
-## [Devices](devices.md))
+## [Devices](devices.md)
 
 - About: Develop an Android Device.
 
