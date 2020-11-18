@@ -16,9 +16,9 @@
 <img src="assets/android-sitemap-banner.png" alt="android sitemap banner"></img>
 </p><br>
 
-**Android Sitemap** aims to be your starting point to find every link pointing to Android Developer sites: [developer android](https://developer.android.com/) and [source android](https://source.android.com/).
+**Android Sitemap** aims to be your starting point to find every link pointing to Android Developer sites: [Android Developers](https://developer.android.com/) and [Android Open Source Project](https://source.android.com/).
 
-The repo was created to see the full scope of Android documentation guides and reference APIs. Some gems like [API diff](sdk.md), [source android reference APIs](reference-1.md) were discovered in the process which I find very interesting.
+The repo was created to see the full scope of Android documentation guides and reference APIs. Some gems like [API diff](sdk.md), [Android Open Source Project reference APIs](reference-1.md) were discovered in the process which I find very interesting.
 
 The repo contains only links and no meta information like Title, Description for now as there are 30000+ links.
 
@@ -26,7 +26,7 @@ The content is generated from [here](https://developer.android.com/sitemap.xml) 
 
 ## Contents
 
-- [**developer android**](#developerandroidcom)  
+- [**Android Developers**](#android-developers)  
 
   - [SM](#sm)
   - [About](#about)
@@ -72,7 +72,7 @@ The content is generated from [here](https://developer.android.com/sitemap.xml) 
   - [Google](#google)
   - [Samples](#samples)
 
-- [**source android**](#sourceandroidcom)
+- [**Android Open Source Project**](#android-open-source-project)
 
   - [SM](#sm-1)
   - [Compatibility](#compatibility)
@@ -86,7 +86,9 @@ The content is generated from [here](https://developer.android.com/sitemap.xml) 
 :seedling: [**Contributors**](#seedling-contributors)
 
 
-# [developer android](https://developer.android.com/)
+# Android Developers
+
+https://developer.android.com - Android Developers. The official site for Android developers. Provides the Android SDK and documentation for app developers and designers.
 
 ## [SM](sm.md)
 
@@ -496,7 +498,9 @@ The content is generated from [here](https://developer.android.com/sitemap.xml) 
 
 - [**See all links**](samples.md)
 
-# [source android](https://source.android.com)
+# Android Open Source Project
+
+https://source.android.com - Android Open Source Project. Android unites the world! Use the open Android Open Source Project operating system to power your device. 
 
 ## [SM](sm-1.md)
 
