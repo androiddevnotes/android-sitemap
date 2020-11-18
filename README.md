@@ -90,7 +90,7 @@ The content is generated from [here](https://developer.android.com/sitemap.xml) 
 
 ## [SM](sm.md)
 
-- About: Miscellaneous links.
+- About: Support, legal.
 
 - Link Count: 10
 
