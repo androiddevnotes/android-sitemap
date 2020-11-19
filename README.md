@@ -502,13 +502,13 @@ https://developer.android.com - Android Developers. The official site for Androi
 
 https://source.android.com - Android Open Source Project. Android unites the world! Use the open Android Open Source Project operating system to power your device. 
 
-## [SM](sm-1.md)
+## [SM](source-sm.md)
 
 - About: Miscellaneous links.
 
 - Link Count: 48
 
-- [**See all links**](sm-1.md)
+- [**See all links**](source-sm.md)
 
 ## [Compatibility](compatibility.md)
 
@@ -546,7 +546,7 @@ https://source.android.com - Android Open Source Project. Android unites the wor
 
 - [**See all links**](setup.md)
 
-## [Security](security-1.md)
+## [Security](source-security.md)
 
 - About: Secure an Android Device.
 
@@ -554,15 +554,15 @@ https://source.android.com - Android Open Source Project. Android unites the wor
 
 - Link Count: 1002
 
-- [**See all links**](security-1.md)
+- [**See all links**](source-security.md)
 
-## [Reference](reference-1.md)
+## [Reference](source-reference.md)
 
 - About: Reference.
 
 - Link Count: 22557
 
-- [**See all links**](reference-1.md)
+- [**See all links**](source-reference.md)
 
 ## :memo: Contributing
 
