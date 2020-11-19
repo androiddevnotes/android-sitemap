@@ -498,6 +498,8 @@ https://developer.android.com - Android Developers. The official site for Androi
 
 - [**See all links**](samples.md)
 
+<br>
+
 # Android Open Source Project
 
 https://source.android.com - Android Open Source Project. Android unites the world! Use the open Android Open Source Project operating system to power your device. 
@@ -563,6 +565,8 @@ https://source.android.com - Android Open Source Project. Android unites the wor
 - Link Count: 22557
 
 - [**See all links**](source-reference.md)
+
+<br>
 
 ## :memo: Contributing
 
