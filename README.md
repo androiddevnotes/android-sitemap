@@ -576,6 +576,12 @@ See [contributing.md](contributing.md)
 
 Thank you to all the contributors!
 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/viveksharma2382000"><b>viveksharma2382000</b></a></td>
+  </tr>
+</table>
+
 ## :computer: Find us on
 
 <div align="center">
