@@ -276,7 +276,7 @@ https://developer.android.com - Android Developers. The official site for Androi
 
 - [**See all links**](security.md)
 
-## [Machine Learning](machine-learning.md)
+## [Machine Learning](ml.md)
 
 - About: Build smarter apps with machine learning.
 
@@ -286,7 +286,7 @@ https://developer.android.com - Android Developers. The official site for Androi
 
 - Link Count: 7
 
-- [**See all links**](machine-learning.md)
+- [**See all links**](ml.md)
 
 ## [Work](work.md)
 
