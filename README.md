@@ -20,7 +20,7 @@
 
 The repo was created to see the full scope of Android documentation guides and reference APIs. Some gems like [API diff](sdk.md), [Android Open Source Project reference APIs](source-reference.md) were discovered in the process which I find very interesting.
 
-The repo contains only links and no meta information like Title, Description for now as there are 30000+ links.
+The repo contains only links and no meta information like Title, Description for now as there are 50000+ links.
 
 The content is generated from [here](https://developer.android.com/sitemap.xml) and [here.](https://source.android.com/sitemap.xml)
 
