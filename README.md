@@ -22,7 +22,7 @@ The repo was created to see the full scope of Android documentation guides and r
 
 The repo contains only links and no meta information like Title, Description for now as there are 50000+ links.
 
-The content is generated from [here](https://developer.android.com/sitemap.xml) and [here.](https://source.android.com/sitemap.xml)
+The content is generated from [Android Developer Sitemap](https://developer.android.com/sitemap.xml) and [Android Source Sitemap.](https://source.android.com/sitemap.xml)
 
 ## Contents
 
