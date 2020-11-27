@@ -1,2190 +1,2190 @@
 ## [Guide](https://developer.android.com/guide/sitemap.xml)
 
--https://developer.android.com/guide/playcore/in-app-review/unity
--https://developer.android.com/guide/playcore/in-app-review/unity?hl=ko
--https://developer.android.com/guide/playcore/in-app-review/unity?hl=es-419
--https://developer.android.com/guide/playcore/in-app-review/unity?hl=pt-br
--https://developer.android.com/guide/playcore/in-app-review/unity?hl=id
--https://developer.android.com/guide/playcore/in-app-review/unity?hl=ja
--https://developer.android.com/guide/playcore/in-app-review/unity?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/nfc/hce
--https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=es_419
--https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=id
--https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=ja
--https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=ko
--https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=zh_cn
--https://developer.android.com/guide/topics/renderscript/reference/rs_object_types
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=id
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=ja
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=ko
--https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=pt_br
--https://developer.android.com/guide/topics/text/ime-autofill
--https://developer.android.com/guide/topics/text/ime-autofill?hl=pt-br
--https://developer.android.com/guide/topics/text/ime-autofill?hl=ja
--https://developer.android.com/guide/topics/text/ime-autofill?hl=ko
--https://developer.android.com/guide/topics/text/ime-autofill?hl=es-419
--https://developer.android.com/guide/topics/text/ime-autofill?hl=id
--https://developer.android.com/guide/topics/text/ime-autofill?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest
--https://developer.android.com/guide/topics/connectivity/usb/accessory
--https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=es_419
--https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=id
--https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=ja
--https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=ko
--https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=zh_cn
--https://developer.android.com/guide/playcore/asset-delivery/test
--https://developer.android.com/guide/playcore/asset-delivery/test?hl=ko
--https://developer.android.com/guide/playcore/asset-delivery/test?hl=es-419
--https://developer.android.com/guide/playcore/asset-delivery/test?hl=pt-br
--https://developer.android.com/guide/playcore/asset-delivery/test?hl=id
--https://developer.android.com/guide/playcore/asset-delivery/test?hl=ja
--https://developer.android.com/guide/playcore/asset-delivery/test?hl=zh-cn
--https://developer.android.com/guide/topics/data/account-transfer
--https://developer.android.com/guide/topics/data/account-transfer?hl=es_419
--https://developer.android.com/guide/topics/data/account-transfer?hl=zh_cn
--https://developer.android.com/guide/topics/data/account-transfer?hl=id
--https://developer.android.com/guide/topics/data/account-transfer?hl=ja
--https://developer.android.com/guide/topics/data/account-transfer?hl=ko
--https://developer.android.com/guide/topics/data/account-transfer?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=ko
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=es-419
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=ja
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=zh-cn
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=pt-br
--https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=id
--https://developer.android.com/guide/topics/renderscript/reference/rs_quaternion
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=es_419
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=id
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=ja
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=ko
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=zh_cn
--https://developer.android.com/guide/topics/providers/document-provider
--https://developer.android.com/guide/topics/providers/document-provider?hl=es-419
--https://developer.android.com/guide/topics/providers/document-provider?hl=zh-cn
--https://developer.android.com/guide/topics/providers/document-provider?hl=id
--https://developer.android.com/guide/topics/providers/document-provider?hl=ja
--https://developer.android.com/guide/topics/providers/document-provider?hl=ko
--https://developer.android.com/guide/topics/providers/document-provider?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/wifip2p
--https://developer.android.com/guide/topics/connectivity/wifip2p?hl=es_419
--https://developer.android.com/guide/topics/connectivity/wifip2p?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/wifip2p?hl=id
--https://developer.android.com/guide/topics/connectivity/wifip2p?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifip2p?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifip2p?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=id
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=ja
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=ko
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=es_419
--https://developer.android.com/guide/topics/text/autofill
--https://developer.android.com/guide/topics/text/autofill?hl=es_419
--https://developer.android.com/guide/topics/text/autofill?hl=zh_cn
--https://developer.android.com/guide/topics/text/autofill?hl=id
--https://developer.android.com/guide/topics/text/autofill?hl=ja
--https://developer.android.com/guide/topics/text/autofill?hl=ko
--https://developer.android.com/guide/topics/text/autofill?hl=pt_br
--https://developer.android.com/guide/topics/resources/available-resources
--https://developer.android.com/guide/topics/resources/available-resources?hl=es_419
--https://developer.android.com/guide/topics/resources/available-resources?hl=id
--https://developer.android.com/guide/topics/resources/available-resources?hl=ja
--https://developer.android.com/guide/topics/resources/available-resources?hl=ko
--https://developer.android.com/guide/topics/resources/available-resources?hl=pt_br
--https://developer.android.com/guide/topics/resources/available-resources?hl=zh_cn
--https://developer.android.com/guide/topics/ui/drag-drop
--https://developer.android.com/guide/topics/ui/drag-drop?hl=es_419
--https://developer.android.com/guide/topics/ui/drag-drop?hl=zh_cn
--https://developer.android.com/guide/topics/ui/drag-drop?hl=id
--https://developer.android.com/guide/topics/ui/drag-drop?hl=ja
--https://developer.android.com/guide/topics/ui/drag-drop?hl=ko
--https://developer.android.com/guide/topics/ui/drag-drop?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml
--https://developer.android.com/guide/topics/ui/picture-in-picture
--https://developer.android.com/guide/topics/ui/picture-in-picture?hl=es_419
--https://developer.android.com/guide/topics/ui/picture-in-picture?hl=zh_cn
--https://developer.android.com/guide/topics/ui/picture-in-picture?hl=id
--https://developer.android.com/guide/topics/ui/picture-in-picture?hl=ja
--https://developer.android.com/guide/topics/ui/picture-in-picture?hl=ko
--https://developer.android.com/guide/topics/ui/picture-in-picture?hl=pt_br
--https://developer.android.com/guide/topics/manifest/permission-element
--https://developer.android.com/guide/topics/manifest/permission-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/permission-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/permission-element?hl=id
--https://developer.android.com/guide/topics/manifest/permission-element?hl=ja
--https://developer.android.com/guide/topics/manifest/permission-element?hl=ko
--https://developer.android.com/guide/topics/manifest/permission-element?hl=pt_br
--https://developer.android.com/guide/topics/manifest/receiver-element
--https://developer.android.com/guide/topics/manifest/receiver-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/receiver-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/receiver-element?hl=id
--https://developer.android.com/guide/topics/manifest/receiver-element?hl=ja
--https://developer.android.com/guide/topics/manifest/receiver-element?hl=ko
--https://developer.android.com/guide/topics/manifest/receiver-element?hl=pt_br
--https://developer.android.com/guide/appendix/faq/security
--https://developer.android.com/guide/appendix/faq/security?hl=es_419
--https://developer.android.com/guide/appendix/faq/security?hl=zh_cn
--https://developer.android.com/guide/appendix/faq/security?hl=id
--https://developer.android.com/guide/appendix/faq/security?hl=ja
--https://developer.android.com/guide/appendix/faq/security?hl=ko
--https://developer.android.com/guide/appendix/faq/security?hl=pt_br
--https://developer.android.com/guide/topics/ui/controls/button
--https://developer.android.com/guide/topics/media-apps/audio-app/media-controller-test
--https://developer.android.com/guide/navigation/navigation-add-new
--https://developer.android.com/guide/navigation/navigation-add-new?hl=es_419
--https://developer.android.com/guide/navigation/navigation-add-new?hl=id
--https://developer.android.com/guide/navigation/navigation-add-new?hl=ja
--https://developer.android.com/guide/navigation/navigation-add-new?hl=ko
--https://developer.android.com/guide/navigation/navigation-add-new?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-add-new?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/usb/host
--https://developer.android.com/guide/topics/connectivity/usb/host?hl=es_419
--https://developer.android.com/guide/topics/connectivity/usb/host?hl=id
--https://developer.android.com/guide/topics/connectivity/usb/host?hl=ja
--https://developer.android.com/guide/topics/connectivity/usb/host?hl=ko
--https://developer.android.com/guide/topics/connectivity/usb/host?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/usb/host?hl=zh_cn
--https://developer.android.com/guide/topics/ui/controls/togglebutton
--https://developer.android.com/guide/topics/ui/floating-action-button
--https://developer.android.com/guide/topics/ui/floating-action-button?hl=es_419
--https://developer.android.com/guide/topics/ui/floating-action-button?hl=zh_cn
--https://developer.android.com/guide/topics/ui/floating-action-button?hl=id
--https://developer.android.com/guide/topics/ui/floating-action-button?hl=ja
--https://developer.android.com/guide/topics/ui/floating-action-button?hl=ko
--https://developer.android.com/guide/topics/ui/floating-action-button?hl=pt_br
--https://developer.android.com/guide/topics/media/media-controls
--https://developer.android.com/guide/topics/media/mediarouter
--https://developer.android.com/guide/topics/media/mediarouter?hl=es_419
--https://developer.android.com/guide/topics/media/mediarouter?hl=id
--https://developer.android.com/guide/topics/media/mediarouter?hl=ja
--https://developer.android.com/guide/topics/media/mediarouter?hl=ko
--https://developer.android.com/guide/topics/media/mediarouter?hl=pt_br
--https://developer.android.com/guide/topics/media/mediarouter?hl=zh_cn
--https://developer.android.com/guide/topics/ui/binding
--https://developer.android.com/guide/topics/ui/binding?hl=es_419
--https://developer.android.com/guide/topics/ui/binding?hl=zh_cn
--https://developer.android.com/guide/topics/ui/binding?hl=id
--https://developer.android.com/guide/topics/ui/binding?hl=ja
--https://developer.android.com/guide/topics/ui/binding?hl=ko
--https://developer.android.com/guide/topics/ui/binding?hl=pt_br
--https://developer.android.com/guide/topics/resources/internationalization
--https://developer.android.com/guide/topics/resources/internationalization?hl=es_419
--https://developer.android.com/guide/topics/resources/internationalization?hl=zh_cn
--https://developer.android.com/guide/topics/resources/internationalization?hl=id
--https://developer.android.com/guide/topics/resources/internationalization?hl=ja
--https://developer.android.com/guide/topics/resources/internationalization?hl=ko
--https://developer.android.com/guide/topics/resources/internationalization?hl=pt_br
--https://developer.android.com/guide/components/activities/process-lifecycle
--https://developer.android.com/guide/components/activities/process-lifecycle?hl=es_419
--https://developer.android.com/guide/components/activities/process-lifecycle?hl=id
--https://developer.android.com/guide/components/activities/process-lifecycle?hl=ja
--https://developer.android.com/guide/components/activities/process-lifecycle?hl=ko
--https://developer.android.com/guide/components/activities/process-lifecycle?hl=pt_br
--https://developer.android.com/guide/components/activities/process-lifecycle?hl=zh_cn
--https://developer.android.com/guide/topics/data/backup
--https://developer.android.com/guide/topics/data/backup?hl=es_419
--https://developer.android.com/guide/topics/data/backup?hl=zh_cn
--https://developer.android.com/guide/topics/data/backup?hl=id
--https://developer.android.com/guide/topics/data/backup?hl=ja
--https://developer.android.com/guide/topics/data/backup?hl=ko
--https://developer.android.com/guide/topics/data/backup?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet/reference/packages
--https://developer.android.com/guide/topics/connectivity/bluetooth-le
--https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=es_419
--https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=id
--https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=ja
--https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=ko
--https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/wifi-easy
--https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=es_419
--https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=id
--https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=pt_br
--https://developer.android.com/guide/app-bundle/configure-base
--https://developer.android.com/guide/app-bundle/configure-base?hl=id
--https://developer.android.com/guide/app-bundle/configure-base?hl=ja
--https://developer.android.com/guide/app-bundle/configure-base?hl=pt-br
--https://developer.android.com/guide/app-bundle/configure-base?hl=zh-cn
--https://developer.android.com/guide/app-bundle/configure-base?hl=ko
--https://developer.android.com/guide/app-bundle/configure-base?hl=es-419
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=es_419
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=id
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=ja
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=ko
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=zh_cn
--https://developer.android.com/guide/components/broadcast-exceptions
--https://developer.android.com/guide/components/broadcast-exceptions?hl=es_419
--https://developer.android.com/guide/components/broadcast-exceptions?hl=id
--https://developer.android.com/guide/components/broadcast-exceptions?hl=ja
--https://developer.android.com/guide/components/broadcast-exceptions?hl=ko
--https://developer.android.com/guide/components/broadcast-exceptions?hl=pt_br
--https://developer.android.com/guide/components/broadcast-exceptions?hl=zh_cn
--https://developer.android.com/guide/playcore/in-app-review/native
--https://developer.android.com/guide/playcore/in-app-review/native?hl=pt-br
--https://developer.android.com/guide/playcore/in-app-review/native?hl=ko
--https://developer.android.com/guide/playcore/in-app-review/native?hl=es-419
--https://developer.android.com/guide/playcore/in-app-review/native?hl=ja
--https://developer.android.com/guide/playcore/in-app-review/native?hl=id
--https://developer.android.com/guide/playcore/in-app-review/native?hl=zh-cn
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=ko
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=es-419
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=pt-br
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=id
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=ja
--https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=zh-cn
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=es_419
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=id
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=ja
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=ko
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=zh_cn
--https://developer.android.com/guide/topics/resources/menu-resource
--https://developer.android.com/guide/topics/resources/menu-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/menu-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/menu-resource?hl=id
--https://developer.android.com/guide/topics/resources/menu-resource?hl=ja
--https://developer.android.com/guide/topics/resources/menu-resource?hl=ko
--https://developer.android.com/guide/topics/resources/menu-resource?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel
--https://developer.android.com/guide/topics/ui/look-and-feel?hl=id
--https://developer.android.com/guide/topics/ui/look-and-feel?hl=es_419
--https://developer.android.com/guide/topics/ui/look-and-feel?hl=ja
--https://developer.android.com/guide/topics/ui/look-and-feel?hl=ko
--https://developer.android.com/guide/topics/ui/look-and-feel?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel?hl=zh_cn
--https://developer.android.com/guide/topics/ui/shortcuts/creating-shortcuts
--https://developer.android.com/guide/fragments
--https://developer.android.com/guide/topics/connectivity/grpc
--https://developer.android.com/guide/topics/connectivity/grpc?hl=es_419
--https://developer.android.com/guide/topics/connectivity/grpc?hl=id
--https://developer.android.com/guide/topics/connectivity/grpc?hl=ja
--https://developer.android.com/guide/topics/connectivity/grpc?hl=ko
--https://developer.android.com/guide/topics/connectivity/grpc?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/grpc?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/compatible-screens-element
--https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=id
--https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=ja
--https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=ko
--https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=pt_br
--https://developer.android.com/guide/components/intents-filters
--https://developer.android.com/guide/components/intents-filters?hl=es-419
--https://developer.android.com/guide/components/intents-filters?hl=zh-cn
--https://developer.android.com/guide/components/intents-filters?hl=id
--https://developer.android.com/guide/components/intents-filters?hl=ja
--https://developer.android.com/guide/components/intents-filters?hl=ko
--https://developer.android.com/guide/components/intents-filters?hl=pt-br
--https://developer.android.com/guide
--https://developer.android.com/guide?hl=es-419
--https://developer.android.com/guide?hl=zh-cn
--https://developer.android.com/guide?hl=id
--https://developer.android.com/guide?hl=ja
--https://developer.android.com/guide?hl=ko
--https://developer.android.com/guide?hl=pt-br
--https://developer.android.com/guide/topics/connectivity
--https://developer.android.com/guide/topics/connectivity?hl=es_419
--https://developer.android.com/guide/topics/connectivity?hl=id
--https://developer.android.com/guide/topics/connectivity?hl=ja
--https://developer.android.com/guide/topics/connectivity?hl=ko
--https://developer.android.com/guide/topics/connectivity?hl=pt_br
--https://developer.android.com/guide/topics/connectivity?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlResponseInfo.HeaderBlock
--https://developer.android.com/guide/topics/permissions/overview
--https://developer.android.com/guide/topics/permissions/overview?hl=zh-cn
--https://developer.android.com/guide/topics/permissions/overview?hl=ja
--https://developer.android.com/guide/topics/permissions/overview?hl=ko
--https://developer.android.com/guide/topics/permissions/overview?hl=pt-br
--https://developer.android.com/guide/topics/permissions/overview?hl=es-419
--https://developer.android.com/guide/topics/permissions/overview?hl=id
--https://developer.android.com/guide/topics/manifest/data-element
--https://developer.android.com/guide/topics/manifest/data-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/data-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/data-element?hl=id
--https://developer.android.com/guide/topics/manifest/data-element?hl=ja
--https://developer.android.com/guide/topics/manifest/data-element?hl=ko
--https://developer.android.com/guide/topics/manifest/data-element?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/sip
--https://developer.android.com/guide/topics/connectivity/sip?hl=es_419
--https://developer.android.com/guide/topics/connectivity/sip?hl=id
--https://developer.android.com/guide/topics/connectivity/sip?hl=ja
--https://developer.android.com/guide/topics/connectivity/sip?hl=ko
--https://developer.android.com/guide/topics/connectivity/sip?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/sip?hl=zh_cn
--https://developer.android.com/guide/topics/data/install-location
--https://developer.android.com/guide/topics/data/install-location?hl=es_419
--https://developer.android.com/guide/topics/data/install-location?hl=zh_cn
--https://developer.android.com/guide/topics/data/install-location?hl=id
--https://developer.android.com/guide/topics/data/install-location?hl=ja
--https://developer.android.com/guide/topics/data/install-location?hl=ko
--https://developer.android.com/guide/topics/data/install-location?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-testing
--https://developer.android.com/guide/navigation/navigation-testing?hl=es_419
--https://developer.android.com/guide/navigation/navigation-testing?hl=id
--https://developer.android.com/guide/navigation/navigation-testing?hl=ja
--https://developer.android.com/guide/navigation/navigation-testing?hl=ko
--https://developer.android.com/guide/navigation/navigation-testing?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-testing?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-custom-back
--https://developer.android.com/guide/navigation/navigation-custom-back?hl=es_419
--https://developer.android.com/guide/navigation/navigation-custom-back?hl=id
--https://developer.android.com/guide/navigation/navigation-custom-back?hl=ja
--https://developer.android.com/guide/navigation/navigation-custom-back?hl=ko
--https://developer.android.com/guide/navigation/navigation-custom-back?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-custom-back?hl=zh_cn
--https://developer.android.com/guide/topics/ui/notifiers/notifications
--https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=es-419
--https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=pt-br
--https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=zh-cn
--https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=ja
--https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=ko
--https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=id
--https://developer.android.com/guide/topics/appwidgets
--https://developer.android.com/guide/topics/appwidgets?hl=es_419
--https://developer.android.com/guide/topics/appwidgets?hl=zh_cn
--https://developer.android.com/guide/topics/appwidgets?hl=id
--https://developer.android.com/guide/topics/appwidgets?hl=ja
--https://developer.android.com/guide/topics/appwidgets?hl=ko
--https://developer.android.com/guide/topics/appwidgets?hl=pt_br
--https://developer.android.com/guide/appendix
--https://developer.android.com/guide/appendix?hl=es_419
--https://developer.android.com/guide/appendix?hl=zh_cn
--https://developer.android.com/guide/appendix?hl=id
--https://developer.android.com/guide/appendix?hl=ja
--https://developer.android.com/guide/appendix?hl=ko
--https://developer.android.com/guide/appendix?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/wifi-scan
--https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=es-419
--https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=id
--https://developer.android.com/guide/navigation/navigation-conditional
--https://developer.android.com/guide/navigation/navigation-conditional?hl=es_419
--https://developer.android.com/guide/navigation/navigation-conditional?hl=id
--https://developer.android.com/guide/navigation/navigation-conditional?hl=ja
--https://developer.android.com/guide/navigation/navigation-conditional?hl=ko
--https://developer.android.com/guide/navigation/navigation-conditional?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-conditional?hl=zh_cn
--https://developer.android.com/guide/topics/ui/custom-components
--https://developer.android.com/guide/topics/ui/custom-components?hl=es_419
--https://developer.android.com/guide/topics/ui/custom-components?hl=zh_cn
--https://developer.android.com/guide/topics/ui/custom-components?hl=id
--https://developer.android.com/guide/topics/ui/custom-components?hl=ja
--https://developer.android.com/guide/topics/ui/custom-components?hl=ko
--https://developer.android.com/guide/topics/ui/custom-components?hl=pt_br
--https://developer.android.com/guide/topics/providers/content-provider-creating
--https://developer.android.com/guide/topics/providers/content-provider-creating?hl=es-419
--https://developer.android.com/guide/topics/providers/content-provider-creating?hl=zh-cn
--https://developer.android.com/guide/topics/providers/content-provider-creating?hl=id
--https://developer.android.com/guide/topics/providers/content-provider-creating?hl=ja
--https://developer.android.com/guide/topics/providers/content-provider-creating?hl=ko
--https://developer.android.com/guide/topics/providers/content-provider-creating?hl=pt-br
--https://developer.android.com/guide/topics/media/exoplayer
--https://developer.android.com/guide/topics/media/exoplayer?hl=es_419
--https://developer.android.com/guide/topics/media/exoplayer?hl=id
--https://developer.android.com/guide/topics/media/exoplayer?hl=ja
--https://developer.android.com/guide/topics/media/exoplayer?hl=ko
--https://developer.android.com/guide/topics/media/exoplayer?hl=pt_br
--https://developer.android.com/guide/topics/media/exoplayer?hl=zh_cn
--https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
--https://developer.android.com/guide/appendix/faq/licensingandoss
--https://developer.android.com/guide/appendix/faq/licensingandoss?hl=es_419
--https://developer.android.com/guide/appendix/faq/licensingandoss?hl=zh_cn
--https://developer.android.com/guide/appendix/faq/licensingandoss?hl=id
--https://developer.android.com/guide/appendix/faq/licensingandoss?hl=ja
--https://developer.android.com/guide/appendix/faq/licensingandoss?hl=ko
--https://developer.android.com/guide/appendix/faq/licensingandoss?hl=pt_br
--https://developer.android.com/guide/topics/location/battery
--https://developer.android.com/guide/topics/location/battery?hl=es-419
--https://developer.android.com/guide/topics/location/battery?hl=zh-cn
--https://developer.android.com/guide/topics/location/battery?hl=id
--https://developer.android.com/guide/topics/location/battery?hl=ko
--https://developer.android.com/guide/topics/location/battery?hl=pt-br
--https://developer.android.com/guide/topics/location/battery?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=id
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=ko
--https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=pt_br
--https://developer.android.com/guide/components/activities/parcelables-and-bundles
--https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=es_419
--https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=id
--https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=ja
--https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=ko
--https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=pt_br
--https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=zh_cn
--https://developer.android.com/guide/topics/providers/contacts-provider
--https://developer.android.com/guide/topics/providers/contacts-provider?hl=es-419
--https://developer.android.com/guide/topics/providers/contacts-provider?hl=zh-cn
--https://developer.android.com/guide/topics/providers/contacts-provider?hl=id
--https://developer.android.com/guide/topics/providers/contacts-provider?hl=ja
--https://developer.android.com/guide/topics/providers/contacts-provider?hl=ko
--https://developer.android.com/guide/topics/providers/contacts-provider?hl=pt-br
--https://developer.android.com/guide/topics/data/autobackup
--https://developer.android.com/guide/topics/data/autobackup?hl=es_419
--https://developer.android.com/guide/topics/data/autobackup?hl=zh_cn
--https://developer.android.com/guide/topics/data/autobackup?hl=id
--https://developer.android.com/guide/topics/data/autobackup?hl=ja
--https://developer.android.com/guide/topics/data/autobackup?hl=ko
--https://developer.android.com/guide/topics/data/autobackup?hl=pt_br
--https://developer.android.com/guide/topics/manifest/activity-alias-element
--https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=id
--https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=ja
--https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=ko
--https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-navigate
--https://developer.android.com/guide/navigation/navigation-navigate?hl=es_419
--https://developer.android.com/guide/navigation/navigation-navigate?hl=id
--https://developer.android.com/guide/navigation/navigation-navigate?hl=ja
--https://developer.android.com/guide/navigation/navigation-navigate?hl=ko
--https://developer.android.com/guide/navigation/navigation-navigate?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-navigate?hl=zh_cn
--https://developer.android.com/guide/topics/ui/settings/use-saved-values
--https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=es-419
--https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=ja
--https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=ko
--https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=id
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=es_419
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=id
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-global-action
--https://developer.android.com/guide/navigation/navigation-global-action?hl=es_419
--https://developer.android.com/guide/navigation/navigation-global-action?hl=id
--https://developer.android.com/guide/navigation/navigation-global-action?hl=ja
--https://developer.android.com/guide/navigation/navigation-global-action?hl=ko
--https://developer.android.com/guide/navigation/navigation-global-action?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-global-action?hl=zh_cn
--https://developer.android.com/guide/fragments/fragmentmanager
--https://developer.android.com/guide/topics/permissions/default-handlers
--https://developer.android.com/guide/topics/permissions/default-handlers?hl=es_419
--https://developer.android.com/guide/topics/permissions/default-handlers?hl=zh_cn
--https://developer.android.com/guide/topics/permissions/default-handlers?hl=id
--https://developer.android.com/guide/topics/permissions/default-handlers?hl=ja
--https://developer.android.com/guide/topics/permissions/default-handlers?hl=ko
--https://developer.android.com/guide/topics/permissions/default-handlers?hl=pt_br
--https://developer.android.com/guide/topics/resources/more-resources
--https://developer.android.com/guide/topics/resources/more-resources?hl=es_419
--https://developer.android.com/guide/topics/resources/more-resources?hl=zh_cn
--https://developer.android.com/guide/topics/resources/more-resources?hl=id
--https://developer.android.com/guide/topics/resources/more-resources?hl=ja
--https://developer.android.com/guide/topics/resources/more-resources?hl=ko
--https://developer.android.com/guide/topics/resources/more-resources?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=es_419
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=id
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=ja
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=ko
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=zh_cn
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=es_419
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=id
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=ja
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=ko
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=zh_cn
--https://developer.android.com/guide/playcore/in-app-updates
--https://developer.android.com/guide/playcore/in-app-updates?hl=pt-br
--https://developer.android.com/guide/playcore/in-app-updates?hl=ko
--https://developer.android.com/guide/playcore/in-app-updates?hl=es-419
--https://developer.android.com/guide/playcore/in-app-updates?hl=ja
--https://developer.android.com/guide/playcore/in-app-updates?hl=id
--https://developer.android.com/guide/playcore/in-app-updates?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/package-summary
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=es-419
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ja
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ko
--https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=id
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=es_419
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=id
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=ja
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=ko
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=zh_cn
--https://developer.android.com/guide/topics/ui/layout/recyclerview
--https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=es-419
--https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=ja
--https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=ko
--https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=zh-cn
--https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=pt-br
--https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=id
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=es_419
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=id
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=ja
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=ko
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=zh_cn
--https://developer.android.com/guide/topics/ui/controls/checkbox
--https://developer.android.com/guide/fragments/test
--https://developer.android.com/guide/topics/sensors/gnss
--https://developer.android.com/guide/topics/sensors/gnss?hl=es_419
--https://developer.android.com/guide/topics/sensors/gnss?hl=zh_cn
--https://developer.android.com/guide/topics/sensors/gnss?hl=id
--https://developer.android.com/guide/topics/sensors/gnss?hl=ja
--https://developer.android.com/guide/topics/sensors/gnss?hl=ko
--https://developer.android.com/guide/topics/sensors/gnss?hl=pt_br
--https://developer.android.com/guide/components/activities/activity-lifecycle
--https://developer.android.com/guide/components/activities/activity-lifecycle?hl=es_419
--https://developer.android.com/guide/components/activities/activity-lifecycle?hl=zh_cn
--https://developer.android.com/guide/components/activities/activity-lifecycle?hl=id
--https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ja
--https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko
--https://developer.android.com/guide/components/activities/activity-lifecycle?hl=pt_br
--https://developer.android.com/guide/topics/ui/shortcuts/best-practices
--https://developer.android.com/guide/components/activities/recents
--https://developer.android.com/guide/components/activities/recents?hl=es_419
--https://developer.android.com/guide/components/activities/recents?hl=id
--https://developer.android.com/guide/components/activities/recents?hl=ja
--https://developer.android.com/guide/components/activities/recents?hl=ko
--https://developer.android.com/guide/components/activities/recents?hl=pt_br
--https://developer.android.com/guide/components/activities/recents?hl=zh_cn
--https://developer.android.com/guide/fragments/dialogs
--https://developer.android.com/guide/fragments/appbar
--https://developer.android.com/guide/topics/ui/accessibility
--https://developer.android.com/guide/topics/ui/accessibility?hl=id
--https://developer.android.com/guide/topics/ui/accessibility?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility?hl=pt_br
--https://developer.android.com/guide/webapps/best-practices
--https://developer.android.com/guide/webapps/best-practices?hl=id
--https://developer.android.com/guide/webapps/best-practices?hl=ja
--https://developer.android.com/guide/webapps/best-practices?hl=ko
--https://developer.android.com/guide/webapps/best-practices?hl=pt_br
--https://developer.android.com/guide/webapps/best-practices?hl=zh_cn
--https://developer.android.com/guide/webapps/best-practices?hl=es_419
--https://developer.android.com/guide/topics/renderscript/reference/rs_vector_math
--https://developer.android.com/guide/topics/renderscript/advanced
--https://developer.android.com/guide/topics/renderscript/advanced?hl=es_419
--https://developer.android.com/guide/topics/renderscript/advanced?hl=zh_cn
--https://developer.android.com/guide/topics/renderscript/advanced?hl=id
--https://developer.android.com/guide/topics/renderscript/advanced?hl=ja
--https://developer.android.com/guide/topics/renderscript/advanced?hl=ko
--https://developer.android.com/guide/topics/renderscript/advanced?hl=pt_br
--https://developer.android.com/guide/topics/text/autofill-optimize
--https://developer.android.com/guide/topics/text/autofill-optimize?hl=es_419
--https://developer.android.com/guide/topics/text/autofill-optimize?hl=zh_cn
--https://developer.android.com/guide/topics/text/autofill-optimize?hl=id
--https://developer.android.com/guide/topics/text/autofill-optimize?hl=ja
--https://developer.android.com/guide/topics/text/autofill-optimize?hl=ko
--https://developer.android.com/guide/topics/text/autofill-optimize?hl=pt_br
--https://developer.android.com/guide/topics/media/media-codecs
--https://developer.android.com/guide/topics/media/media-codecs?hl=es_419
--https://developer.android.com/guide/topics/media/media-codecs?hl=zh_cn
--https://developer.android.com/guide/topics/media/media-codecs?hl=id
--https://developer.android.com/guide/topics/media/media-codecs?hl=ja
--https://developer.android.com/guide/topics/media/media-codecs?hl=ko
--https://developer.android.com/guide/topics/media/media-codecs?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-swipe-view-2
--https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=ko
--https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=es-419
--https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=pt-br
--https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=id
--https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=ja
--https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/NetworkException
--https://developer.android.com/guide/topics/manifest/action-element
--https://developer.android.com/guide/topics/manifest/action-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/action-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/action-element?hl=id
--https://developer.android.com/guide/topics/manifest/action-element?hl=ja
--https://developer.android.com/guide/topics/manifest/action-element?hl=ko
--https://developer.android.com/guide/topics/manifest/action-element?hl=pt_br
--https://developer.android.com/guide/topics/text/creating-input-method
--https://developer.android.com/guide/topics/text/creating-input-method?hl=es_419
--https://developer.android.com/guide/topics/text/creating-input-method?hl=zh_cn
--https://developer.android.com/guide/topics/text/creating-input-method?hl=id
--https://developer.android.com/guide/topics/text/creating-input-method?hl=ja
--https://developer.android.com/guide/topics/text/creating-input-method?hl=ko
--https://developer.android.com/guide/topics/text/creating-input-method?hl=pt_br
--https://developer.android.com/guide/webapps/migrating
--https://developer.android.com/guide/webapps/migrating?hl=id
--https://developer.android.com/guide/webapps/migrating?hl=ja
--https://developer.android.com/guide/webapps/migrating?hl=ko
--https://developer.android.com/guide/webapps/migrating?hl=pt_br
--https://developer.android.com/guide/webapps/migrating?hl=zh_cn
--https://developer.android.com/guide/webapps/migrating?hl=es_419
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=es_419
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=id
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=ja
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=ko
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=zh_cn
--https://developer.android.com/guide/topics/renderscript/reference/rs_time
--https://developer.android.com/guide/playcore/play-feature-delivery
--https://developer.android.com/guide/topics/data/keyvaluebackup
--https://developer.android.com/guide/topics/data/keyvaluebackup?hl=es_419
--https://developer.android.com/guide/topics/data/keyvaluebackup?hl=zh_cn
--https://developer.android.com/guide/topics/data/keyvaluebackup?hl=id
--https://developer.android.com/guide/topics/data/keyvaluebackup?hl=ja
--https://developer.android.com/guide/topics/data/keyvaluebackup?hl=ko
--https://developer.android.com/guide/topics/data/keyvaluebackup?hl=pt_br
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=ko
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=es-419
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=pt-br
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=id
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=ja
--https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=zh-cn
--https://developer.android.com/guide/topics/sensors/sensors_environment
--https://developer.android.com/guide/topics/sensors/sensors_environment?hl=es_419
--https://developer.android.com/guide/topics/sensors/sensors_environment?hl=zh_cn
--https://developer.android.com/guide/topics/sensors/sensors_environment?hl=id
--https://developer.android.com/guide/topics/sensors/sensors_environment?hl=ja
--https://developer.android.com/guide/topics/sensors/sensors_environment?hl=ko
--https://developer.android.com/guide/topics/sensors/sensors_environment?hl=pt_br
--https://developer.android.com/guide/topics/text/image-keyboard
--https://developer.android.com/guide/topics/text/image-keyboard?hl=es_419
--https://developer.android.com/guide/topics/text/image-keyboard?hl=zh_cn
--https://developer.android.com/guide/topics/text/image-keyboard?hl=id
--https://developer.android.com/guide/topics/text/image-keyboard?hl=ja
--https://developer.android.com/guide/topics/text/image-keyboard?hl=ko
--https://developer.android.com/guide/topics/text/image-keyboard?hl=pt_br
--https://developer.android.com/guide/topics/search/adding-custom-suggestions
--https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=es_419
--https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=id
--https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=ja
--https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=ko
--https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=pt_br
--https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=zh_cn
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=ko
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=es-419
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=pt-br
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=id
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=ja
--https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=zh-cn
--https://developer.android.com/guide/topics/sensors/sensors_overview
--https://developer.android.com/guide/topics/sensors/sensors_overview?hl=es_419
--https://developer.android.com/guide/topics/sensors/sensors_overview?hl=zh_cn
--https://developer.android.com/guide/topics/sensors/sensors_overview?hl=id
--https://developer.android.com/guide/topics/sensors/sensors_overview?hl=ja
--https://developer.android.com/guide/topics/sensors/sensors_overview?hl=ko
--https://developer.android.com/guide/topics/sensors/sensors_overview?hl=pt_br
--https://developer.android.com/guide/topics/sensors/sensors_position
--https://developer.android.com/guide/topics/sensors/sensors_position?hl=es_419
--https://developer.android.com/guide/topics/sensors/sensors_position?hl=zh_cn
--https://developer.android.com/guide/topics/sensors/sensors_position?hl=id
--https://developer.android.com/guide/topics/sensors/sensors_position?hl=ja
--https://developer.android.com/guide/topics/sensors/sensors_position?hl=ko
--https://developer.android.com/guide/topics/sensors/sensors_position?hl=pt_br
--https://developer.android.com/guide/topics/providers/calendar-provider
--https://developer.android.com/guide/topics/providers/calendar-provider?hl=es-419
--https://developer.android.com/guide/topics/providers/calendar-provider?hl=zh-cn
--https://developer.android.com/guide/topics/providers/calendar-provider?hl=id
--https://developer.android.com/guide/topics/providers/calendar-provider?hl=ja
--https://developer.android.com/guide/topics/providers/calendar-provider?hl=ko
--https://developer.android.com/guide/topics/providers/calendar-provider?hl=pt-br
--https://developer.android.com/guide/components/activities/state-changes
--https://developer.android.com/guide/components/activities/state-changes?hl=es_419
--https://developer.android.com/guide/components/activities/state-changes?hl=id
--https://developer.android.com/guide/components/activities/state-changes?hl=ja
--https://developer.android.com/guide/components/activities/state-changes?hl=ko
--https://developer.android.com/guide/components/activities/state-changes?hl=pt_br
--https://developer.android.com/guide/components/activities/state-changes?hl=zh_cn
--https://developer.android.com/guide/topics/providers/content-providers
--https://developer.android.com/guide/topics/providers/content-providers?hl=es-419
--https://developer.android.com/guide/topics/providers/content-providers?hl=zh-cn
--https://developer.android.com/guide/topics/providers/content-providers?hl=id
--https://developer.android.com/guide/topics/providers/content-providers?hl=ja
--https://developer.android.com/guide/topics/providers/content-providers?hl=ko
--https://developer.android.com/guide/topics/providers/content-providers?hl=pt-br
--https://developer.android.com/guide/topics/graphics/spring-animation
--https://developer.android.com/guide/topics/graphics/spring-animation?hl=es_419
--https://developer.android.com/guide/topics/graphics/spring-animation?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/spring-animation?hl=id
--https://developer.android.com/guide/topics/graphics/spring-animation?hl=ja
--https://developer.android.com/guide/topics/graphics/spring-animation?hl=ko
--https://developer.android.com/guide/topics/graphics/spring-animation?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_io
--https://developer.android.com/guide/topics/ui/controls/pickers
--https://developer.android.com/guide/fragments/transactions
--https://developer.android.com/guide/app-bundle/instant-delivery
--https://developer.android.com/guide/app-bundle/instant-delivery?hl=id
--https://developer.android.com/guide/app-bundle/instant-delivery?hl=ja
--https://developer.android.com/guide/app-bundle/instant-delivery?hl=pt-br
--https://developer.android.com/guide/app-bundle/instant-delivery?hl=zh-cn
--https://developer.android.com/guide/app-bundle/instant-delivery?hl=ko
--https://developer.android.com/guide/app-bundle/instant-delivery?hl=es-419
--https://developer.android.com/guide/topics/resources/layout-resource
--https://developer.android.com/guide/topics/resources/layout-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/layout-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/layout-resource?hl=id
--https://developer.android.com/guide/topics/resources/layout-resource?hl=ja
--https://developer.android.com/guide/topics/resources/layout-resource?hl=ko
--https://developer.android.com/guide/topics/resources/layout-resource?hl=pt_br
--https://developer.android.com/guide/webapps/managing-webview
--https://developer.android.com/guide/webapps/managing-webview?hl=es_419
--https://developer.android.com/guide/webapps/managing-webview?hl=zh_cn
--https://developer.android.com/guide/webapps/managing-webview?hl=id
--https://developer.android.com/guide/webapps/managing-webview?hl=ja
--https://developer.android.com/guide/webapps/managing-webview?hl=ko
--https://developer.android.com/guide/webapps/managing-webview?hl=pt_br
--https://developer.android.com/guide/fragments/create
--https://developer.android.com/guide/topics/resources/multilingual-support
--https://developer.android.com/guide/topics/resources/multilingual-support?hl=es_419
--https://developer.android.com/guide/topics/resources/multilingual-support?hl=zh_cn
--https://developer.android.com/guide/topics/resources/multilingual-support?hl=id
--https://developer.android.com/guide/topics/resources/multilingual-support?hl=ja
--https://developer.android.com/guide/topics/resources/multilingual-support?hl=ko
--https://developer.android.com/guide/topics/resources/multilingual-support?hl=pt_br
--https://developer.android.com/guide/topics/resources/animation-resource
--https://developer.android.com/guide/topics/resources/animation-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/animation-resource?hl=id
--https://developer.android.com/guide/topics/resources/animation-resource?hl=ja
--https://developer.android.com/guide/topics/resources/animation-resource?hl=ko
--https://developer.android.com/guide/topics/resources/animation-resource?hl=pt_br
--https://developer.android.com/guide/topics/resources/animation-resource?hl=zh_cn
--https://developer.android.com/guide/app-bundle
--https://developer.android.com/guide/app-bundle?hl=id
--https://developer.android.com/guide/app-bundle?hl=ja
--https://developer.android.com/guide/app-bundle?hl=ko
--https://developer.android.com/guide/app-bundle?hl=pt_br
--https://developer.android.com/guide/app-bundle?hl=zh_cn
--https://developer.android.com/guide/app-bundle?hl=es_419
--https://developer.android.com/guide/webapps/debugging
--https://developer.android.com/guide/webapps/debugging?hl=id
--https://developer.android.com/guide/webapps/debugging?hl=ja
--https://developer.android.com/guide/webapps/debugging?hl=ko
--https://developer.android.com/guide/webapps/debugging?hl=pt_br
--https://developer.android.com/guide/webapps/debugging?hl=zh_cn
--https://developer.android.com/guide/webapps/debugging?hl=es_419
--https://developer.android.com/guide/topics/renderscript/reference/rs_graphics
--https://developer.android.com/guide/topics/ui/look-and-feel/themes
--https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=es_419
--https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=id
--https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=ja
--https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=ko
--https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CallbackException
--https://developer.android.com/guide/topics/ui/accessibility/principles
--https://developer.android.com/guide/topics/ui/accessibility/principles?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility/principles?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/principles?hl=id
--https://developer.android.com/guide/topics/ui/accessibility/principles?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility/principles?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility/principles?hl=pt_br
--https://developer.android.com/guide/topics/manifest/activity-element
--https://developer.android.com/guide/topics/manifest/activity-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/activity-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/activity-element?hl=id
--https://developer.android.com/guide/topics/manifest/activity-element?hl=ja
--https://developer.android.com/guide/topics/manifest/activity-element?hl=ko
--https://developer.android.com/guide/topics/manifest/activity-element?hl=pt_br
--https://developer.android.com/guide/fragments/animate
--https://developer.android.com/guide/topics/renderscript/reference/rs_allocation_create
--https://developer.android.com/guide/topics/media/mediarouteprovider
--https://developer.android.com/guide/topics/media/mediarouteprovider?hl=es_419
--https://developer.android.com/guide/topics/media/mediarouteprovider?hl=id
--https://developer.android.com/guide/topics/media/mediarouteprovider?hl=ja
--https://developer.android.com/guide/topics/media/mediarouteprovider?hl=ko
--https://developer.android.com/guide/topics/media/mediarouteprovider?hl=pt_br
--https://developer.android.com/guide/topics/media/mediarouteprovider?hl=zh_cn
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=es-419
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=ja
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=ko
--https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=id
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlResponseInfo
--https://developer.android.com/guide/topics/resources/color-list-resource
--https://developer.android.com/guide/topics/resources/color-list-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/color-list-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/color-list-resource?hl=id
--https://developer.android.com/guide/topics/resources/color-list-resource?hl=ja
--https://developer.android.com/guide/topics/resources/color-list-resource?hl=ko
--https://developer.android.com/guide/topics/resources/color-list-resource?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/wifi-suggest
--https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=es_419
--https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=id
--https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=pt_br
--https://developer.android.com/guide/topics/media/playback-capture
--https://developer.android.com/guide/topics/media/playback-capture?hl=es_419
--https://developer.android.com/guide/topics/media/playback-capture?hl=zh_cn
--https://developer.android.com/guide/topics/media/playback-capture?hl=id
--https://developer.android.com/guide/topics/media/playback-capture?hl=ja
--https://developer.android.com/guide/topics/media/playback-capture?hl=ko
--https://developer.android.com/guide/topics/media/playback-capture?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/telecom
--https://developer.android.com/guide/topics/connectivity/telecom?hl=es_419
--https://developer.android.com/guide/topics/connectivity/telecom?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/telecom?hl=id
--https://developer.android.com/guide/topics/connectivity/telecom?hl=ja
--https://developer.android.com/guide/topics/connectivity/telecom?hl=ko
--https://developer.android.com/guide/topics/connectivity/telecom?hl=pt_br
--https://developer.android.com/guide/topics/ui/ui-events
--https://developer.android.com/guide/topics/ui/ui-events?hl=es-419
--https://developer.android.com/guide/topics/ui/ui-events?hl=zh-cn
--https://developer.android.com/guide/topics/ui/ui-events?hl=id
--https://developer.android.com/guide/topics/ui/ui-events?hl=ja
--https://developer.android.com/guide/topics/ui/ui-events?hl=ko
--https://developer.android.com/guide/topics/ui/ui-events?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.Builder
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=es-419
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=id
--https://developer.android.com/guide/components/bound-services
--https://developer.android.com/guide/components/bound-services?hl=es-419
--https://developer.android.com/guide/components/bound-services?hl=zh-cn
--https://developer.android.com/guide/components/bound-services?hl=id
--https://developer.android.com/guide/components/bound-services?hl=ja
--https://developer.android.com/guide/components/bound-services?hl=ko
--https://developer.android.com/guide/components/bound-services?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/cronet
--https://developer.android.com/guide/topics/connectivity/cronet?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet?hl=id
--https://developer.android.com/guide/topics/connectivity/cronet?hl=ja
--https://developer.android.com/guide/topics/connectivity/cronet?hl=ko
--https://developer.android.com/guide/topics/connectivity/cronet?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet?hl=es_419
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=es-419
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=zh-cn
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=id
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=ja
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=ko
--https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=pt-br
--https://developer.android.com/guide/components/activities/background-starts
--https://developer.android.com/guide/components/activities/background-starts?hl=es_419
--https://developer.android.com/guide/components/activities/background-starts?hl=zh_cn
--https://developer.android.com/guide/components/activities/background-starts?hl=id
--https://developer.android.com/guide/components/activities/background-starts?hl=ja
--https://developer.android.com/guide/components/activities/background-starts?hl=ko
--https://developer.android.com/guide/components/activities/background-starts?hl=pt_br
--https://developer.android.com/guide/topics/manifest/provider-element
--https://developer.android.com/guide/topics/manifest/provider-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/provider-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/provider-element?hl=id
--https://developer.android.com/guide/topics/manifest/provider-element?hl=ja
--https://developer.android.com/guide/topics/manifest/provider-element?hl=ko
--https://developer.android.com/guide/topics/manifest/provider-element?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-programmatic
--https://developer.android.com/guide/navigation/navigation-programmatic?hl=es_419
--https://developer.android.com/guide/navigation/navigation-programmatic?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-programmatic?hl=id
--https://developer.android.com/guide/navigation/navigation-programmatic?hl=ja
--https://developer.android.com/guide/navigation/navigation-programmatic?hl=ko
--https://developer.android.com/guide/navigation/navigation-programmatic?hl=pt_br
--https://developer.android.com/guide/topics/search
--https://developer.android.com/guide/topics/search?hl=id
--https://developer.android.com/guide/topics/search?hl=es_419
--https://developer.android.com/guide/topics/search?hl=ja
--https://developer.android.com/guide/topics/search?hl=ko
--https://developer.android.com/guide/topics/search?hl=pt_br
--https://developer.android.com/guide/topics/search?hl=zh_cn
--https://developer.android.com/guide/components/aidl
--https://developer.android.com/guide/components/aidl?hl=es_419
--https://developer.android.com/guide/components/aidl?hl=zh_cn
--https://developer.android.com/guide/components/aidl?hl=id
--https://developer.android.com/guide/components/aidl?hl=ja
--https://developer.android.com/guide/components/aidl?hl=ko
--https://developer.android.com/guide/components/aidl?hl=pt_br
--https://developer.android.com/guide/topics/resources/font-resource
--https://developer.android.com/guide/topics/resources/font-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/font-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/font-resource?hl=id
--https://developer.android.com/guide/topics/resources/font-resource?hl=ja
--https://developer.android.com/guide/topics/resources/font-resource?hl=ko
--https://developer.android.com/guide/topics/resources/font-resource?hl=pt_br
--https://developer.android.com/guide/practices/verifying-apps-art
--https://developer.android.com/guide/practices/verifying-apps-art?hl=es_419
--https://developer.android.com/guide/practices/verifying-apps-art?hl=zh_cn
--https://developer.android.com/guide/practices/verifying-apps-art?hl=id
--https://developer.android.com/guide/practices/verifying-apps-art?hl=ja
--https://developer.android.com/guide/practices/verifying-apps-art?hl=ko
--https://developer.android.com/guide/practices/verifying-apps-art?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=es_419
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=id
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=ja
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=ko
--https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=pt_br
--https://developer.android.com/guide/playcore/license
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=id
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=ja
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=pt-br
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=zh-cn
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=ko
--https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=es-419
--https://developer.android.com/guide/topics/location/transitions
--https://developer.android.com/guide/topics/location/transitions?hl=es_419
--https://developer.android.com/guide/topics/location/transitions?hl=zh_cn
--https://developer.android.com/guide/topics/location/transitions?hl=id
--https://developer.android.com/guide/topics/location/transitions?hl=ja
--https://developer.android.com/guide/topics/location/transitions?hl=ko
--https://developer.android.com/guide/topics/location/transitions?hl=pt_br
--https://developer.android.com/guide/topics/providers/content-provider-basics
--https://developer.android.com/guide/topics/providers/content-provider-basics?hl=es-419
--https://developer.android.com/guide/topics/providers/content-provider-basics?hl=zh-cn
--https://developer.android.com/guide/topics/providers/content-provider-basics?hl=id
--https://developer.android.com/guide/topics/providers/content-provider-basics?hl=ja
--https://developer.android.com/guide/topics/providers/content-provider-basics?hl=ko
--https://developer.android.com/guide/topics/providers/content-provider-basics?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetException
--https://developer.android.com/guide/topics/graphics/drawables
--https://developer.android.com/guide/topics/graphics/drawables?hl=es_419
--https://developer.android.com/guide/topics/graphics/drawables?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/drawables?hl=id
--https://developer.android.com/guide/topics/graphics/drawables?hl=ja
--https://developer.android.com/guide/topics/graphics/drawables?hl=ko
--https://developer.android.com/guide/topics/graphics/drawables?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/wifi-rtt
--https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=es-419
--https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=id
--https://developer.android.com/guide/webapps/webview
--https://developer.android.com/guide/webapps/webview?hl=id
--https://developer.android.com/guide/webapps/webview?hl=ja
--https://developer.android.com/guide/webapps/webview?hl=ko
--https://developer.android.com/guide/webapps/webview?hl=pt_br
--https://developer.android.com/guide/webapps/webview?hl=zh_cn
--https://developer.android.com/guide/webapps/webview?hl=es_419
--https://developer.android.com/guide/topics/manifest/meta-data-element
--https://developer.android.com/guide/topics/manifest/meta-data-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/meta-data-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/meta-data-element?hl=id
--https://developer.android.com/guide/topics/manifest/meta-data-element?hl=ja
--https://developer.android.com/guide/topics/manifest/meta-data-element?hl=ko
--https://developer.android.com/guide/topics/manifest/meta-data-element?hl=pt_br
--https://developer.android.com/guide/background/threading
--https://developer.android.com/guide/background/threading?hl=ja
--https://developer.android.com/guide/background/threading?hl=pt-br
--https://developer.android.com/guide/background/threading?hl=ko
--https://developer.android.com/guide/background/threading?hl=es-419
--https://developer.android.com/guide/background/threading?hl=zh-cn
--https://developer.android.com/guide/background/threading?hl=id
--https://developer.android.com/guide/slices
--https://developer.android.com/guide/slices?hl=es_419
--https://developer.android.com/guide/slices?hl=zh_cn
--https://developer.android.com/guide/slices?hl=id
--https://developer.android.com/guide/slices?hl=ja
--https://developer.android.com/guide/slices?hl=ko
--https://developer.android.com/guide/slices?hl=pt_br
--https://developer.android.com/guide/topics/text/magnifier
--https://developer.android.com/guide/topics/text/magnifier?hl=es_419
--https://developer.android.com/guide/topics/text/magnifier?hl=zh_cn
--https://developer.android.com/guide/topics/text/magnifier?hl=id
--https://developer.android.com/guide/topics/text/magnifier?hl=ja
--https://developer.android.com/guide/topics/text/magnifier?hl=ko
--https://developer.android.com/guide/topics/text/magnifier?hl=pt_br
--https://developer.android.com/guide/practices/screens-distribution
--https://developer.android.com/guide/practices/screens-distribution?hl=es_419
--https://developer.android.com/guide/practices/screens-distribution?hl=pt_br
--https://developer.android.com/guide/practices/screens-distribution?hl=id
--https://developer.android.com/guide/practices/screens-distribution?hl=ja
--https://developer.android.com/guide/practices/screens-distribution?hl=ko
--https://developer.android.com/guide/practices/screens-distribution?hl=zh_cn
--https://developer.android.com/guide/app-bundle/test
--https://developer.android.com/guide/app-bundle/test?hl=id
--https://developer.android.com/guide/app-bundle/test?hl=ja
--https://developer.android.com/guide/app-bundle/test?hl=pt-br
--https://developer.android.com/guide/app-bundle/test?hl=zh-cn
--https://developer.android.com/guide/app-bundle/test?hl=ko
--https://developer.android.com/guide/app-bundle/test?hl=es-419
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=es_419
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=id
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=ja
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=ko
--https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=pt_br
--https://developer.android.com/guide/components/activities/testing
--https://developer.android.com/guide/components/activities/testing?hl=es_419
--https://developer.android.com/guide/components/activities/testing?hl=id
--https://developer.android.com/guide/components/activities/testing?hl=ja
--https://developer.android.com/guide/components/activities/testing?hl=ko
--https://developer.android.com/guide/components/activities/testing?hl=pt_br
--https://developer.android.com/guide/components/activities/testing?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-swipe-view
--https://developer.android.com/guide/navigation/navigation-swipe-view?hl=es_419
--https://developer.android.com/guide/navigation/navigation-swipe-view?hl=id
--https://developer.android.com/guide/navigation/navigation-swipe-view?hl=ja
--https://developer.android.com/guide/navigation/navigation-swipe-view?hl=ko
--https://developer.android.com/guide/navigation/navigation-swipe-view?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-swipe-view?hl=zh_cn
--https://developer.android.com/guide/components/loaders
--https://developer.android.com/guide/components/loaders?hl=es-419
--https://developer.android.com/guide/components/loaders?hl=zh-cn
--https://developer.android.com/guide/components/loaders?hl=id
--https://developer.android.com/guide/components/loaders?hl=ja
--https://developer.android.com/guide/components/loaders?hl=ko
--https://developer.android.com/guide/components/loaders?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.StatusListener
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=id
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=ja
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=ko
--https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=pt_br
--https://developer.android.com/guide/app-bundle/on-demand-delivery
--https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=id
--https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=ja
--https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=pt-br
--https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=zh-cn
--https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=ko
--https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=es-419
--https://developer.android.com/guide/app-bundle/ux-guidelines
--https://developer.android.com/guide/app-bundle/ux-guidelines?hl=id
--https://developer.android.com/guide/app-bundle/ux-guidelines?hl=ja
--https://developer.android.com/guide/app-bundle/ux-guidelines?hl=pt-br
--https://developer.android.com/guide/app-bundle/ux-guidelines?hl=zh-cn
--https://developer.android.com/guide/app-bundle/ux-guidelines?hl=ko
--https://developer.android.com/guide/app-bundle/ux-guidelines?hl=es-419
--https://developer.android.com/guide/appendix/faq/troubleshooting
--https://developer.android.com/guide/appendix/faq/troubleshooting?hl=es_419
--https://developer.android.com/guide/appendix/faq/troubleshooting?hl=zh_cn
--https://developer.android.com/guide/appendix/faq/troubleshooting?hl=id
--https://developer.android.com/guide/appendix/faq/troubleshooting?hl=ja
--https://developer.android.com/guide/appendix/faq/troubleshooting?hl=ko
--https://developer.android.com/guide/appendix/faq/troubleshooting?hl=pt_br
--https://developer.android.com/guide/topics/manifest/uses-sdk-element
--https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=id
--https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=ko
--https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-focus
--https://developer.android.com/guide/topics/media-apps/audio-focus?hl=es_419
--https://developer.android.com/guide/topics/media-apps/audio-focus?hl=id
--https://developer.android.com/guide/topics/media-apps/audio-focus?hl=ja
--https://developer.android.com/guide/topics/media-apps/audio-focus?hl=ko
--https://developer.android.com/guide/topics/media-apps/audio-focus?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-focus?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/QuicException
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.Status
--https://developer.android.com/guide/topics/resources/style-resource
--https://developer.android.com/guide/topics/resources/style-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/style-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/style-resource?hl=id
--https://developer.android.com/guide/topics/resources/style-resource?hl=ja
--https://developer.android.com/guide/topics/resources/style-resource?hl=ko
--https://developer.android.com/guide/topics/resources/style-resource?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_matrix
--https://developer.android.com/guide/platform
--https://developer.android.com/guide/platform?hl=es_419
--https://developer.android.com/guide/platform?hl=zh_cn
--https://developer.android.com/guide/platform?hl=id
--https://developer.android.com/guide/platform?hl=ja
--https://developer.android.com/guide/platform?hl=ko
--https://developer.android.com/guide/platform?hl=pt_br
--https://developer.android.com/guide/fragments/lifecycle
--https://developer.android.com/guide/playcore/asset-delivery
--https://developer.android.com/guide/playcore/asset-delivery?hl=pt-br
--https://developer.android.com/guide/playcore/asset-delivery?hl=ko
--https://developer.android.com/guide/playcore/asset-delivery?hl=es-419
--https://developer.android.com/guide/playcore/asset-delivery?hl=ja
--https://developer.android.com/guide/playcore/asset-delivery?hl=id
--https://developer.android.com/guide/playcore/asset-delivery?hl=zh-cn
--https://developer.android.com/guide/topics/ui/accessibility/custom-views
--https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=id
--https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=pt_br
--https://developer.android.com/guide/topics/manifest/category-element
--https://developer.android.com/guide/topics/manifest/category-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/category-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/category-element?hl=id
--https://developer.android.com/guide/topics/manifest/category-element?hl=ja
--https://developer.android.com/guide/topics/manifest/category-element?hl=ko
--https://developer.android.com/guide/topics/manifest/category-element?hl=pt_br
--https://developer.android.com/guide/topics/graphics/view-animation
--https://developer.android.com/guide/topics/graphics/view-animation?hl=es_419
--https://developer.android.com/guide/topics/graphics/view-animation?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/view-animation?hl=id
--https://developer.android.com/guide/topics/graphics/view-animation?hl=ja
--https://developer.android.com/guide/topics/graphics/view-animation?hl=ko
--https://developer.android.com/guide/topics/graphics/view-animation?hl=pt_br
--https://developer.android.com/guide/topics/media/frame-rate
--https://developer.android.com/guide/navigation/navigation-config-changes
--https://developer.android.com/guide/navigation/navigation-config-changes?hl=pt-br
--https://developer.android.com/guide/navigation/navigation-config-changes?hl=ko
--https://developer.android.com/guide/navigation/navigation-config-changes?hl=es-419
--https://developer.android.com/guide/navigation/navigation-config-changes?hl=ja
--https://developer.android.com/guide/navigation/navigation-config-changes?hl=id
--https://developer.android.com/guide/navigation/navigation-config-changes?hl=zh-cn
--https://developer.android.com/guide/topics/media/sharing-audio-input
--https://developer.android.com/guide/topics/media/sharing-audio-input?hl=es_419
--https://developer.android.com/guide/topics/media/sharing-audio-input?hl=zh_cn
--https://developer.android.com/guide/topics/media/sharing-audio-input?hl=id
--https://developer.android.com/guide/topics/media/sharing-audio-input?hl=ja
--https://developer.android.com/guide/topics/media/sharing-audio-input?hl=ko
--https://developer.android.com/guide/topics/media/sharing-audio-input?hl=pt_br
--https://developer.android.com/guide/topics/security/cryptography
--https://developer.android.com/guide/topics/security/cryptography?hl=es_419
--https://developer.android.com/guide/topics/security/cryptography?hl=zh_cn
--https://developer.android.com/guide/topics/security/cryptography?hl=id
--https://developer.android.com/guide/topics/security/cryptography?hl=ja
--https://developer.android.com/guide/topics/security/cryptography?hl=ko
--https://developer.android.com/guide/topics/security/cryptography?hl=pt_br
--https://developer.android.com/guide/webapps
--https://developer.android.com/guide/webapps?hl=id
--https://developer.android.com/guide/webapps?hl=ja
--https://developer.android.com/guide/webapps?hl=ko
--https://developer.android.com/guide/webapps?hl=pt_br
--https://developer.android.com/guide/webapps?hl=zh_cn
--https://developer.android.com/guide/webapps?hl=es_419
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=es_419
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=id
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=ja
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=ko
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=zh_cn
--https://developer.android.com/guide/fragments/saving-state
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=es_419
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=id
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=ja
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=ko
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=zh_cn
--https://developer.android.com/guide/components/processes-and-threads
--https://developer.android.com/guide/components/processes-and-threads?hl=es-419
--https://developer.android.com/guide/components/processes-and-threads?hl=zh-cn
--https://developer.android.com/guide/components/processes-and-threads?hl=id
--https://developer.android.com/guide/components/processes-and-threads?hl=ja
--https://developer.android.com/guide/components/processes-and-threads?hl=ko
--https://developer.android.com/guide/components/processes-and-threads?hl=pt-br
--https://developer.android.com/guide/topics/ui/how-android-draws
--https://developer.android.com/guide/topics/ui/how-android-draws?hl=es_419
--https://developer.android.com/guide/topics/ui/how-android-draws?hl=zh_cn
--https://developer.android.com/guide/topics/ui/how-android-draws?hl=id
--https://developer.android.com/guide/topics/ui/how-android-draws?hl=ja
--https://developer.android.com/guide/topics/ui/how-android-draws?hl=ko
--https://developer.android.com/guide/topics/ui/how-android-draws?hl=pt_br
--https://developer.android.com/guide/topics/ui/conversations
--https://developer.android.com/guide/topics/ui/conversations?hl=pt-br
--https://developer.android.com/guide/topics/ui/conversations?hl=ja
--https://developer.android.com/guide/topics/ui/conversations?hl=ko
--https://developer.android.com/guide/topics/ui/conversations?hl=es-419
--https://developer.android.com/guide/topics/ui/conversations?hl=id
--https://developer.android.com/guide/topics/ui/conversations?hl=zh-cn
--https://developer.android.com/guide/topics/connectivity/localonlyhotspot
--https://developer.android.com/guide/topics/connectivity/bluetooth
--https://developer.android.com/guide/topics/connectivity/bluetooth?hl=es_419
--https://developer.android.com/guide/topics/connectivity/bluetooth?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/bluetooth?hl=id
--https://developer.android.com/guide/topics/connectivity/bluetooth?hl=ja
--https://developer.android.com/guide/topics/connectivity/bluetooth?hl=ko
--https://developer.android.com/guide/topics/connectivity/bluetooth?hl=pt_br
--https://developer.android.com/guide/topics/resources/string-resource
--https://developer.android.com/guide/topics/resources/string-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/string-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/string-resource?hl=id
--https://developer.android.com/guide/topics/resources/string-resource?hl=ja
--https://developer.android.com/guide/topics/resources/string-resource?hl=ko
--https://developer.android.com/guide/topics/resources/string-resource?hl=pt_br
--https://developer.android.com/guide/webapps/webview-privacy
--https://developer.android.com/guide/topics/ui/layout/grid
--https://developer.android.com/guide/topics/ui/layout/grid?hl=es_419
--https://developer.android.com/guide/topics/ui/layout/grid?hl=zh_cn
--https://developer.android.com/guide/topics/ui/layout/grid?hl=id
--https://developer.android.com/guide/topics/ui/layout/grid?hl=ja
--https://developer.android.com/guide/topics/ui/layout/grid?hl=ko
--https://developer.android.com/guide/topics/ui/layout/grid?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet/reference
--https://developer.android.com/guide/topics/ui/accessibility/service
--https://developer.android.com/guide/topics/ui/accessibility/service?hl=id
--https://developer.android.com/guide/topics/ui/accessibility/service?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility/service?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/service?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility/service?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility/service?hl=pt_br
--https://developer.android.com/guide/topics/ui/controls/spinner
--https://developer.android.com/guide/topics/ui/controls/spinner?hl=es_419
--https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh_cn
--https://developer.android.com/guide/topics/ui/controls/spinner?hl=id
--https://developer.android.com/guide/topics/ui/controls/spinner?hl=ja
--https://developer.android.com/guide/topics/ui/controls/spinner?hl=ko
--https://developer.android.com/guide/topics/ui/controls/spinner?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/wifi-save-network-passpoint-config
--https://developer.android.com/guide/topics/resources/runtime-changes
--https://developer.android.com/guide/topics/resources/runtime-changes?hl=es-419
--https://developer.android.com/guide/topics/resources/runtime-changes?hl=zh-cn
--https://developer.android.com/guide/topics/resources/runtime-changes?hl=id
--https://developer.android.com/guide/topics/resources/runtime-changes?hl=ja
--https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko
--https://developer.android.com/guide/topics/resources/runtime-changes?hl=pt-br
--https://developer.android.com/guide/topics/data
--https://developer.android.com/guide/topics/data?hl=id
--https://developer.android.com/guide/topics/data?hl=es_419
--https://developer.android.com/guide/topics/data?hl=zh_cn
--https://developer.android.com/guide/topics/data?hl=ja
--https://developer.android.com/guide/topics/data?hl=ko
--https://developer.android.com/guide/topics/data?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/media-apps-overview
--https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=es_419
--https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=id
--https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=ja
--https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=ko
--https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=zh_cn
--https://developer.android.com/guide/topics/sensors/sensors_motion
--https://developer.android.com/guide/topics/sensors/sensors_motion?hl=es_419
--https://developer.android.com/guide/topics/sensors/sensors_motion?hl=zh_cn
--https://developer.android.com/guide/topics/sensors/sensors_motion?hl=id
--https://developer.android.com/guide/topics/sensors/sensors_motion?hl=ja
--https://developer.android.com/guide/topics/sensors/sensors_motion?hl=ko
--https://developer.android.com/guide/topics/sensors/sensors_motion?hl=pt_br
--https://developer.android.com/guide/topics/ui/settings
--https://developer.android.com/guide/topics/ui/settings?hl=id
--https://developer.android.com/guide/topics/ui/settings?hl=es-419
--https://developer.android.com/guide/topics/ui/settings?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings?hl=ja
--https://developer.android.com/guide/topics/ui/settings?hl=ko
--https://developer.android.com/guide/topics/ui/settings?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/cronet/start
--https://developer.android.com/guide/topics/connectivity/cronet/start?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/start?hl=id
--https://developer.android.com/guide/topics/connectivity/cronet/start?hl=ja
--https://developer.android.com/guide/topics/connectivity/cronet/start?hl=ko
--https://developer.android.com/guide/topics/connectivity/cronet/start?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet/start?hl=es_419
--https://developer.android.com/guide/samples
--https://developer.android.com/guide/components/intents-common
--https://developer.android.com/guide/components/intents-common?hl=es_419
--https://developer.android.com/guide/components/intents-common?hl=zh_cn
--https://developer.android.com/guide/components/intents-common?hl=id
--https://developer.android.com/guide/components/intents-common?hl=ja
--https://developer.android.com/guide/components/intents-common?hl=ko
--https://developer.android.com/guide/components/intents-common?hl=pt_br
--https://developer.android.com/guide/topics/media/media-formats
--https://developer.android.com/guide/topics/media/media-formats?hl=es_419
--https://developer.android.com/guide/topics/media/media-formats?hl=id
--https://developer.android.com/guide/topics/media/media-formats?hl=ja
--https://developer.android.com/guide/topics/media/media-formats?hl=ko
--https://developer.android.com/guide/topics/media/media-formats?hl=pt_br
--https://developer.android.com/guide/topics/media/media-formats?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-design-graph
--https://developer.android.com/guide/navigation/navigation-design-graph?hl=es_419
--https://developer.android.com/guide/navigation/navigation-design-graph?hl=id
--https://developer.android.com/guide/navigation/navigation-design-graph?hl=ja
--https://developer.android.com/guide/navigation/navigation-design-graph?hl=ko
--https://developer.android.com/guide/navigation/navigation-design-graph?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-design-graph?hl=zh_cn
--https://developer.android.com/guide/app-bundle/asset-delivery
--https://developer.android.com/guide/app-bundle/asset-delivery?hl=zh-cn
--https://developer.android.com/guide/app-bundle/asset-delivery?hl=ja
--https://developer.android.com/guide/app-bundle/asset-delivery?hl=ko
--https://developer.android.com/guide/app-bundle/asset-delivery?hl=pt-br
--https://developer.android.com/guide/app-bundle/asset-delivery?hl=es-419
--https://developer.android.com/guide/app-bundle/asset-delivery?hl=id
--https://developer.android.com/guide/topics/renderscript/reference/overview
--https://developer.android.com/guide/background
--https://developer.android.com/guide/background?hl=id
--https://developer.android.com/guide/background?hl=ja
--https://developer.android.com/guide/background?hl=ko
--https://developer.android.com/guide/background?hl=pt_br
--https://developer.android.com/guide/background?hl=zh_cn
--https://developer.android.com/guide/background?hl=es_419
--https://developer.android.com/guide/topics/renderscript/reference/rs_atomic
--https://developer.android.com/guide/topics/ui/shortcuts
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetEngine.Builder
--https://developer.android.com/guide/topics/manifest/intent-filter-element
--https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=id
--https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=ja
--https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=ko
--https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=pt_br
--https://developer.android.com/guide/slices/templates
--https://developer.android.com/guide/slices/templates?hl=es_419
--https://developer.android.com/guide/slices/templates?hl=zh_cn
--https://developer.android.com/guide/slices/templates?hl=id
--https://developer.android.com/guide/slices/templates?hl=ja
--https://developer.android.com/guide/slices/templates?hl=ko
--https://developer.android.com/guide/slices/templates?hl=pt_br
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=es_419
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=id
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=ja
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=ko
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=pt_br
--https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=zh_cn
--https://developer.android.com/guide/topics/ui/foldables
--https://developer.android.com/guide/topics/ui/foldables?hl=es_419
--https://developer.android.com/guide/topics/ui/foldables?hl=zh_cn
--https://developer.android.com/guide/topics/ui/foldables?hl=id
--https://developer.android.com/guide/topics/ui/foldables?hl=ja
--https://developer.android.com/guide/topics/ui/foldables?hl=ko
--https://developer.android.com/guide/topics/ui/foldables?hl=pt_br
--https://developer.android.com/guide/topics/media/media-routing
--https://developer.android.com/guide/topics/media/media-routing?hl=es_419
--https://developer.android.com/guide/topics/media/media-routing?hl=id
--https://developer.android.com/guide/topics/media/media-routing?hl=ja
--https://developer.android.com/guide/topics/media/media-routing?hl=ko
--https://developer.android.com/guide/topics/media/media-routing?hl=pt_br
--https://developer.android.com/guide/topics/media/media-routing?hl=zh_cn
--https://developer.android.com/guide/topics/ui/dialogs
--https://developer.android.com/guide/topics/ui/dialogs?hl=es-419
--https://developer.android.com/guide/topics/ui/dialogs?hl=zh-cn
--https://developer.android.com/guide/topics/ui/dialogs?hl=id
--https://developer.android.com/guide/topics/ui/dialogs?hl=ja
--https://developer.android.com/guide/topics/ui/dialogs?hl=ko
--https://developer.android.com/guide/topics/ui/dialogs?hl=pt-br
--https://developer.android.com/guide/topics/manifest/uses-permission-element
--https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=id
--https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=ko
--https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=pt_br
--https://developer.android.com/guide/topics/graphics
--https://developer.android.com/guide/topics/graphics?hl=id
--https://developer.android.com/guide/topics/graphics?hl=es_419
--https://developer.android.com/guide/topics/graphics?hl=zh_cn
--https://developer.android.com/guide/topics/graphics?hl=ja
--https://developer.android.com/guide/topics/graphics?hl=ko
--https://developer.android.com/guide/topics/graphics?hl=pt_br
--https://developer.android.com/guide/topics/ui/tooltips
--https://developer.android.com/guide/topics/ui/tooltips?hl=es_419
--https://developer.android.com/guide/topics/ui/tooltips?hl=zh_cn
--https://developer.android.com/guide/topics/ui/tooltips?hl=id
--https://developer.android.com/guide/topics/ui/tooltips?hl=ja
--https://developer.android.com/guide/topics/ui/tooltips?hl=ko
--https://developer.android.com/guide/topics/ui/tooltips?hl=pt_br
--https://developer.android.com/guide/topics/media/mediarecorder
--https://developer.android.com/guide/topics/media/mediarecorder?hl=es_419
--https://developer.android.com/guide/topics/media/mediarecorder?hl=id
--https://developer.android.com/guide/topics/media/mediarecorder?hl=ja
--https://developer.android.com/guide/topics/media/mediarecorder?hl=ko
--https://developer.android.com/guide/topics/media/mediarecorder?hl=pt_br
--https://developer.android.com/guide/topics/media/mediarecorder?hl=zh_cn
--https://developer.android.com/guide/topics/ui/notifiers/toasts
--https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=es-419
--https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=zh-cn
--https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=id
--https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=ja
--https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=ko
--https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=pt-br
--https://developer.android.com/guide/topics/ui/multi-window
--https://developer.android.com/guide/topics/ui/multi-window?hl=es-419
--https://developer.android.com/guide/topics/ui/multi-window?hl=zh-cn
--https://developer.android.com/guide/topics/ui/multi-window?hl=id
--https://developer.android.com/guide/topics/ui/multi-window?hl=ja
--https://developer.android.com/guide/topics/ui/multi-window?hl=ko
--https://developer.android.com/guide/topics/ui/multi-window?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=es-419
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=ja
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=ko
--https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=id
--https://developer.android.com/guide/navigation/navigation-dynamic
--https://developer.android.com/guide/navigation/navigation-dynamic?hl=ko
--https://developer.android.com/guide/navigation/navigation-dynamic?hl=es-419
--https://developer.android.com/guide/navigation/navigation-dynamic?hl=pt-br
--https://developer.android.com/guide/navigation/navigation-dynamic?hl=id
--https://developer.android.com/guide/navigation/navigation-dynamic?hl=ja
--https://developer.android.com/guide/navigation/navigation-dynamic?hl=zh-cn
--https://developer.android.com/guide/navigation/navigation-pass-data
--https://developer.android.com/guide/navigation/navigation-pass-data?hl=es_419
--https://developer.android.com/guide/navigation/navigation-pass-data?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-pass-data?hl=id
--https://developer.android.com/guide/navigation/navigation-pass-data?hl=ja
--https://developer.android.com/guide/navigation/navigation-pass-data?hl=ko
--https://developer.android.com/guide/navigation/navigation-pass-data?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_math
--https://developer.android.com/guide/topics/data/audit-access
--https://developer.android.com/guide/topics/data/audit-access?hl=pt-br
--https://developer.android.com/guide/topics/data/audit-access?hl=ko
--https://developer.android.com/guide/topics/data/audit-access?hl=es-419
--https://developer.android.com/guide/topics/data/audit-access?hl=ja
--https://developer.android.com/guide/topics/data/audit-access?hl=id
--https://developer.android.com/guide/topics/data/audit-access?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=es-419
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=ja
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=ko
--https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=id
--https://developer.android.com/guide/topics/ui/declaring-layout
--https://developer.android.com/guide/topics/ui/declaring-layout?hl=es-419
--https://developer.android.com/guide/topics/ui/declaring-layout?hl=zh-cn
--https://developer.android.com/guide/topics/ui/declaring-layout?hl=id
--https://developer.android.com/guide/topics/ui/declaring-layout?hl=ja
--https://developer.android.com/guide/topics/ui/declaring-layout?hl=ko
--https://developer.android.com/guide/topics/ui/declaring-layout?hl=pt-br
--https://developer.android.com/guide/topics/renderscript/reference/rs_debug
--https://developer.android.com/guide/topics/media/mediaplayer
--https://developer.android.com/guide/topics/media/mediaplayer?hl=es_419
--https://developer.android.com/guide/topics/media/mediaplayer?hl=id
--https://developer.android.com/guide/topics/media/mediaplayer?hl=ja
--https://developer.android.com/guide/topics/media/mediaplayer?hl=ko
--https://developer.android.com/guide/topics/media/mediaplayer?hl=pt_br
--https://developer.android.com/guide/topics/media/mediaplayer?hl=zh_cn
--https://developer.android.com/guide/navigation
--https://developer.android.com/guide/navigation?hl=es_419
--https://developer.android.com/guide/navigation?hl=zh_cn
--https://developer.android.com/guide/navigation?hl=id
--https://developer.android.com/guide/navigation?hl=ja
--https://developer.android.com/guide/navigation?hl=ko
--https://developer.android.com/guide/navigation?hl=pt_br
--https://developer.android.com/guide/topics/ui/layout/recyclerview-custom
--https://developer.android.com/guide/topics/graphics/hardware-accel
--https://developer.android.com/guide/topics/graphics/hardware-accel?hl=es_419
--https://developer.android.com/guide/topics/graphics/hardware-accel?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/hardware-accel?hl=id
--https://developer.android.com/guide/topics/graphics/hardware-accel?hl=ja
--https://developer.android.com/guide/topics/graphics/hardware-accel?hl=ko
--https://developer.android.com/guide/topics/graphics/hardware-accel?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_convert
--https://developer.android.com/guide/navigation/navigation-ui
--https://developer.android.com/guide/navigation/navigation-ui?hl=es_419
--https://developer.android.com/guide/navigation/navigation-ui?hl=id
--https://developer.android.com/guide/navigation/navigation-ui?hl=ja
--https://developer.android.com/guide/navigation/navigation-ui?hl=ko
--https://developer.android.com/guide/navigation/navigation-ui?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-ui?hl=zh_cn
--https://developer.android.com/guide/topics/permissions/defining
--https://developer.android.com/guide/topics/permissions/defining?hl=es_419
--https://developer.android.com/guide/topics/permissions/defining?hl=zh_cn
--https://developer.android.com/guide/topics/permissions/defining?hl=id
--https://developer.android.com/guide/topics/permissions/defining?hl=ja
--https://developer.android.com/guide/topics/permissions/defining?hl=ko
--https://developer.android.com/guide/topics/permissions/defining?hl=pt_br
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=pt-br
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=ko
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=es-419
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=ja
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=id
--https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=zh-cn
--https://developer.android.com/guide/topics/manifest/application-element
--https://developer.android.com/guide/topics/manifest/application-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/application-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/application-element?hl=id
--https://developer.android.com/guide/topics/manifest/application-element?hl=ja
--https://developer.android.com/guide/topics/manifest/application-element?hl=ko
--https://developer.android.com/guide/topics/manifest/application-element?hl=pt_br
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=ko
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=es-419
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=pt-br
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=id
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=ja
--https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=zh-cn
--https://developer.android.com/guide/practices/compatibility
--https://developer.android.com/guide/practices/compatibility?hl=es_419
--https://developer.android.com/guide/practices/compatibility?hl=id
--https://developer.android.com/guide/practices/compatibility?hl=ja
--https://developer.android.com/guide/practices/compatibility?hl=ko
--https://developer.android.com/guide/practices/compatibility?hl=pt_br
--https://developer.android.com/guide/practices/compatibility?hl=zh_cn
--https://developer.android.com/guide/app-bundle/play-feature-delivery
--https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=ko
--https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=pt-br
--https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=es-419
--https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=zh-cn
--https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=ja
--https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=id
--https://developer.android.com/guide/topics/manifest/uses-library-element
--https://developer.android.com/guide/topics/manifest/uses-library-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/uses-library-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-library-element?hl=id
--https://developer.android.com/guide/topics/manifest/uses-library-element?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-library-element?hl=ko
--https://developer.android.com/guide/topics/manifest/uses-library-element?hl=pt_br
--https://developer.android.com/guide/playcore/in-app-review
--https://developer.android.com/guide/playcore/in-app-review?hl=ko
--https://developer.android.com/guide/playcore/in-app-review?hl=es-419
--https://developer.android.com/guide/playcore/in-app-review?hl=pt-br
--https://developer.android.com/guide/playcore/in-app-review?hl=id
--https://developer.android.com/guide/playcore/in-app-review?hl=ja
--https://developer.android.com/guide/playcore/in-app-review?hl=zh-cn
--https://developer.android.com/guide/topics/ui/menus
--https://developer.android.com/guide/topics/ui/menus?hl=es-419
--https://developer.android.com/guide/topics/ui/menus?hl=zh-cn
--https://developer.android.com/guide/topics/ui/menus?hl=id
--https://developer.android.com/guide/topics/ui/menus?hl=ja
--https://developer.android.com/guide/topics/ui/menus?hl=ko
--https://developer.android.com/guide/topics/ui/menus?hl=pt-br
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=es_419
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=zh_cn
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=id
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=ja
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=ko
--https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_object_info
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UploadDataSink
--https://developer.android.com/guide/topics/ui/bubbles
--https://developer.android.com/guide/topics/ui/bubbles?hl=es-419
--https://developer.android.com/guide/topics/ui/bubbles?hl=ja
--https://developer.android.com/guide/topics/ui/bubbles?hl=pt-br
--https://developer.android.com/guide/topics/ui/bubbles?hl=zh-cn
--https://developer.android.com/guide/navigation/navigation-principles
--https://developer.android.com/guide/navigation/navigation-principles?hl=es_419
--https://developer.android.com/guide/navigation/navigation-principles?hl=id
--https://developer.android.com/guide/navigation/navigation-principles?hl=ja
--https://developer.android.com/guide/navigation/navigation-principles?hl=ko
--https://developer.android.com/guide/navigation/navigation-principles?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-principles?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/nfc
--https://developer.android.com/guide/topics/connectivity/nfc?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/nfc?hl=id
--https://developer.android.com/guide/topics/connectivity/nfc?hl=ja
--https://developer.android.com/guide/topics/connectivity/nfc?hl=ko
--https://developer.android.com/guide/topics/connectivity/nfc?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/nfc?hl=es_419
--https://developer.android.com/guide/components/foreground-services
--https://developer.android.com/guide/topics/graphics/opengl
--https://developer.android.com/guide/topics/graphics/opengl?hl=es_419
--https://developer.android.com/guide/topics/graphics/opengl?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/opengl?hl=id
--https://developer.android.com/guide/topics/graphics/opengl?hl=ja
--https://developer.android.com/guide/topics/graphics/opengl?hl=ko
--https://developer.android.com/guide/topics/graphics/opengl?hl=pt_br
--https://developer.android.com/guide/topics/media/camera
--https://developer.android.com/guide/topics/media/camera?hl=es_419
--https://developer.android.com/guide/topics/media/camera?hl=zh_cn
--https://developer.android.com/guide/topics/media/camera?hl=id
--https://developer.android.com/guide/topics/media/camera?hl=ja
--https://developer.android.com/guide/topics/media/camera?hl=ko
--https://developer.android.com/guide/topics/media/camera?hl=pt_br
--https://developer.android.com/guide/topics/ui/controls/radiobutton
--https://developer.android.com/guide/practices/app-design/seamlessness
--https://developer.android.com/guide/practices/app-design/seamlessness?hl=es_419
--https://developer.android.com/guide/practices/app-design/seamlessness?hl=id
--https://developer.android.com/guide/practices/app-design/seamlessness?hl=ja
--https://developer.android.com/guide/practices/app-design/seamlessness?hl=ko
--https://developer.android.com/guide/practices/app-design/seamlessness?hl=pt_br
--https://developer.android.com/guide/practices/app-design/seamlessness?hl=zh_cn
--https://developer.android.com/guide/topics/media
--https://developer.android.com/guide/topics/media?hl=id
--https://developer.android.com/guide/topics/media?hl=es_419
--https://developer.android.com/guide/topics/media?hl=ja
--https://developer.android.com/guide/topics/media?hl=ko
--https://developer.android.com/guide/topics/media?hl=pt_br
--https://developer.android.com/guide/topics/media?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UploadDataProviders
--https://developer.android.com/guide/topics/connectivity/wifi-aware
--https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=es_419
--https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=id
--https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=ja
--https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=ko
--https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=zh_cn
--https://developer.android.com/guide/components/services
--https://developer.android.com/guide/components/services?hl=es-419
--https://developer.android.com/guide/components/services?hl=zh-cn
--https://developer.android.com/guide/components/services?hl=id
--https://developer.android.com/guide/components/services?hl=ja
--https://developer.android.com/guide/components/services?hl=ko
--https://developer.android.com/guide/components/services?hl=pt-br
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetEngine
--https://developer.android.com/guide/topics/text/copy-paste
--https://developer.android.com/guide/topics/text/copy-paste?hl=es_419
--https://developer.android.com/guide/topics/text/copy-paste?hl=zh_cn
--https://developer.android.com/guide/topics/text/copy-paste?hl=id
--https://developer.android.com/guide/topics/text/copy-paste?hl=ja
--https://developer.android.com/guide/topics/text/copy-paste?hl=ko
--https://developer.android.com/guide/topics/text/copy-paste?hl=pt_br
--https://developer.android.com/guide/topics/resources/drawable-resource
--https://developer.android.com/guide/topics/resources/drawable-resource?hl=es_419
--https://developer.android.com/guide/topics/resources/drawable-resource?hl=zh_cn
--https://developer.android.com/guide/topics/resources/drawable-resource?hl=id
--https://developer.android.com/guide/topics/resources/drawable-resource?hl=ja
--https://developer.android.com/guide/topics/resources/drawable-resource?hl=ko
--https://developer.android.com/guide/topics/resources/drawable-resource?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_allocation_data
--https://developer.android.com/guide/topics/ui/layout/linear
--https://developer.android.com/guide/topics/ui/layout/linear?hl=es_419
--https://developer.android.com/guide/topics/ui/layout/linear?hl=zh_cn
--https://developer.android.com/guide/topics/ui/layout/linear?hl=id
--https://developer.android.com/guide/topics/ui/layout/linear?hl=ja
--https://developer.android.com/guide/topics/ui/layout/linear?hl=ko
--https://developer.android.com/guide/topics/ui/layout/linear?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/nfc/nfc
--https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=id
--https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=ja
--https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=ko
--https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=es_419
--https://developer.android.com/guide/topics/manifest/permission-tree-element
--https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=id
--https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=ja
--https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=ko
--https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=pt_br
--https://developer.android.com/guide/appendix/faq/framework
--https://developer.android.com/guide/appendix/faq/framework?hl=es_419
--https://developer.android.com/guide/appendix/faq/framework?hl=zh_cn
--https://developer.android.com/guide/appendix/faq/framework?hl=id
--https://developer.android.com/guide/appendix/faq/framework?hl=ja
--https://developer.android.com/guide/appendix/faq/framework?hl=ko
--https://developer.android.com/guide/appendix/faq/framework?hl=pt_br
--https://developer.android.com/guide/topics/ui/accessibility/testing
--https://developer.android.com/guide/topics/ui/accessibility/testing?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility/testing?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/testing?hl=id
--https://developer.android.com/guide/topics/ui/accessibility/testing?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility/testing?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility/testing?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_for_each
--https://developer.android.com/guide/topics/media/volumeshaper
--https://developer.android.com/guide/topics/media/volumeshaper?hl=es_419
--https://developer.android.com/guide/topics/media/volumeshaper?hl=id
--https://developer.android.com/guide/topics/media/volumeshaper?hl=ja
--https://developer.android.com/guide/topics/media/volumeshaper?hl=ko
--https://developer.android.com/guide/topics/media/volumeshaper?hl=pt_br
--https://developer.android.com/guide/topics/media/volumeshaper?hl=zh_cn
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=zh-cn
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=pt-br
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=es-419
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=ja
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=ko
--https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=id
--https://developer.android.com/guide/topics/sensors
--https://developer.android.com/guide/topics/sensors?hl=id
--https://developer.android.com/guide/topics/sensors?hl=es_419
--https://developer.android.com/guide/topics/sensors?hl=zh_cn
--https://developer.android.com/guide/topics/sensors?hl=ja
--https://developer.android.com/guide/topics/sensors?hl=ko
--https://developer.android.com/guide/topics/sensors?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/usb
--https://developer.android.com/guide/topics/connectivity/usb?hl=es_419
--https://developer.android.com/guide/topics/connectivity/usb?hl=id
--https://developer.android.com/guide/topics/connectivity/usb?hl=ja
--https://developer.android.com/guide/topics/connectivity/usb?hl=ko
--https://developer.android.com/guide/topics/connectivity/usb?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/usb?hl=zh_cn
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=id
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=ja
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=pt-br
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=zh-cn
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=ko
--https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=es-419
--https://developer.android.com/guide/topics/resources/pseudolocales
--https://developer.android.com/guide/topics/resources/pseudolocales?hl=es_419
--https://developer.android.com/guide/topics/resources/pseudolocales?hl=zh_cn
--https://developer.android.com/guide/topics/resources/pseudolocales?hl=id
--https://developer.android.com/guide/topics/resources/pseudolocales?hl=ja
--https://developer.android.com/guide/topics/resources/pseudolocales?hl=ko
--https://developer.android.com/guide/topics/resources/pseudolocales?hl=pt_br
--https://developer.android.com/guide/topics/text/autofill-services
--https://developer.android.com/guide/topics/text/autofill-services?hl=es_419
--https://developer.android.com/guide/topics/text/autofill-services?hl=zh_cn
--https://developer.android.com/guide/topics/text/autofill-services?hl=id
--https://developer.android.com/guide/topics/text/autofill-services?hl=ja
--https://developer.android.com/guide/topics/text/autofill-services?hl=ko
--https://developer.android.com/guide/topics/text/autofill-services?hl=pt_br
--https://developer.android.com/guide/topics/display-cutout
--https://developer.android.com/guide/topics/display-cutout?hl=id
--https://developer.android.com/guide/topics/display-cutout?hl=es_419
--https://developer.android.com/guide/topics/display-cutout?hl=ja
--https://developer.android.com/guide/topics/display-cutout?hl=ko
--https://developer.android.com/guide/topics/display-cutout?hl=pt_br
--https://developer.android.com/guide/topics/display-cutout?hl=zh_cn
--https://developer.android.com/guide/topics/search/searchable-config
--https://developer.android.com/guide/topics/search/searchable-config?hl=es_419
--https://developer.android.com/guide/topics/search/searchable-config?hl=id
--https://developer.android.com/guide/topics/search/searchable-config?hl=ja
--https://developer.android.com/guide/topics/search/searchable-config?hl=ko
--https://developer.android.com/guide/topics/search/searchable-config?hl=pt_br
--https://developer.android.com/guide/topics/search/searchable-config?hl=zh_cn
--https://developer.android.com/guide/practices/screens_support
--https://developer.android.com/guide/practices/screens_support?hl=es_419
--https://developer.android.com/guide/practices/screens_support?hl=zh_cn
--https://developer.android.com/guide/practices/screens_support?hl=id
--https://developer.android.com/guide/practices/screens_support?hl=ja
--https://developer.android.com/guide/practices/screens_support?hl=ko
--https://developer.android.com/guide/practices/screens_support?hl=pt_br
--https://developer.android.com/guide/topics/ui/accessibility/apps
--https://developer.android.com/guide/topics/ui/accessibility/apps?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility/apps?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/apps?hl=id
--https://developer.android.com/guide/topics/ui/accessibility/apps?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility/apps?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility/apps?hl=pt_br
--https://developer.android.com/guide/topics/ui/shortcuts/managing-shortcuts
--https://developer.android.com/guide/topics/manifest/service-element
--https://developer.android.com/guide/topics/manifest/service-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/service-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/service-element?hl=id
--https://developer.android.com/guide/topics/manifest/service-element?hl=ja
--https://developer.android.com/guide/topics/manifest/service-element?hl=ko
--https://developer.android.com/guide/topics/manifest/service-element?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-nested-graphs
--https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=es_419
--https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=id
--https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=ja
--https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=ko
--https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=es_419
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=zh_cn
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=id
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=ja
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=ko
--https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=pt_br
--https://developer.android.com/guide/topics/manifest/path-permission-element
--https://developer.android.com/guide/topics/manifest/path-permission-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/path-permission-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/path-permission-element?hl=id
--https://developer.android.com/guide/topics/manifest/path-permission-element?hl=ja
--https://developer.android.com/guide/topics/manifest/path-permission-element?hl=ko
--https://developer.android.com/guide/topics/manifest/path-permission-element?hl=pt_br
--https://developer.android.com/guide/topics/location/migration
--https://developer.android.com/guide/topics/location/migration?hl=es_419
--https://developer.android.com/guide/topics/location/migration?hl=zh_cn
--https://developer.android.com/guide/topics/location/migration?hl=id
--https://developer.android.com/guide/topics/location/migration?hl=ja
--https://developer.android.com/guide/topics/location/migration?hl=ko
--https://developer.android.com/guide/topics/location/migration?hl=pt_br
--https://developer.android.com/guide/topics/admin/device-admin
--https://developer.android.com/guide/topics/admin/device-admin?hl=es_419
--https://developer.android.com/guide/topics/admin/device-admin?hl=zh_cn
--https://developer.android.com/guide/topics/admin/device-admin?hl=id
--https://developer.android.com/guide/topics/admin/device-admin?hl=ja
--https://developer.android.com/guide/topics/admin/device-admin?hl=ko
--https://developer.android.com/guide/topics/admin/device-admin?hl=pt_br
--https://developer.android.com/guide/topics/resources/complex-xml-resources
--https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=es_419
--https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=zh_cn
--https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=id
--https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=ja
--https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=ko
--https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=pt_br
--https://developer.android.com/guide/topics/ui/device-control
--https://developer.android.com/guide/topics/ui/device-control?hl=pt-br
--https://developer.android.com/guide/topics/ui/device-control?hl=ja
--https://developer.android.com/guide/topics/ui/device-control?hl=ko
--https://developer.android.com/guide/topics/ui/device-control?hl=es-419
--https://developer.android.com/guide/topics/ui/device-control?hl=id
--https://developer.android.com/guide/topics/ui/device-control?hl=zh-cn
--https://developer.android.com/guide/topics/resources/providing-resources
--https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419
--https://developer.android.com/guide/topics/resources/providing-resources?hl=zh-cn
--https://developer.android.com/guide/topics/resources/providing-resources?hl=id
--https://developer.android.com/guide/topics/resources/providing-resources?hl=ja
--https://developer.android.com/guide/topics/resources/providing-resources?hl=ko
--https://developer.android.com/guide/topics/resources/providing-resources?hl=pt-br
--https://developer.android.com/guide/navigation/navigation-getting-started
--https://developer.android.com/guide/navigation/navigation-getting-started?hl=es_419
--https://developer.android.com/guide/navigation/navigation-getting-started?hl=id
--https://developer.android.com/guide/navigation/navigation-getting-started?hl=ja
--https://developer.android.com/guide/navigation/navigation-getting-started?hl=ko
--https://developer.android.com/guide/navigation/navigation-getting-started?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-getting-started?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/omapi
--https://developer.android.com/guide/topics/search/search-dialog
--https://developer.android.com/guide/topics/search/search-dialog?hl=es_419
--https://developer.android.com/guide/topics/search/search-dialog?hl=id
--https://developer.android.com/guide/topics/search/search-dialog?hl=ja
--https://developer.android.com/guide/topics/search/search-dialog?hl=ko
--https://developer.android.com/guide/topics/search/search-dialog?hl=pt_br
--https://developer.android.com/guide/topics/search/search-dialog?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/prop-animation
--https://developer.android.com/guide/topics/graphics/prop-animation?hl=es_419
--https://developer.android.com/guide/topics/graphics/prop-animation?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/prop-animation?hl=id
--https://developer.android.com/guide/topics/graphics/prop-animation?hl=ja
--https://developer.android.com/guide/topics/graphics/prop-animation?hl=ko
--https://developer.android.com/guide/topics/graphics/prop-animation?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.Callback
--https://developer.android.com/guide/topics/connectivity/telecom/prevent-spoofing
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=es_419
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=id
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=ja
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=ko
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=zh_cn
--https://developer.android.com/guide/fragments/communicate
--https://developer.android.com/guide/playcore/in-app-review/test
--https://developer.android.com/guide/playcore/in-app-review/test?hl=ko
--https://developer.android.com/guide/playcore/in-app-review/test?hl=es-419
--https://developer.android.com/guide/playcore/in-app-review/test?hl=pt-br
--https://developer.android.com/guide/playcore/in-app-review/test?hl=id
--https://developer.android.com/guide/playcore/in-app-review/test?hl=ja
--https://developer.android.com/guide/playcore/in-app-review/test?hl=zh-cn
--https://developer.android.com/guide/topics/graphics/fling-animation
--https://developer.android.com/guide/topics/graphics/fling-animation?hl=es_419
--https://developer.android.com/guide/topics/graphics/fling-animation?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/fling-animation?hl=id
--https://developer.android.com/guide/topics/graphics/fling-animation?hl=ja
--https://developer.android.com/guide/topics/graphics/fling-animation?hl=ko
--https://developer.android.com/guide/topics/graphics/fling-animation?hl=pt_br
--https://developer.android.com/guide/topics/manifest/manifest-element
--https://developer.android.com/guide/topics/manifest/manifest-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/manifest-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/manifest-element?hl=id
--https://developer.android.com/guide/topics/manifest/manifest-element?hl=ja
--https://developer.android.com/guide/topics/manifest/manifest-element?hl=ko
--https://developer.android.com/guide/topics/manifest/manifest-element?hl=pt_br
--https://developer.android.com/guide/components/broadcasts
--https://developer.android.com/guide/components/broadcasts?hl=es_419
--https://developer.android.com/guide/components/broadcasts?hl=id
--https://developer.android.com/guide/components/broadcasts?hl=ja
--https://developer.android.com/guide/components/broadcasts?hl=ko
--https://developer.android.com/guide/components/broadcasts?hl=pt_br
--https://developer.android.com/guide/components/broadcasts?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/permission-group-element
--https://developer.android.com/guide/topics/manifest/permission-group-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/permission-group-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/permission-group-element?hl=id
--https://developer.android.com/guide/topics/manifest/permission-group-element?hl=ja
--https://developer.android.com/guide/topics/manifest/permission-group-element?hl=ko
--https://developer.android.com/guide/topics/manifest/permission-group-element?hl=pt_br
--https://developer.android.com/guide/components/fundamentals
--https://developer.android.com/guide/components/fundamentals?hl=es-419
--https://developer.android.com/guide/components/fundamentals?hl=zh-cn
--https://developer.android.com/guide/components/fundamentals?hl=id
--https://developer.android.com/guide/components/fundamentals?hl=ja
--https://developer.android.com/guide/components/fundamentals?hl=ko
--https://developer.android.com/guide/components/fundamentals?hl=pt-br
--https://developer.android.com/guide/playcore
--https://developer.android.com/guide/appendix/faq/commontasks
--https://developer.android.com/guide/appendix/faq/commontasks?hl=es_419
--https://developer.android.com/guide/appendix/faq/commontasks?hl=zh_cn
--https://developer.android.com/guide/appendix/faq/commontasks?hl=id
--https://developer.android.com/guide/appendix/faq/commontasks?hl=ja
--https://developer.android.com/guide/appendix/faq/commontasks?hl=ko
--https://developer.android.com/guide/appendix/faq/commontasks?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=id
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=ja
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=ko
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=es_419
--https://developer.android.com/guide/start
--https://developer.android.com/guide/start?hl=es_419
--https://developer.android.com/guide/start?hl=id
--https://developer.android.com/guide/start?hl=ja
--https://developer.android.com/guide/start?hl=ko
--https://developer.android.com/guide/start?hl=pt_br
--https://developer.android.com/guide/start?hl=zh_cn
--https://developer.android.com/guide/topics/renderscript/reference
--https://developer.android.com/guide/topics/appwidgets/host
--https://developer.android.com/guide/topics/appwidgets/host?hl=es_419
--https://developer.android.com/guide/topics/appwidgets/host?hl=zh_cn
--https://developer.android.com/guide/topics/appwidgets/host?hl=id
--https://developer.android.com/guide/topics/appwidgets/host?hl=ja
--https://developer.android.com/guide/topics/appwidgets/host?hl=ko
--https://developer.android.com/guide/topics/appwidgets/host?hl=pt_br
--https://developer.android.com/guide/app-bundle/conditional-delivery
--https://developer.android.com/guide/app-bundle/conditional-delivery?hl=id
--https://developer.android.com/guide/app-bundle/conditional-delivery?hl=ja
--https://developer.android.com/guide/app-bundle/conditional-delivery?hl=pt-br
--https://developer.android.com/guide/app-bundle/conditional-delivery?hl=zh-cn
--https://developer.android.com/guide/app-bundle/conditional-delivery?hl=ko
--https://developer.android.com/guide/app-bundle/conditional-delivery?hl=es-419
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/InlineExecutionProhibitedException
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=id
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=ja
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=pt-br
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=zh-cn
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=ko
--https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=es-419
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetEngine.Builder.LibraryLoader
--https://developer.android.com/guide/components/activities/intro-activities
--https://developer.android.com/guide/components/activities/intro-activities?hl=es_419
--https://developer.android.com/guide/components/activities/intro-activities?hl=id
--https://developer.android.com/guide/components/activities/intro-activities?hl=ja
--https://developer.android.com/guide/components/activities/intro-activities?hl=ko
--https://developer.android.com/guide/components/activities/intro-activities?hl=pt_br
--https://developer.android.com/guide/components/activities/intro-activities?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-feature-element
--https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=id
--https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=ko
--https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=pt_br
--https://developer.android.com/guide/topics/manifest/manifest-intro
--https://developer.android.com/guide/topics/manifest/manifest-intro?hl=es-419
--https://developer.android.com/guide/topics/manifest/manifest-intro?hl=zh-cn
--https://developer.android.com/guide/topics/manifest/manifest-intro?hl=id
--https://developer.android.com/guide/topics/manifest/manifest-intro?hl=ja
--https://developer.android.com/guide/topics/manifest/manifest-intro?hl=ko
--https://developer.android.com/guide/topics/manifest/manifest-intro?hl=pt-br
--https://developer.android.com/guide/topics/ui
--https://developer.android.com/guide/topics/ui?hl=id
--https://developer.android.com/guide/topics/ui?hl=es_419
--https://developer.android.com/guide/topics/ui?hl=zh_cn
--https://developer.android.com/guide/topics/ui?hl=ja
--https://developer.android.com/guide/topics/ui?hl=ko
--https://developer.android.com/guide/topics/ui?hl=pt_br
--https://developer.android.com/guide/topics/resources/localization
--https://developer.android.com/guide/topics/resources/localization?hl=es_419
--https://developer.android.com/guide/topics/resources/localization?hl=id
--https://developer.android.com/guide/topics/resources/localization?hl=ja
--https://developer.android.com/guide/topics/resources/localization?hl=ko
--https://developer.android.com/guide/topics/resources/localization?hl=pt_br
--https://developer.android.com/guide/topics/resources/localization?hl=zh_cn
--https://developer.android.com/guide/topics/media/additional-resources
--https://developer.android.com/guide/topics/media/additional-resources?hl=es_419
--https://developer.android.com/guide/topics/media/additional-resources?hl=id
--https://developer.android.com/guide/topics/media/additional-resources?hl=ja
--https://developer.android.com/guide/topics/media/additional-resources?hl=ko
--https://developer.android.com/guide/topics/media/additional-resources?hl=pt_br
--https://developer.android.com/guide/topics/media/additional-resources?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UploadDataProvider
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=es_419
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=id
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=ja
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=ko
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=zh_cn
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=es_419
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=id
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=ja
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=ko
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=pt_br
--https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=zh_cn
--https://developer.android.com/guide/topics/renderscript/compute
--https://developer.android.com/guide/topics/renderscript/compute?hl=es_419
--https://developer.android.com/guide/topics/renderscript/compute?hl=zh_cn
--https://developer.android.com/guide/topics/renderscript/compute?hl=id
--https://developer.android.com/guide/topics/renderscript/compute?hl=ja
--https://developer.android.com/guide/topics/renderscript/compute?hl=ko
--https://developer.android.com/guide/topics/renderscript/compute?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/vpn
--https://developer.android.com/guide/topics/connectivity/vpn?hl=es_419
--https://developer.android.com/guide/topics/connectivity/vpn?hl=id
--https://developer.android.com/guide/topics/connectivity/vpn?hl=ja
--https://developer.android.com/guide/topics/connectivity/vpn?hl=ko
--https://developer.android.com/guide/topics/connectivity/vpn?hl=pt_br
--https://developer.android.com/guide/topics/connectivity/vpn?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/drawable-animation
--https://developer.android.com/guide/topics/graphics/drawable-animation?hl=es_419
--https://developer.android.com/guide/topics/graphics/drawable-animation?hl=zh_cn
--https://developer.android.com/guide/topics/graphics/drawable-animation?hl=id
--https://developer.android.com/guide/topics/graphics/drawable-animation?hl=ja
--https://developer.android.com/guide/topics/graphics/drawable-animation?hl=ko
--https://developer.android.com/guide/topics/graphics/drawable-animation?hl=pt_br
--https://developer.android.com/guide/app-bundle/at-install-delivery
--https://developer.android.com/guide/app-bundle/at-install-delivery?hl=id
--https://developer.android.com/guide/app-bundle/at-install-delivery?hl=ja
--https://developer.android.com/guide/app-bundle/at-install-delivery?hl=pt-br
--https://developer.android.com/guide/app-bundle/at-install-delivery?hl=zh-cn
--https://developer.android.com/guide/app-bundle/at-install-delivery?hl=ko
--https://developer.android.com/guide/app-bundle/at-install-delivery?hl=es-419
--https://developer.android.com/guide/topics/ui/layout/relative
--https://developer.android.com/guide/topics/ui/layout/relative?hl=es_419
--https://developer.android.com/guide/topics/ui/layout/relative?hl=zh_cn
--https://developer.android.com/guide/topics/ui/layout/relative?hl=id
--https://developer.android.com/guide/topics/ui/layout/relative?hl=ja
--https://developer.android.com/guide/topics/ui/layout/relative?hl=ko
--https://developer.android.com/guide/topics/ui/layout/relative?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/mediabuttons
--https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=es_419
--https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=id
--https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=ja
--https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=ko
--https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=zh_cn
--https://developer.android.com/guide/topics/ui/layout/cardview
--https://developer.android.com/guide/topics/ui/layout/cardview?hl=es_419
--https://developer.android.com/guide/topics/ui/layout/cardview?hl=zh_cn
--https://developer.android.com/guide/topics/ui/layout/cardview?hl=id
--https://developer.android.com/guide/topics/ui/layout/cardview?hl=ja
--https://developer.android.com/guide/topics/ui/layout/cardview?hl=ko
--https://developer.android.com/guide/topics/ui/layout/cardview?hl=pt_br
--https://developer.android.com/guide/topics/providers/create-document-provider
--https://developer.android.com/guide/topics/providers/create-document-provider?hl=es_419
--https://developer.android.com/guide/topics/providers/create-document-provider?hl=zh_cn
--https://developer.android.com/guide/topics/providers/create-document-provider?hl=id
--https://developer.android.com/guide/topics/providers/create-document-provider?hl=ja
--https://developer.android.com/guide/topics/providers/create-document-provider?hl=ko
--https://developer.android.com/guide/topics/providers/create-document-provider?hl=pt_br
--https://developer.android.com/guide/topics/text/spans
--https://developer.android.com/guide/topics/text/spans?hl=es_419
--https://developer.android.com/guide/topics/text/spans?hl=zh_cn
--https://developer.android.com/guide/topics/text/spans?hl=id
--https://developer.android.com/guide/topics/text/spans?hl=ja
--https://developer.android.com/guide/topics/text/spans?hl=ko
--https://developer.android.com/guide/topics/text/spans?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-deep-link
--https://developer.android.com/guide/navigation/navigation-deep-link?hl=es_419
--https://developer.android.com/guide/navigation/navigation-deep-link?hl=id
--https://developer.android.com/guide/navigation/navigation-deep-link?hl=ja
--https://developer.android.com/guide/navigation/navigation-deep-link?hl=ko
--https://developer.android.com/guide/navigation/navigation-deep-link?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-deep-link?hl=zh_cn
--https://developer.android.com/guide/webapps/targeting
--https://developer.android.com/guide/webapps/targeting?hl=id
--https://developer.android.com/guide/webapps/targeting?hl=ja
--https://developer.android.com/guide/webapps/targeting?hl=ko
--https://developer.android.com/guide/webapps/targeting?hl=pt_br
--https://developer.android.com/guide/webapps/targeting?hl=zh_cn
--https://developer.android.com/guide/webapps/targeting?hl=es_419
--https://developer.android.com/guide/navigation/navigation-form-factors
--https://developer.android.com/guide/navigation/navigation-form-factors?hl=es_419
--https://developer.android.com/guide/navigation/navigation-form-factors?hl=id
--https://developer.android.com/guide/navigation/navigation-form-factors?hl=ja
--https://developer.android.com/guide/navigation/navigation-form-factors?hl=ko
--https://developer.android.com/guide/navigation/navigation-form-factors?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-form-factors?hl=zh_cn
--https://developer.android.com/guide/topics/data/testingbackup
--https://developer.android.com/guide/topics/data/testingbackup?hl=es_419
--https://developer.android.com/guide/topics/data/testingbackup?hl=zh_cn
--https://developer.android.com/guide/topics/data/testingbackup?hl=id
--https://developer.android.com/guide/topics/data/testingbackup?hl=ja
--https://developer.android.com/guide/topics/data/testingbackup?hl=ko
--https://developer.android.com/guide/topics/data/testingbackup?hl=pt_br
--https://developer.android.com/guide/slices/getting-started
--https://developer.android.com/guide/slices/getting-started?hl=es_419
--https://developer.android.com/guide/slices/getting-started?hl=zh_cn
--https://developer.android.com/guide/slices/getting-started?hl=id
--https://developer.android.com/guide/slices/getting-started?hl=ja
--https://developer.android.com/guide/slices/getting-started?hl=ko
--https://developer.android.com/guide/slices/getting-started?hl=pt_br
--https://developer.android.com/guide/topics/manifest/supports-screens-element
--https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=id
--https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=ja
--https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=ko
--https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=pt_br
--https://developer.android.com/guide/topics/text/spell-checker-framework
--https://developer.android.com/guide/topics/text/spell-checker-framework?hl=es_419
--https://developer.android.com/guide/topics/text/spell-checker-framework?hl=zh_cn
--https://developer.android.com/guide/topics/text/spell-checker-framework?hl=id
--https://developer.android.com/guide/topics/text/spell-checker-framework?hl=ja
--https://developer.android.com/guide/topics/text/spell-checker-framework?hl=ko
--https://developer.android.com/guide/topics/text/spell-checker-framework?hl=pt_br
--https://developer.android.com/guide/topics/manifest/uses-configuration-element
--https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=id
--https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=ja
--https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=ko
--https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=pt_br
--https://developer.android.com/guide/topics/renderscript/reference/rs_value_types
--https://developer.android.com/guide/topics/appwidgets/overview
--https://developer.android.com/guide/topics/appwidgets/overview?hl=es_419
--https://developer.android.com/guide/topics/appwidgets/overview?hl=zh_cn
--https://developer.android.com/guide/topics/appwidgets/overview?hl=id
--https://developer.android.com/guide/topics/appwidgets/overview?hl=ja
--https://developer.android.com/guide/topics/appwidgets/overview?hl=ko
--https://developer.android.com/guide/topics/appwidgets/overview?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=es_419
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=id
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=ja
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=ko
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=pt_br
--https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=zh_cn
--https://developer.android.com/guide/topics/connectivity/passpoint
--https://developer.android.com/guide/topics/manifest/instrumentation-element
--https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=es_419
--https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=zh_cn
--https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=id
--https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=ja
--https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=ko
--https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-create-destinations
--https://developer.android.com/guide/navigation/navigation-create-destinations?hl=es_419
--https://developer.android.com/guide/navigation/navigation-create-destinations?hl=id
--https://developer.android.com/guide/navigation/navigation-create-destinations?hl=ja
--https://developer.android.com/guide/navigation/navigation-create-destinations?hl=ko
--https://developer.android.com/guide/navigation/navigation-create-destinations?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-create-destinations?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-animate-transitions
--https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=es_419
--https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=id
--https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=ja
--https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=ko
--https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=zh_cn
--https://developer.android.com/guide/input
--https://developer.android.com/guide/input?hl=es_419
--https://developer.android.com/guide/input?hl=id
--https://developer.android.com/guide/input?hl=ja
--https://developer.android.com/guide/input?hl=ko
--https://developer.android.com/guide/input?hl=pt_br
--https://developer.android.com/guide/input?hl=zh_cn
--https://developer.android.com/guide/appendix/faq
--https://developer.android.com/guide/appendix/faq?hl=es_419
--https://developer.android.com/guide/appendix/faq?hl=zh_cn
--https://developer.android.com/guide/appendix/faq?hl=id
--https://developer.android.com/guide/appendix/faq?hl=ja
--https://developer.android.com/guide/appendix/faq?hl=ko
--https://developer.android.com/guide/appendix/faq?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=es_419
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=id
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=ja
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=ko
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=pt_br
--https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=zh_cn
--https://developer.android.com/guide/navigation/navigation-migrate
--https://developer.android.com/guide/navigation/navigation-migrate?hl=es_419
--https://developer.android.com/guide/navigation/navigation-migrate?hl=id
--https://developer.android.com/guide/navigation/navigation-migrate?hl=ja
--https://developer.android.com/guide/navigation/navigation-migrate?hl=ko
--https://developer.android.com/guide/navigation/navigation-migrate?hl=pt_br
--https://developer.android.com/guide/navigation/navigation-migrate?hl=zh_cn
--https://developer.android.com/guide/components/activities/tasks-and-back-stack
--https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=es_419
--https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=id
--https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=ja
--https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=ko
--https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=pt_br
--https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=zh_cn
+- https://developer.android.com/guide/playcore/in-app-review/unity
+- https://developer.android.com/guide/playcore/in-app-review/unity?hl=ko
+- https://developer.android.com/guide/playcore/in-app-review/unity?hl=es-419
+- https://developer.android.com/guide/playcore/in-app-review/unity?hl=pt-br
+- https://developer.android.com/guide/playcore/in-app-review/unity?hl=id
+- https://developer.android.com/guide/playcore/in-app-review/unity?hl=ja
+- https://developer.android.com/guide/playcore/in-app-review/unity?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/nfc/hce
+- https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=id
+- https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=ja
+- https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=ko
+- https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/nfc/hce?hl=zh_cn
+- https://developer.android.com/guide/topics/renderscript/reference/rs_object_types
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=id
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/supports-gl-texture-element?hl=pt_br
+- https://developer.android.com/guide/topics/text/ime-autofill
+- https://developer.android.com/guide/topics/text/ime-autofill?hl=pt-br
+- https://developer.android.com/guide/topics/text/ime-autofill?hl=ja
+- https://developer.android.com/guide/topics/text/ime-autofill?hl=ko
+- https://developer.android.com/guide/topics/text/ime-autofill?hl=es-419
+- https://developer.android.com/guide/topics/text/ime-autofill?hl=id
+- https://developer.android.com/guide/topics/text/ime-autofill?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest
+- https://developer.android.com/guide/topics/connectivity/usb/accessory
+- https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=id
+- https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=ja
+- https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=ko
+- https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/usb/accessory?hl=zh_cn
+- https://developer.android.com/guide/playcore/asset-delivery/test
+- https://developer.android.com/guide/playcore/asset-delivery/test?hl=ko
+- https://developer.android.com/guide/playcore/asset-delivery/test?hl=es-419
+- https://developer.android.com/guide/playcore/asset-delivery/test?hl=pt-br
+- https://developer.android.com/guide/playcore/asset-delivery/test?hl=id
+- https://developer.android.com/guide/playcore/asset-delivery/test?hl=ja
+- https://developer.android.com/guide/playcore/asset-delivery/test?hl=zh-cn
+- https://developer.android.com/guide/topics/data/account-transfer
+- https://developer.android.com/guide/topics/data/account-transfer?hl=es_419
+- https://developer.android.com/guide/topics/data/account-transfer?hl=zh_cn
+- https://developer.android.com/guide/topics/data/account-transfer?hl=id
+- https://developer.android.com/guide/topics/data/account-transfer?hl=ja
+- https://developer.android.com/guide/topics/data/account-transfer?hl=ko
+- https://developer.android.com/guide/topics/data/account-transfer?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=ko
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=es-419
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=ja
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=zh-cn
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=pt-br
+- https://developer.android.com/guide/navigation/navigation-kotlin-dsl?hl=id
+- https://developer.android.com/guide/topics/renderscript/reference/rs_quaternion
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=id
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=ja
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=ko
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/working-with-a-media-session?hl=zh_cn
+- https://developer.android.com/guide/topics/providers/document-provider
+- https://developer.android.com/guide/topics/providers/document-provider?hl=es-419
+- https://developer.android.com/guide/topics/providers/document-provider?hl=zh-cn
+- https://developer.android.com/guide/topics/providers/document-provider?hl=id
+- https://developer.android.com/guide/topics/providers/document-provider?hl=ja
+- https://developer.android.com/guide/topics/providers/document-provider?hl=ko
+- https://developer.android.com/guide/topics/providers/document-provider?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/wifip2p
+- https://developer.android.com/guide/topics/connectivity/wifip2p?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/wifip2p?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/wifip2p?hl=id
+- https://developer.android.com/guide/topics/connectivity/wifip2p?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifip2p?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifip2p?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=id
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=ja
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=ko
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet/lifecycle?hl=es_419
+- https://developer.android.com/guide/topics/text/autofill
+- https://developer.android.com/guide/topics/text/autofill?hl=es_419
+- https://developer.android.com/guide/topics/text/autofill?hl=zh_cn
+- https://developer.android.com/guide/topics/text/autofill?hl=id
+- https://developer.android.com/guide/topics/text/autofill?hl=ja
+- https://developer.android.com/guide/topics/text/autofill?hl=ko
+- https://developer.android.com/guide/topics/text/autofill?hl=pt_br
+- https://developer.android.com/guide/topics/resources/available-resources
+- https://developer.android.com/guide/topics/resources/available-resources?hl=es_419
+- https://developer.android.com/guide/topics/resources/available-resources?hl=id
+- https://developer.android.com/guide/topics/resources/available-resources?hl=ja
+- https://developer.android.com/guide/topics/resources/available-resources?hl=ko
+- https://developer.android.com/guide/topics/resources/available-resources?hl=pt_br
+- https://developer.android.com/guide/topics/resources/available-resources?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/drag-drop
+- https://developer.android.com/guide/topics/ui/drag-drop?hl=es_419
+- https://developer.android.com/guide/topics/ui/drag-drop?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/drag-drop?hl=id
+- https://developer.android.com/guide/topics/ui/drag-drop?hl=ja
+- https://developer.android.com/guide/topics/ui/drag-drop?hl=ko
+- https://developer.android.com/guide/topics/ui/drag-drop?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml
+- https://developer.android.com/guide/topics/ui/picture-in-picture
+- https://developer.android.com/guide/topics/ui/picture-in-picture?hl=es_419
+- https://developer.android.com/guide/topics/ui/picture-in-picture?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/picture-in-picture?hl=id
+- https://developer.android.com/guide/topics/ui/picture-in-picture?hl=ja
+- https://developer.android.com/guide/topics/ui/picture-in-picture?hl=ko
+- https://developer.android.com/guide/topics/ui/picture-in-picture?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/permission-element
+- https://developer.android.com/guide/topics/manifest/permission-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/permission-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/permission-element?hl=id
+- https://developer.android.com/guide/topics/manifest/permission-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/permission-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/permission-element?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/receiver-element
+- https://developer.android.com/guide/topics/manifest/receiver-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/receiver-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/receiver-element?hl=id
+- https://developer.android.com/guide/topics/manifest/receiver-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/receiver-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/receiver-element?hl=pt_br
+- https://developer.android.com/guide/appendix/faq/security
+- https://developer.android.com/guide/appendix/faq/security?hl=es_419
+- https://developer.android.com/guide/appendix/faq/security?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq/security?hl=id
+- https://developer.android.com/guide/appendix/faq/security?hl=ja
+- https://developer.android.com/guide/appendix/faq/security?hl=ko
+- https://developer.android.com/guide/appendix/faq/security?hl=pt_br
+- https://developer.android.com/guide/topics/ui/controls/button
+- https://developer.android.com/guide/topics/media-apps/audio-app/media-controller-test
+- https://developer.android.com/guide/navigation/navigation-add-new
+- https://developer.android.com/guide/navigation/navigation-add-new?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-add-new?hl=id
+- https://developer.android.com/guide/navigation/navigation-add-new?hl=ja
+- https://developer.android.com/guide/navigation/navigation-add-new?hl=ko
+- https://developer.android.com/guide/navigation/navigation-add-new?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-add-new?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/usb/host
+- https://developer.android.com/guide/topics/connectivity/usb/host?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/usb/host?hl=id
+- https://developer.android.com/guide/topics/connectivity/usb/host?hl=ja
+- https://developer.android.com/guide/topics/connectivity/usb/host?hl=ko
+- https://developer.android.com/guide/topics/connectivity/usb/host?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/usb/host?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/controls/togglebutton
+- https://developer.android.com/guide/topics/ui/floating-action-button
+- https://developer.android.com/guide/topics/ui/floating-action-button?hl=es_419
+- https://developer.android.com/guide/topics/ui/floating-action-button?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/floating-action-button?hl=id
+- https://developer.android.com/guide/topics/ui/floating-action-button?hl=ja
+- https://developer.android.com/guide/topics/ui/floating-action-button?hl=ko
+- https://developer.android.com/guide/topics/ui/floating-action-button?hl=pt_br
+- https://developer.android.com/guide/topics/media/media-controls
+- https://developer.android.com/guide/topics/media/mediarouter
+- https://developer.android.com/guide/topics/media/mediarouter?hl=es_419
+- https://developer.android.com/guide/topics/media/mediarouter?hl=id
+- https://developer.android.com/guide/topics/media/mediarouter?hl=ja
+- https://developer.android.com/guide/topics/media/mediarouter?hl=ko
+- https://developer.android.com/guide/topics/media/mediarouter?hl=pt_br
+- https://developer.android.com/guide/topics/media/mediarouter?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/binding
+- https://developer.android.com/guide/topics/ui/binding?hl=es_419
+- https://developer.android.com/guide/topics/ui/binding?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/binding?hl=id
+- https://developer.android.com/guide/topics/ui/binding?hl=ja
+- https://developer.android.com/guide/topics/ui/binding?hl=ko
+- https://developer.android.com/guide/topics/ui/binding?hl=pt_br
+- https://developer.android.com/guide/topics/resources/internationalization
+- https://developer.android.com/guide/topics/resources/internationalization?hl=es_419
+- https://developer.android.com/guide/topics/resources/internationalization?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/internationalization?hl=id
+- https://developer.android.com/guide/topics/resources/internationalization?hl=ja
+- https://developer.android.com/guide/topics/resources/internationalization?hl=ko
+- https://developer.android.com/guide/topics/resources/internationalization?hl=pt_br
+- https://developer.android.com/guide/components/activities/process-lifecycle
+- https://developer.android.com/guide/components/activities/process-lifecycle?hl=es_419
+- https://developer.android.com/guide/components/activities/process-lifecycle?hl=id
+- https://developer.android.com/guide/components/activities/process-lifecycle?hl=ja
+- https://developer.android.com/guide/components/activities/process-lifecycle?hl=ko
+- https://developer.android.com/guide/components/activities/process-lifecycle?hl=pt_br
+- https://developer.android.com/guide/components/activities/process-lifecycle?hl=zh_cn
+- https://developer.android.com/guide/topics/data/backup
+- https://developer.android.com/guide/topics/data/backup?hl=es_419
+- https://developer.android.com/guide/topics/data/backup?hl=zh_cn
+- https://developer.android.com/guide/topics/data/backup?hl=id
+- https://developer.android.com/guide/topics/data/backup?hl=ja
+- https://developer.android.com/guide/topics/data/backup?hl=ko
+- https://developer.android.com/guide/topics/data/backup?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/packages
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=id
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=ja
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=ko
+- https://developer.android.com/guide/topics/connectivity/bluetooth-le?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/wifi-easy
+- https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=id
+- https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-easy?hl=pt_br
+- https://developer.android.com/guide/app-bundle/configure-base
+- https://developer.android.com/guide/app-bundle/configure-base?hl=id
+- https://developer.android.com/guide/app-bundle/configure-base?hl=ja
+- https://developer.android.com/guide/app-bundle/configure-base?hl=pt-br
+- https://developer.android.com/guide/app-bundle/configure-base?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/configure-base?hl=ko
+- https://developer.android.com/guide/app-bundle/configure-base?hl=es-419
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=id
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=ja
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=ko
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowserservice?hl=zh_cn
+- https://developer.android.com/guide/components/broadcast-exceptions
+- https://developer.android.com/guide/components/broadcast-exceptions?hl=es_419
+- https://developer.android.com/guide/components/broadcast-exceptions?hl=id
+- https://developer.android.com/guide/components/broadcast-exceptions?hl=ja
+- https://developer.android.com/guide/components/broadcast-exceptions?hl=ko
+- https://developer.android.com/guide/components/broadcast-exceptions?hl=pt_br
+- https://developer.android.com/guide/components/broadcast-exceptions?hl=zh_cn
+- https://developer.android.com/guide/playcore/in-app-review/native
+- https://developer.android.com/guide/playcore/in-app-review/native?hl=pt-br
+- https://developer.android.com/guide/playcore/in-app-review/native?hl=ko
+- https://developer.android.com/guide/playcore/in-app-review/native?hl=es-419
+- https://developer.android.com/guide/playcore/in-app-review/native?hl=ja
+- https://developer.android.com/guide/playcore/in-app-review/native?hl=id
+- https://developer.android.com/guide/playcore/in-app-review/native?hl=zh-cn
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=ko
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=es-419
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=pt-br
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=id
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=ja
+- https://developer.android.com/guide/playcore/in-app-review/kotlin-java?hl=zh-cn
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=id
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=ja
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=ko
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/interacting-with-assistant?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/menu-resource
+- https://developer.android.com/guide/topics/resources/menu-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/menu-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/menu-resource?hl=id
+- https://developer.android.com/guide/topics/resources/menu-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/menu-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/menu-resource?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel
+- https://developer.android.com/guide/topics/ui/look-and-feel?hl=id
+- https://developer.android.com/guide/topics/ui/look-and-feel?hl=es_419
+- https://developer.android.com/guide/topics/ui/look-and-feel?hl=ja
+- https://developer.android.com/guide/topics/ui/look-and-feel?hl=ko
+- https://developer.android.com/guide/topics/ui/look-and-feel?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/shortcuts/creating-shortcuts
+- https://developer.android.com/guide/fragments
+- https://developer.android.com/guide/topics/connectivity/grpc
+- https://developer.android.com/guide/topics/connectivity/grpc?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/grpc?hl=id
+- https://developer.android.com/guide/topics/connectivity/grpc?hl=ja
+- https://developer.android.com/guide/topics/connectivity/grpc?hl=ko
+- https://developer.android.com/guide/topics/connectivity/grpc?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/grpc?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=id
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/compatible-screens-element?hl=pt_br
+- https://developer.android.com/guide/components/intents-filters
+- https://developer.android.com/guide/components/intents-filters?hl=es-419
+- https://developer.android.com/guide/components/intents-filters?hl=zh-cn
+- https://developer.android.com/guide/components/intents-filters?hl=id
+- https://developer.android.com/guide/components/intents-filters?hl=ja
+- https://developer.android.com/guide/components/intents-filters?hl=ko
+- https://developer.android.com/guide/components/intents-filters?hl=pt-br
+- https://developer.android.com/guide
+- https://developer.android.com/guide?hl=es-419
+- https://developer.android.com/guide?hl=zh-cn
+- https://developer.android.com/guide?hl=id
+- https://developer.android.com/guide?hl=ja
+- https://developer.android.com/guide?hl=ko
+- https://developer.android.com/guide?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity
+- https://developer.android.com/guide/topics/connectivity?hl=es_419
+- https://developer.android.com/guide/topics/connectivity?hl=id
+- https://developer.android.com/guide/topics/connectivity?hl=ja
+- https://developer.android.com/guide/topics/connectivity?hl=ko
+- https://developer.android.com/guide/topics/connectivity?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlResponseInfo.HeaderBlock
+- https://developer.android.com/guide/topics/permissions/overview
+- https://developer.android.com/guide/topics/permissions/overview?hl=zh-cn
+- https://developer.android.com/guide/topics/permissions/overview?hl=ja
+- https://developer.android.com/guide/topics/permissions/overview?hl=ko
+- https://developer.android.com/guide/topics/permissions/overview?hl=pt-br
+- https://developer.android.com/guide/topics/permissions/overview?hl=es-419
+- https://developer.android.com/guide/topics/permissions/overview?hl=id
+- https://developer.android.com/guide/topics/manifest/data-element
+- https://developer.android.com/guide/topics/manifest/data-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/data-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/data-element?hl=id
+- https://developer.android.com/guide/topics/manifest/data-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/data-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/data-element?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/sip
+- https://developer.android.com/guide/topics/connectivity/sip?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/sip?hl=id
+- https://developer.android.com/guide/topics/connectivity/sip?hl=ja
+- https://developer.android.com/guide/topics/connectivity/sip?hl=ko
+- https://developer.android.com/guide/topics/connectivity/sip?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/sip?hl=zh_cn
+- https://developer.android.com/guide/topics/data/install-location
+- https://developer.android.com/guide/topics/data/install-location?hl=es_419
+- https://developer.android.com/guide/topics/data/install-location?hl=zh_cn
+- https://developer.android.com/guide/topics/data/install-location?hl=id
+- https://developer.android.com/guide/topics/data/install-location?hl=ja
+- https://developer.android.com/guide/topics/data/install-location?hl=ko
+- https://developer.android.com/guide/topics/data/install-location?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-testing
+- https://developer.android.com/guide/navigation/navigation-testing?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-testing?hl=id
+- https://developer.android.com/guide/navigation/navigation-testing?hl=ja
+- https://developer.android.com/guide/navigation/navigation-testing?hl=ko
+- https://developer.android.com/guide/navigation/navigation-testing?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-testing?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-custom-back
+- https://developer.android.com/guide/navigation/navigation-custom-back?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-custom-back?hl=id
+- https://developer.android.com/guide/navigation/navigation-custom-back?hl=ja
+- https://developer.android.com/guide/navigation/navigation-custom-back?hl=ko
+- https://developer.android.com/guide/navigation/navigation-custom-back?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-custom-back?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/notifiers/notifications
+- https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=es-419
+- https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=pt-br
+- https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=ja
+- https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=ko
+- https://developer.android.com/guide/topics/ui/notifiers/notifications?hl=id
+- https://developer.android.com/guide/topics/appwidgets
+- https://developer.android.com/guide/topics/appwidgets?hl=es_419
+- https://developer.android.com/guide/topics/appwidgets?hl=zh_cn
+- https://developer.android.com/guide/topics/appwidgets?hl=id
+- https://developer.android.com/guide/topics/appwidgets?hl=ja
+- https://developer.android.com/guide/topics/appwidgets?hl=ko
+- https://developer.android.com/guide/topics/appwidgets?hl=pt_br
+- https://developer.android.com/guide/appendix
+- https://developer.android.com/guide/appendix?hl=es_419
+- https://developer.android.com/guide/appendix?hl=zh_cn
+- https://developer.android.com/guide/appendix?hl=id
+- https://developer.android.com/guide/appendix?hl=ja
+- https://developer.android.com/guide/appendix?hl=ko
+- https://developer.android.com/guide/appendix?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/wifi-scan
+- https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=es-419
+- https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-scan?hl=id
+- https://developer.android.com/guide/navigation/navigation-conditional
+- https://developer.android.com/guide/navigation/navigation-conditional?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-conditional?hl=id
+- https://developer.android.com/guide/navigation/navigation-conditional?hl=ja
+- https://developer.android.com/guide/navigation/navigation-conditional?hl=ko
+- https://developer.android.com/guide/navigation/navigation-conditional?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-conditional?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/custom-components
+- https://developer.android.com/guide/topics/ui/custom-components?hl=es_419
+- https://developer.android.com/guide/topics/ui/custom-components?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/custom-components?hl=id
+- https://developer.android.com/guide/topics/ui/custom-components?hl=ja
+- https://developer.android.com/guide/topics/ui/custom-components?hl=ko
+- https://developer.android.com/guide/topics/ui/custom-components?hl=pt_br
+- https://developer.android.com/guide/topics/providers/content-provider-creating
+- https://developer.android.com/guide/topics/providers/content-provider-creating?hl=es-419
+- https://developer.android.com/guide/topics/providers/content-provider-creating?hl=zh-cn
+- https://developer.android.com/guide/topics/providers/content-provider-creating?hl=id
+- https://developer.android.com/guide/topics/providers/content-provider-creating?hl=ja
+- https://developer.android.com/guide/topics/providers/content-provider-creating?hl=ko
+- https://developer.android.com/guide/topics/providers/content-provider-creating?hl=pt-br
+- https://developer.android.com/guide/topics/media/exoplayer
+- https://developer.android.com/guide/topics/media/exoplayer?hl=es_419
+- https://developer.android.com/guide/topics/media/exoplayer?hl=id
+- https://developer.android.com/guide/topics/media/exoplayer?hl=ja
+- https://developer.android.com/guide/topics/media/exoplayer?hl=ko
+- https://developer.android.com/guide/topics/media/exoplayer?hl=pt_br
+- https://developer.android.com/guide/topics/media/exoplayer?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
+- https://developer.android.com/guide/appendix/faq/licensingandoss
+- https://developer.android.com/guide/appendix/faq/licensingandoss?hl=es_419
+- https://developer.android.com/guide/appendix/faq/licensingandoss?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq/licensingandoss?hl=id
+- https://developer.android.com/guide/appendix/faq/licensingandoss?hl=ja
+- https://developer.android.com/guide/appendix/faq/licensingandoss?hl=ko
+- https://developer.android.com/guide/appendix/faq/licensingandoss?hl=pt_br
+- https://developer.android.com/guide/topics/location/battery
+- https://developer.android.com/guide/topics/location/battery?hl=es-419
+- https://developer.android.com/guide/topics/location/battery?hl=zh-cn
+- https://developer.android.com/guide/topics/location/battery?hl=id
+- https://developer.android.com/guide/topics/location/battery?hl=ko
+- https://developer.android.com/guide/topics/location/battery?hl=pt-br
+- https://developer.android.com/guide/topics/location/battery?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/uses-permission-sdk-23-element?hl=pt_br
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=es_419
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=id
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=ja
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=ko
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=pt_br
+- https://developer.android.com/guide/components/activities/parcelables-and-bundles?hl=zh_cn
+- https://developer.android.com/guide/topics/providers/contacts-provider
+- https://developer.android.com/guide/topics/providers/contacts-provider?hl=es-419
+- https://developer.android.com/guide/topics/providers/contacts-provider?hl=zh-cn
+- https://developer.android.com/guide/topics/providers/contacts-provider?hl=id
+- https://developer.android.com/guide/topics/providers/contacts-provider?hl=ja
+- https://developer.android.com/guide/topics/providers/contacts-provider?hl=ko
+- https://developer.android.com/guide/topics/providers/contacts-provider?hl=pt-br
+- https://developer.android.com/guide/topics/data/autobackup
+- https://developer.android.com/guide/topics/data/autobackup?hl=es_419
+- https://developer.android.com/guide/topics/data/autobackup?hl=zh_cn
+- https://developer.android.com/guide/topics/data/autobackup?hl=id
+- https://developer.android.com/guide/topics/data/autobackup?hl=ja
+- https://developer.android.com/guide/topics/data/autobackup?hl=ko
+- https://developer.android.com/guide/topics/data/autobackup?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/activity-alias-element
+- https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=id
+- https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/activity-alias-element?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-navigate
+- https://developer.android.com/guide/navigation/navigation-navigate?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-navigate?hl=id
+- https://developer.android.com/guide/navigation/navigation-navigate?hl=ja
+- https://developer.android.com/guide/navigation/navigation-navigate?hl=ko
+- https://developer.android.com/guide/navigation/navigation-navigate?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-navigate?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=ja
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=ko
+- https://developer.android.com/guide/topics/ui/settings/use-saved-values?hl=id
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=id
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-bootstrap?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-global-action
+- https://developer.android.com/guide/navigation/navigation-global-action?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-global-action?hl=id
+- https://developer.android.com/guide/navigation/navigation-global-action?hl=ja
+- https://developer.android.com/guide/navigation/navigation-global-action?hl=ko
+- https://developer.android.com/guide/navigation/navigation-global-action?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-global-action?hl=zh_cn
+- https://developer.android.com/guide/fragments/fragmentmanager
+- https://developer.android.com/guide/topics/permissions/default-handlers
+- https://developer.android.com/guide/topics/permissions/default-handlers?hl=es_419
+- https://developer.android.com/guide/topics/permissions/default-handlers?hl=zh_cn
+- https://developer.android.com/guide/topics/permissions/default-handlers?hl=id
+- https://developer.android.com/guide/topics/permissions/default-handlers?hl=ja
+- https://developer.android.com/guide/topics/permissions/default-handlers?hl=ko
+- https://developer.android.com/guide/topics/permissions/default-handlers?hl=pt_br
+- https://developer.android.com/guide/topics/resources/more-resources
+- https://developer.android.com/guide/topics/resources/more-resources?hl=es_419
+- https://developer.android.com/guide/topics/resources/more-resources?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/more-resources?hl=id
+- https://developer.android.com/guide/topics/resources/more-resources?hl=ja
+- https://developer.android.com/guide/topics/resources/more-resources?hl=ko
+- https://developer.android.com/guide/topics/resources/more-resources?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=id
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=ja
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=ko
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-player-activity?hl=zh_cn
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=id
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=ja
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=ko
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/video-app/mediasession-callbacks?hl=zh_cn
+- https://developer.android.com/guide/playcore/in-app-updates
+- https://developer.android.com/guide/playcore/in-app-updates?hl=pt-br
+- https://developer.android.com/guide/playcore/in-app-updates?hl=ko
+- https://developer.android.com/guide/playcore/in-app-updates?hl=es-419
+- https://developer.android.com/guide/playcore/in-app-updates?hl=ja
+- https://developer.android.com/guide/playcore/in-app-updates?hl=id
+- https://developer.android.com/guide/playcore/in-app-updates?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/package-summary
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ja
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=ko
+- https://developer.android.com/guide/topics/ui/settings/customize-your-settings?hl=id
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=id
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=ja
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=ko
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/telecom/selfManaged?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/layout/recyclerview
+- https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=es-419
+- https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=ja
+- https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=ko
+- https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=pt-br
+- https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=id
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=id
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=ja
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=ko
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-a-mediabrowser-client?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/controls/checkbox
+- https://developer.android.com/guide/fragments/test
+- https://developer.android.com/guide/topics/sensors/gnss
+- https://developer.android.com/guide/topics/sensors/gnss?hl=es_419
+- https://developer.android.com/guide/topics/sensors/gnss?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors/gnss?hl=id
+- https://developer.android.com/guide/topics/sensors/gnss?hl=ja
+- https://developer.android.com/guide/topics/sensors/gnss?hl=ko
+- https://developer.android.com/guide/topics/sensors/gnss?hl=pt_br
+- https://developer.android.com/guide/components/activities/activity-lifecycle
+- https://developer.android.com/guide/components/activities/activity-lifecycle?hl=es_419
+- https://developer.android.com/guide/components/activities/activity-lifecycle?hl=zh_cn
+- https://developer.android.com/guide/components/activities/activity-lifecycle?hl=id
+- https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ja
+- https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko
+- https://developer.android.com/guide/components/activities/activity-lifecycle?hl=pt_br
+- https://developer.android.com/guide/topics/ui/shortcuts/best-practices
+- https://developer.android.com/guide/components/activities/recents
+- https://developer.android.com/guide/components/activities/recents?hl=es_419
+- https://developer.android.com/guide/components/activities/recents?hl=id
+- https://developer.android.com/guide/components/activities/recents?hl=ja
+- https://developer.android.com/guide/components/activities/recents?hl=ko
+- https://developer.android.com/guide/components/activities/recents?hl=pt_br
+- https://developer.android.com/guide/components/activities/recents?hl=zh_cn
+- https://developer.android.com/guide/fragments/dialogs
+- https://developer.android.com/guide/fragments/appbar
+- https://developer.android.com/guide/topics/ui/accessibility
+- https://developer.android.com/guide/topics/ui/accessibility?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility?hl=pt_br
+- https://developer.android.com/guide/webapps/best-practices
+- https://developer.android.com/guide/webapps/best-practices?hl=id
+- https://developer.android.com/guide/webapps/best-practices?hl=ja
+- https://developer.android.com/guide/webapps/best-practices?hl=ko
+- https://developer.android.com/guide/webapps/best-practices?hl=pt_br
+- https://developer.android.com/guide/webapps/best-practices?hl=zh_cn
+- https://developer.android.com/guide/webapps/best-practices?hl=es_419
+- https://developer.android.com/guide/topics/renderscript/reference/rs_vector_math
+- https://developer.android.com/guide/topics/renderscript/advanced
+- https://developer.android.com/guide/topics/renderscript/advanced?hl=es_419
+- https://developer.android.com/guide/topics/renderscript/advanced?hl=zh_cn
+- https://developer.android.com/guide/topics/renderscript/advanced?hl=id
+- https://developer.android.com/guide/topics/renderscript/advanced?hl=ja
+- https://developer.android.com/guide/topics/renderscript/advanced?hl=ko
+- https://developer.android.com/guide/topics/renderscript/advanced?hl=pt_br
+- https://developer.android.com/guide/topics/text/autofill-optimize
+- https://developer.android.com/guide/topics/text/autofill-optimize?hl=es_419
+- https://developer.android.com/guide/topics/text/autofill-optimize?hl=zh_cn
+- https://developer.android.com/guide/topics/text/autofill-optimize?hl=id
+- https://developer.android.com/guide/topics/text/autofill-optimize?hl=ja
+- https://developer.android.com/guide/topics/text/autofill-optimize?hl=ko
+- https://developer.android.com/guide/topics/text/autofill-optimize?hl=pt_br
+- https://developer.android.com/guide/topics/media/media-codecs
+- https://developer.android.com/guide/topics/media/media-codecs?hl=es_419
+- https://developer.android.com/guide/topics/media/media-codecs?hl=zh_cn
+- https://developer.android.com/guide/topics/media/media-codecs?hl=id
+- https://developer.android.com/guide/topics/media/media-codecs?hl=ja
+- https://developer.android.com/guide/topics/media/media-codecs?hl=ko
+- https://developer.android.com/guide/topics/media/media-codecs?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=ko
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=es-419
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=pt-br
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=id
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=ja
+- https://developer.android.com/guide/navigation/navigation-swipe-view-2?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/NetworkException
+- https://developer.android.com/guide/topics/manifest/action-element
+- https://developer.android.com/guide/topics/manifest/action-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/action-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/action-element?hl=id
+- https://developer.android.com/guide/topics/manifest/action-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/action-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/action-element?hl=pt_br
+- https://developer.android.com/guide/topics/text/creating-input-method
+- https://developer.android.com/guide/topics/text/creating-input-method?hl=es_419
+- https://developer.android.com/guide/topics/text/creating-input-method?hl=zh_cn
+- https://developer.android.com/guide/topics/text/creating-input-method?hl=id
+- https://developer.android.com/guide/topics/text/creating-input-method?hl=ja
+- https://developer.android.com/guide/topics/text/creating-input-method?hl=ko
+- https://developer.android.com/guide/topics/text/creating-input-method?hl=pt_br
+- https://developer.android.com/guide/webapps/migrating
+- https://developer.android.com/guide/webapps/migrating?hl=id
+- https://developer.android.com/guide/webapps/migrating?hl=ja
+- https://developer.android.com/guide/webapps/migrating?hl=ko
+- https://developer.android.com/guide/webapps/migrating?hl=pt_br
+- https://developer.android.com/guide/webapps/migrating?hl=zh_cn
+- https://developer.android.com/guide/webapps/migrating?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=id
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=ja
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=ko
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/video-app/building-a-video-app?hl=zh_cn
+- https://developer.android.com/guide/topics/renderscript/reference/rs_time
+- https://developer.android.com/guide/playcore/play-feature-delivery
+- https://developer.android.com/guide/topics/data/keyvaluebackup
+- https://developer.android.com/guide/topics/data/keyvaluebackup?hl=es_419
+- https://developer.android.com/guide/topics/data/keyvaluebackup?hl=zh_cn
+- https://developer.android.com/guide/topics/data/keyvaluebackup?hl=id
+- https://developer.android.com/guide/topics/data/keyvaluebackup?hl=ja
+- https://developer.android.com/guide/topics/data/keyvaluebackup?hl=ko
+- https://developer.android.com/guide/topics/data/keyvaluebackup?hl=pt_br
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=ko
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=es-419
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=pt-br
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=id
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=ja
+- https://developer.android.com/guide/app-bundle/asset-delivery/texture-compression?hl=zh-cn
+- https://developer.android.com/guide/topics/sensors/sensors_environment
+- https://developer.android.com/guide/topics/sensors/sensors_environment?hl=es_419
+- https://developer.android.com/guide/topics/sensors/sensors_environment?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors/sensors_environment?hl=id
+- https://developer.android.com/guide/topics/sensors/sensors_environment?hl=ja
+- https://developer.android.com/guide/topics/sensors/sensors_environment?hl=ko
+- https://developer.android.com/guide/topics/sensors/sensors_environment?hl=pt_br
+- https://developer.android.com/guide/topics/text/image-keyboard
+- https://developer.android.com/guide/topics/text/image-keyboard?hl=es_419
+- https://developer.android.com/guide/topics/text/image-keyboard?hl=zh_cn
+- https://developer.android.com/guide/topics/text/image-keyboard?hl=id
+- https://developer.android.com/guide/topics/text/image-keyboard?hl=ja
+- https://developer.android.com/guide/topics/text/image-keyboard?hl=ko
+- https://developer.android.com/guide/topics/text/image-keyboard?hl=pt_br
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=es_419
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=id
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=ja
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=ko
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=pt_br
+- https://developer.android.com/guide/topics/search/adding-custom-suggestions?hl=zh_cn
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=ko
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=es-419
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=pt-br
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=id
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=ja
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-unity?hl=zh-cn
+- https://developer.android.com/guide/topics/sensors/sensors_overview
+- https://developer.android.com/guide/topics/sensors/sensors_overview?hl=es_419
+- https://developer.android.com/guide/topics/sensors/sensors_overview?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors/sensors_overview?hl=id
+- https://developer.android.com/guide/topics/sensors/sensors_overview?hl=ja
+- https://developer.android.com/guide/topics/sensors/sensors_overview?hl=ko
+- https://developer.android.com/guide/topics/sensors/sensors_overview?hl=pt_br
+- https://developer.android.com/guide/topics/sensors/sensors_position
+- https://developer.android.com/guide/topics/sensors/sensors_position?hl=es_419
+- https://developer.android.com/guide/topics/sensors/sensors_position?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors/sensors_position?hl=id
+- https://developer.android.com/guide/topics/sensors/sensors_position?hl=ja
+- https://developer.android.com/guide/topics/sensors/sensors_position?hl=ko
+- https://developer.android.com/guide/topics/sensors/sensors_position?hl=pt_br
+- https://developer.android.com/guide/topics/providers/calendar-provider
+- https://developer.android.com/guide/topics/providers/calendar-provider?hl=es-419
+- https://developer.android.com/guide/topics/providers/calendar-provider?hl=zh-cn
+- https://developer.android.com/guide/topics/providers/calendar-provider?hl=id
+- https://developer.android.com/guide/topics/providers/calendar-provider?hl=ja
+- https://developer.android.com/guide/topics/providers/calendar-provider?hl=ko
+- https://developer.android.com/guide/topics/providers/calendar-provider?hl=pt-br
+- https://developer.android.com/guide/components/activities/state-changes
+- https://developer.android.com/guide/components/activities/state-changes?hl=es_419
+- https://developer.android.com/guide/components/activities/state-changes?hl=id
+- https://developer.android.com/guide/components/activities/state-changes?hl=ja
+- https://developer.android.com/guide/components/activities/state-changes?hl=ko
+- https://developer.android.com/guide/components/activities/state-changes?hl=pt_br
+- https://developer.android.com/guide/components/activities/state-changes?hl=zh_cn
+- https://developer.android.com/guide/topics/providers/content-providers
+- https://developer.android.com/guide/topics/providers/content-providers?hl=es-419
+- https://developer.android.com/guide/topics/providers/content-providers?hl=zh-cn
+- https://developer.android.com/guide/topics/providers/content-providers?hl=id
+- https://developer.android.com/guide/topics/providers/content-providers?hl=ja
+- https://developer.android.com/guide/topics/providers/content-providers?hl=ko
+- https://developer.android.com/guide/topics/providers/content-providers?hl=pt-br
+- https://developer.android.com/guide/topics/graphics/spring-animation
+- https://developer.android.com/guide/topics/graphics/spring-animation?hl=es_419
+- https://developer.android.com/guide/topics/graphics/spring-animation?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/spring-animation?hl=id
+- https://developer.android.com/guide/topics/graphics/spring-animation?hl=ja
+- https://developer.android.com/guide/topics/graphics/spring-animation?hl=ko
+- https://developer.android.com/guide/topics/graphics/spring-animation?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_io
+- https://developer.android.com/guide/topics/ui/controls/pickers
+- https://developer.android.com/guide/fragments/transactions
+- https://developer.android.com/guide/app-bundle/instant-delivery
+- https://developer.android.com/guide/app-bundle/instant-delivery?hl=id
+- https://developer.android.com/guide/app-bundle/instant-delivery?hl=ja
+- https://developer.android.com/guide/app-bundle/instant-delivery?hl=pt-br
+- https://developer.android.com/guide/app-bundle/instant-delivery?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/instant-delivery?hl=ko
+- https://developer.android.com/guide/app-bundle/instant-delivery?hl=es-419
+- https://developer.android.com/guide/topics/resources/layout-resource
+- https://developer.android.com/guide/topics/resources/layout-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/layout-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/layout-resource?hl=id
+- https://developer.android.com/guide/topics/resources/layout-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/layout-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/layout-resource?hl=pt_br
+- https://developer.android.com/guide/webapps/managing-webview
+- https://developer.android.com/guide/webapps/managing-webview?hl=es_419
+- https://developer.android.com/guide/webapps/managing-webview?hl=zh_cn
+- https://developer.android.com/guide/webapps/managing-webview?hl=id
+- https://developer.android.com/guide/webapps/managing-webview?hl=ja
+- https://developer.android.com/guide/webapps/managing-webview?hl=ko
+- https://developer.android.com/guide/webapps/managing-webview?hl=pt_br
+- https://developer.android.com/guide/fragments/create
+- https://developer.android.com/guide/topics/resources/multilingual-support
+- https://developer.android.com/guide/topics/resources/multilingual-support?hl=es_419
+- https://developer.android.com/guide/topics/resources/multilingual-support?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/multilingual-support?hl=id
+- https://developer.android.com/guide/topics/resources/multilingual-support?hl=ja
+- https://developer.android.com/guide/topics/resources/multilingual-support?hl=ko
+- https://developer.android.com/guide/topics/resources/multilingual-support?hl=pt_br
+- https://developer.android.com/guide/topics/resources/animation-resource
+- https://developer.android.com/guide/topics/resources/animation-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/animation-resource?hl=id
+- https://developer.android.com/guide/topics/resources/animation-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/animation-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/animation-resource?hl=pt_br
+- https://developer.android.com/guide/topics/resources/animation-resource?hl=zh_cn
+- https://developer.android.com/guide/app-bundle
+- https://developer.android.com/guide/app-bundle?hl=id
+- https://developer.android.com/guide/app-bundle?hl=ja
+- https://developer.android.com/guide/app-bundle?hl=ko
+- https://developer.android.com/guide/app-bundle?hl=pt_br
+- https://developer.android.com/guide/app-bundle?hl=zh_cn
+- https://developer.android.com/guide/app-bundle?hl=es_419
+- https://developer.android.com/guide/webapps/debugging
+- https://developer.android.com/guide/webapps/debugging?hl=id
+- https://developer.android.com/guide/webapps/debugging?hl=ja
+- https://developer.android.com/guide/webapps/debugging?hl=ko
+- https://developer.android.com/guide/webapps/debugging?hl=pt_br
+- https://developer.android.com/guide/webapps/debugging?hl=zh_cn
+- https://developer.android.com/guide/webapps/debugging?hl=es_419
+- https://developer.android.com/guide/topics/renderscript/reference/rs_graphics
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=es_419
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=id
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=ja
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=ko
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel/themes?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CallbackException
+- https://developer.android.com/guide/topics/ui/accessibility/principles
+- https://developer.android.com/guide/topics/ui/accessibility/principles?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility/principles?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/principles?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility/principles?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility/principles?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility/principles?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/activity-element
+- https://developer.android.com/guide/topics/manifest/activity-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/activity-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/activity-element?hl=id
+- https://developer.android.com/guide/topics/manifest/activity-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/activity-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/activity-element?hl=pt_br
+- https://developer.android.com/guide/fragments/animate
+- https://developer.android.com/guide/topics/renderscript/reference/rs_allocation_create
+- https://developer.android.com/guide/topics/media/mediarouteprovider
+- https://developer.android.com/guide/topics/media/mediarouteprovider?hl=es_419
+- https://developer.android.com/guide/topics/media/mediarouteprovider?hl=id
+- https://developer.android.com/guide/topics/media/mediarouteprovider?hl=ja
+- https://developer.android.com/guide/topics/media/mediarouteprovider?hl=ko
+- https://developer.android.com/guide/topics/media/mediarouteprovider?hl=pt_br
+- https://developer.android.com/guide/topics/media/mediarouteprovider?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=ja
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=ko
+- https://developer.android.com/guide/topics/ui/settings/organize-your-settings?hl=id
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlResponseInfo
+- https://developer.android.com/guide/topics/resources/color-list-resource
+- https://developer.android.com/guide/topics/resources/color-list-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/color-list-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/color-list-resource?hl=id
+- https://developer.android.com/guide/topics/resources/color-list-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/color-list-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/color-list-resource?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=id
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-suggest?hl=pt_br
+- https://developer.android.com/guide/topics/media/playback-capture
+- https://developer.android.com/guide/topics/media/playback-capture?hl=es_419
+- https://developer.android.com/guide/topics/media/playback-capture?hl=zh_cn
+- https://developer.android.com/guide/topics/media/playback-capture?hl=id
+- https://developer.android.com/guide/topics/media/playback-capture?hl=ja
+- https://developer.android.com/guide/topics/media/playback-capture?hl=ko
+- https://developer.android.com/guide/topics/media/playback-capture?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/telecom
+- https://developer.android.com/guide/topics/connectivity/telecom?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/telecom?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/telecom?hl=id
+- https://developer.android.com/guide/topics/connectivity/telecom?hl=ja
+- https://developer.android.com/guide/topics/connectivity/telecom?hl=ko
+- https://developer.android.com/guide/topics/connectivity/telecom?hl=pt_br
+- https://developer.android.com/guide/topics/ui/ui-events
+- https://developer.android.com/guide/topics/ui/ui-events?hl=es-419
+- https://developer.android.com/guide/topics/ui/ui-events?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/ui-events?hl=id
+- https://developer.android.com/guide/topics/ui/ui-events?hl=ja
+- https://developer.android.com/guide/topics/ui/ui-events?hl=ko
+- https://developer.android.com/guide/topics/ui/ui-events?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.Builder
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=es-419
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-infrastructure?hl=id
+- https://developer.android.com/guide/components/bound-services
+- https://developer.android.com/guide/components/bound-services?hl=es-419
+- https://developer.android.com/guide/components/bound-services?hl=zh-cn
+- https://developer.android.com/guide/components/bound-services?hl=id
+- https://developer.android.com/guide/components/bound-services?hl=ja
+- https://developer.android.com/guide/components/bound-services?hl=ko
+- https://developer.android.com/guide/components/bound-services?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/cronet
+- https://developer.android.com/guide/topics/connectivity/cronet?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet?hl=id
+- https://developer.android.com/guide/topics/connectivity/cronet?hl=ja
+- https://developer.android.com/guide/topics/connectivity/cronet?hl=ko
+- https://developer.android.com/guide/topics/connectivity/cronet?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet?hl=es_419
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=es-419
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=zh-cn
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=id
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=ja
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=ko
+- https://developer.android.com/guide/practices/ui_guidelines/icon_design_adaptive?hl=pt-br
+- https://developer.android.com/guide/components/activities/background-starts
+- https://developer.android.com/guide/components/activities/background-starts?hl=es_419
+- https://developer.android.com/guide/components/activities/background-starts?hl=zh_cn
+- https://developer.android.com/guide/components/activities/background-starts?hl=id
+- https://developer.android.com/guide/components/activities/background-starts?hl=ja
+- https://developer.android.com/guide/components/activities/background-starts?hl=ko
+- https://developer.android.com/guide/components/activities/background-starts?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/provider-element
+- https://developer.android.com/guide/topics/manifest/provider-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/provider-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/provider-element?hl=id
+- https://developer.android.com/guide/topics/manifest/provider-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/provider-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/provider-element?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-programmatic
+- https://developer.android.com/guide/navigation/navigation-programmatic?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-programmatic?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-programmatic?hl=id
+- https://developer.android.com/guide/navigation/navigation-programmatic?hl=ja
+- https://developer.android.com/guide/navigation/navigation-programmatic?hl=ko
+- https://developer.android.com/guide/navigation/navigation-programmatic?hl=pt_br
+- https://developer.android.com/guide/topics/search
+- https://developer.android.com/guide/topics/search?hl=id
+- https://developer.android.com/guide/topics/search?hl=es_419
+- https://developer.android.com/guide/topics/search?hl=ja
+- https://developer.android.com/guide/topics/search?hl=ko
+- https://developer.android.com/guide/topics/search?hl=pt_br
+- https://developer.android.com/guide/topics/search?hl=zh_cn
+- https://developer.android.com/guide/components/aidl
+- https://developer.android.com/guide/components/aidl?hl=es_419
+- https://developer.android.com/guide/components/aidl?hl=zh_cn
+- https://developer.android.com/guide/components/aidl?hl=id
+- https://developer.android.com/guide/components/aidl?hl=ja
+- https://developer.android.com/guide/components/aidl?hl=ko
+- https://developer.android.com/guide/components/aidl?hl=pt_br
+- https://developer.android.com/guide/topics/resources/font-resource
+- https://developer.android.com/guide/topics/resources/font-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/font-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/font-resource?hl=id
+- https://developer.android.com/guide/topics/resources/font-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/font-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/font-resource?hl=pt_br
+- https://developer.android.com/guide/practices/verifying-apps-art
+- https://developer.android.com/guide/practices/verifying-apps-art?hl=es_419
+- https://developer.android.com/guide/practices/verifying-apps-art?hl=zh_cn
+- https://developer.android.com/guide/practices/verifying-apps-art?hl=id
+- https://developer.android.com/guide/practices/verifying-apps-art?hl=ja
+- https://developer.android.com/guide/practices/verifying-apps-art?hl=ko
+- https://developer.android.com/guide/practices/verifying-apps-art?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=id
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=ja
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=ko
+- https://developer.android.com/guide/topics/connectivity/telecom/telephony-ids?hl=pt_br
+- https://developer.android.com/guide/playcore/license
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=id
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=ja
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=pt-br
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=ko
+- https://developer.android.com/guide/app-bundle/test/testing-fakesplitinstallmanager?hl=es-419
+- https://developer.android.com/guide/topics/location/transitions
+- https://developer.android.com/guide/topics/location/transitions?hl=es_419
+- https://developer.android.com/guide/topics/location/transitions?hl=zh_cn
+- https://developer.android.com/guide/topics/location/transitions?hl=id
+- https://developer.android.com/guide/topics/location/transitions?hl=ja
+- https://developer.android.com/guide/topics/location/transitions?hl=ko
+- https://developer.android.com/guide/topics/location/transitions?hl=pt_br
+- https://developer.android.com/guide/topics/providers/content-provider-basics
+- https://developer.android.com/guide/topics/providers/content-provider-basics?hl=es-419
+- https://developer.android.com/guide/topics/providers/content-provider-basics?hl=zh-cn
+- https://developer.android.com/guide/topics/providers/content-provider-basics?hl=id
+- https://developer.android.com/guide/topics/providers/content-provider-basics?hl=ja
+- https://developer.android.com/guide/topics/providers/content-provider-basics?hl=ko
+- https://developer.android.com/guide/topics/providers/content-provider-basics?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetException
+- https://developer.android.com/guide/topics/graphics/drawables
+- https://developer.android.com/guide/topics/graphics/drawables?hl=es_419
+- https://developer.android.com/guide/topics/graphics/drawables?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/drawables?hl=id
+- https://developer.android.com/guide/topics/graphics/drawables?hl=ja
+- https://developer.android.com/guide/topics/graphics/drawables?hl=ko
+- https://developer.android.com/guide/topics/graphics/drawables?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=es-419
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-rtt?hl=id
+- https://developer.android.com/guide/webapps/webview
+- https://developer.android.com/guide/webapps/webview?hl=id
+- https://developer.android.com/guide/webapps/webview?hl=ja
+- https://developer.android.com/guide/webapps/webview?hl=ko
+- https://developer.android.com/guide/webapps/webview?hl=pt_br
+- https://developer.android.com/guide/webapps/webview?hl=zh_cn
+- https://developer.android.com/guide/webapps/webview?hl=es_419
+- https://developer.android.com/guide/topics/manifest/meta-data-element
+- https://developer.android.com/guide/topics/manifest/meta-data-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/meta-data-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/meta-data-element?hl=id
+- https://developer.android.com/guide/topics/manifest/meta-data-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/meta-data-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/meta-data-element?hl=pt_br
+- https://developer.android.com/guide/background/threading
+- https://developer.android.com/guide/background/threading?hl=ja
+- https://developer.android.com/guide/background/threading?hl=pt-br
+- https://developer.android.com/guide/background/threading?hl=ko
+- https://developer.android.com/guide/background/threading?hl=es-419
+- https://developer.android.com/guide/background/threading?hl=zh-cn
+- https://developer.android.com/guide/background/threading?hl=id
+- https://developer.android.com/guide/slices
+- https://developer.android.com/guide/slices?hl=es_419
+- https://developer.android.com/guide/slices?hl=zh_cn
+- https://developer.android.com/guide/slices?hl=id
+- https://developer.android.com/guide/slices?hl=ja
+- https://developer.android.com/guide/slices?hl=ko
+- https://developer.android.com/guide/slices?hl=pt_br
+- https://developer.android.com/guide/topics/text/magnifier
+- https://developer.android.com/guide/topics/text/magnifier?hl=es_419
+- https://developer.android.com/guide/topics/text/magnifier?hl=zh_cn
+- https://developer.android.com/guide/topics/text/magnifier?hl=id
+- https://developer.android.com/guide/topics/text/magnifier?hl=ja
+- https://developer.android.com/guide/topics/text/magnifier?hl=ko
+- https://developer.android.com/guide/topics/text/magnifier?hl=pt_br
+- https://developer.android.com/guide/practices/screens-distribution
+- https://developer.android.com/guide/practices/screens-distribution?hl=es_419
+- https://developer.android.com/guide/practices/screens-distribution?hl=pt_br
+- https://developer.android.com/guide/practices/screens-distribution?hl=id
+- https://developer.android.com/guide/practices/screens-distribution?hl=ja
+- https://developer.android.com/guide/practices/screens-distribution?hl=ko
+- https://developer.android.com/guide/practices/screens-distribution?hl=zh_cn
+- https://developer.android.com/guide/app-bundle/test
+- https://developer.android.com/guide/app-bundle/test?hl=id
+- https://developer.android.com/guide/app-bundle/test?hl=ja
+- https://developer.android.com/guide/app-bundle/test?hl=pt-br
+- https://developer.android.com/guide/app-bundle/test?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/test?hl=ko
+- https://developer.android.com/guide/app-bundle/test?hl=es-419
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=es_419
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=id
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=ja
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=ko
+- https://developer.android.com/guide/topics/graphics/vector-drawable-resources?hl=pt_br
+- https://developer.android.com/guide/components/activities/testing
+- https://developer.android.com/guide/components/activities/testing?hl=es_419
+- https://developer.android.com/guide/components/activities/testing?hl=id
+- https://developer.android.com/guide/components/activities/testing?hl=ja
+- https://developer.android.com/guide/components/activities/testing?hl=ko
+- https://developer.android.com/guide/components/activities/testing?hl=pt_br
+- https://developer.android.com/guide/components/activities/testing?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-swipe-view
+- https://developer.android.com/guide/navigation/navigation-swipe-view?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-swipe-view?hl=id
+- https://developer.android.com/guide/navigation/navigation-swipe-view?hl=ja
+- https://developer.android.com/guide/navigation/navigation-swipe-view?hl=ko
+- https://developer.android.com/guide/navigation/navigation-swipe-view?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-swipe-view?hl=zh_cn
+- https://developer.android.com/guide/components/loaders
+- https://developer.android.com/guide/components/loaders?hl=es-419
+- https://developer.android.com/guide/components/loaders?hl=zh-cn
+- https://developer.android.com/guide/components/loaders?hl=id
+- https://developer.android.com/guide/components/loaders?hl=ja
+- https://developer.android.com/guide/components/loaders?hl=ko
+- https://developer.android.com/guide/components/loaders?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.StatusListener
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=id
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/grant-uri-permission-element?hl=pt_br
+- https://developer.android.com/guide/app-bundle/on-demand-delivery
+- https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=id
+- https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=ja
+- https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=pt-br
+- https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=ko
+- https://developer.android.com/guide/app-bundle/on-demand-delivery?hl=es-419
+- https://developer.android.com/guide/app-bundle/ux-guidelines
+- https://developer.android.com/guide/app-bundle/ux-guidelines?hl=id
+- https://developer.android.com/guide/app-bundle/ux-guidelines?hl=ja
+- https://developer.android.com/guide/app-bundle/ux-guidelines?hl=pt-br
+- https://developer.android.com/guide/app-bundle/ux-guidelines?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/ux-guidelines?hl=ko
+- https://developer.android.com/guide/app-bundle/ux-guidelines?hl=es-419
+- https://developer.android.com/guide/appendix/faq/troubleshooting
+- https://developer.android.com/guide/appendix/faq/troubleshooting?hl=es_419
+- https://developer.android.com/guide/appendix/faq/troubleshooting?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq/troubleshooting?hl=id
+- https://developer.android.com/guide/appendix/faq/troubleshooting?hl=ja
+- https://developer.android.com/guide/appendix/faq/troubleshooting?hl=ko
+- https://developer.android.com/guide/appendix/faq/troubleshooting?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-focus
+- https://developer.android.com/guide/topics/media-apps/audio-focus?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/audio-focus?hl=id
+- https://developer.android.com/guide/topics/media-apps/audio-focus?hl=ja
+- https://developer.android.com/guide/topics/media-apps/audio-focus?hl=ko
+- https://developer.android.com/guide/topics/media-apps/audio-focus?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-focus?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/QuicException
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.Status
+- https://developer.android.com/guide/topics/resources/style-resource
+- https://developer.android.com/guide/topics/resources/style-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/style-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/style-resource?hl=id
+- https://developer.android.com/guide/topics/resources/style-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/style-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/style-resource?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_matrix
+- https://developer.android.com/guide/platform
+- https://developer.android.com/guide/platform?hl=es_419
+- https://developer.android.com/guide/platform?hl=zh_cn
+- https://developer.android.com/guide/platform?hl=id
+- https://developer.android.com/guide/platform?hl=ja
+- https://developer.android.com/guide/platform?hl=ko
+- https://developer.android.com/guide/platform?hl=pt_br
+- https://developer.android.com/guide/fragments/lifecycle
+- https://developer.android.com/guide/playcore/asset-delivery
+- https://developer.android.com/guide/playcore/asset-delivery?hl=pt-br
+- https://developer.android.com/guide/playcore/asset-delivery?hl=ko
+- https://developer.android.com/guide/playcore/asset-delivery?hl=es-419
+- https://developer.android.com/guide/playcore/asset-delivery?hl=ja
+- https://developer.android.com/guide/playcore/asset-delivery?hl=id
+- https://developer.android.com/guide/playcore/asset-delivery?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility/custom-views?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/category-element
+- https://developer.android.com/guide/topics/manifest/category-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/category-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/category-element?hl=id
+- https://developer.android.com/guide/topics/manifest/category-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/category-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/category-element?hl=pt_br
+- https://developer.android.com/guide/topics/graphics/view-animation
+- https://developer.android.com/guide/topics/graphics/view-animation?hl=es_419
+- https://developer.android.com/guide/topics/graphics/view-animation?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/view-animation?hl=id
+- https://developer.android.com/guide/topics/graphics/view-animation?hl=ja
+- https://developer.android.com/guide/topics/graphics/view-animation?hl=ko
+- https://developer.android.com/guide/topics/graphics/view-animation?hl=pt_br
+- https://developer.android.com/guide/topics/media/frame-rate
+- https://developer.android.com/guide/navigation/navigation-config-changes
+- https://developer.android.com/guide/navigation/navigation-config-changes?hl=pt-br
+- https://developer.android.com/guide/navigation/navigation-config-changes?hl=ko
+- https://developer.android.com/guide/navigation/navigation-config-changes?hl=es-419
+- https://developer.android.com/guide/navigation/navigation-config-changes?hl=ja
+- https://developer.android.com/guide/navigation/navigation-config-changes?hl=id
+- https://developer.android.com/guide/navigation/navigation-config-changes?hl=zh-cn
+- https://developer.android.com/guide/topics/media/sharing-audio-input
+- https://developer.android.com/guide/topics/media/sharing-audio-input?hl=es_419
+- https://developer.android.com/guide/topics/media/sharing-audio-input?hl=zh_cn
+- https://developer.android.com/guide/topics/media/sharing-audio-input?hl=id
+- https://developer.android.com/guide/topics/media/sharing-audio-input?hl=ja
+- https://developer.android.com/guide/topics/media/sharing-audio-input?hl=ko
+- https://developer.android.com/guide/topics/media/sharing-audio-input?hl=pt_br
+- https://developer.android.com/guide/topics/security/cryptography
+- https://developer.android.com/guide/topics/security/cryptography?hl=es_419
+- https://developer.android.com/guide/topics/security/cryptography?hl=zh_cn
+- https://developer.android.com/guide/topics/security/cryptography?hl=id
+- https://developer.android.com/guide/topics/security/cryptography?hl=ja
+- https://developer.android.com/guide/topics/security/cryptography?hl=ko
+- https://developer.android.com/guide/topics/security/cryptography?hl=pt_br
+- https://developer.android.com/guide/webapps
+- https://developer.android.com/guide/webapps?hl=id
+- https://developer.android.com/guide/webapps?hl=ja
+- https://developer.android.com/guide/webapps?hl=ko
+- https://developer.android.com/guide/webapps?hl=pt_br
+- https://developer.android.com/guide/webapps?hl=zh_cn
+- https://developer.android.com/guide/webapps?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=id
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=ja
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=ko
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/companion-device-pairing?hl=zh_cn
+- https://developer.android.com/guide/fragments/saving-state
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=es_419
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=id
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=ja
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=ko
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel/autosizing-textview?hl=zh_cn
+- https://developer.android.com/guide/components/processes-and-threads
+- https://developer.android.com/guide/components/processes-and-threads?hl=es-419
+- https://developer.android.com/guide/components/processes-and-threads?hl=zh-cn
+- https://developer.android.com/guide/components/processes-and-threads?hl=id
+- https://developer.android.com/guide/components/processes-and-threads?hl=ja
+- https://developer.android.com/guide/components/processes-and-threads?hl=ko
+- https://developer.android.com/guide/components/processes-and-threads?hl=pt-br
+- https://developer.android.com/guide/topics/ui/how-android-draws
+- https://developer.android.com/guide/topics/ui/how-android-draws?hl=es_419
+- https://developer.android.com/guide/topics/ui/how-android-draws?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/how-android-draws?hl=id
+- https://developer.android.com/guide/topics/ui/how-android-draws?hl=ja
+- https://developer.android.com/guide/topics/ui/how-android-draws?hl=ko
+- https://developer.android.com/guide/topics/ui/how-android-draws?hl=pt_br
+- https://developer.android.com/guide/topics/ui/conversations
+- https://developer.android.com/guide/topics/ui/conversations?hl=pt-br
+- https://developer.android.com/guide/topics/ui/conversations?hl=ja
+- https://developer.android.com/guide/topics/ui/conversations?hl=ko
+- https://developer.android.com/guide/topics/ui/conversations?hl=es-419
+- https://developer.android.com/guide/topics/ui/conversations?hl=id
+- https://developer.android.com/guide/topics/ui/conversations?hl=zh-cn
+- https://developer.android.com/guide/topics/connectivity/localonlyhotspot
+- https://developer.android.com/guide/topics/connectivity/bluetooth
+- https://developer.android.com/guide/topics/connectivity/bluetooth?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/bluetooth?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/bluetooth?hl=id
+- https://developer.android.com/guide/topics/connectivity/bluetooth?hl=ja
+- https://developer.android.com/guide/topics/connectivity/bluetooth?hl=ko
+- https://developer.android.com/guide/topics/connectivity/bluetooth?hl=pt_br
+- https://developer.android.com/guide/topics/resources/string-resource
+- https://developer.android.com/guide/topics/resources/string-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/string-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/string-resource?hl=id
+- https://developer.android.com/guide/topics/resources/string-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/string-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/string-resource?hl=pt_br
+- https://developer.android.com/guide/webapps/webview-privacy
+- https://developer.android.com/guide/topics/ui/layout/grid
+- https://developer.android.com/guide/topics/ui/layout/grid?hl=es_419
+- https://developer.android.com/guide/topics/ui/layout/grid?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/layout/grid?hl=id
+- https://developer.android.com/guide/topics/ui/layout/grid?hl=ja
+- https://developer.android.com/guide/topics/ui/layout/grid?hl=ko
+- https://developer.android.com/guide/topics/ui/layout/grid?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference
+- https://developer.android.com/guide/topics/ui/accessibility/service
+- https://developer.android.com/guide/topics/ui/accessibility/service?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility/service?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility/service?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/service?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility/service?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility/service?hl=pt_br
+- https://developer.android.com/guide/topics/ui/controls/spinner
+- https://developer.android.com/guide/topics/ui/controls/spinner?hl=es_419
+- https://developer.android.com/guide/topics/ui/controls/spinner?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/controls/spinner?hl=id
+- https://developer.android.com/guide/topics/ui/controls/spinner?hl=ja
+- https://developer.android.com/guide/topics/ui/controls/spinner?hl=ko
+- https://developer.android.com/guide/topics/ui/controls/spinner?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/wifi-save-network-passpoint-config
+- https://developer.android.com/guide/topics/resources/runtime-changes
+- https://developer.android.com/guide/topics/resources/runtime-changes?hl=es-419
+- https://developer.android.com/guide/topics/resources/runtime-changes?hl=zh-cn
+- https://developer.android.com/guide/topics/resources/runtime-changes?hl=id
+- https://developer.android.com/guide/topics/resources/runtime-changes?hl=ja
+- https://developer.android.com/guide/topics/resources/runtime-changes?hl=ko
+- https://developer.android.com/guide/topics/resources/runtime-changes?hl=pt-br
+- https://developer.android.com/guide/topics/data
+- https://developer.android.com/guide/topics/data?hl=id
+- https://developer.android.com/guide/topics/data?hl=es_419
+- https://developer.android.com/guide/topics/data?hl=zh_cn
+- https://developer.android.com/guide/topics/data?hl=ja
+- https://developer.android.com/guide/topics/data?hl=ko
+- https://developer.android.com/guide/topics/data?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=id
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=ja
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=ko
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/media-apps-overview?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors/sensors_motion
+- https://developer.android.com/guide/topics/sensors/sensors_motion?hl=es_419
+- https://developer.android.com/guide/topics/sensors/sensors_motion?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors/sensors_motion?hl=id
+- https://developer.android.com/guide/topics/sensors/sensors_motion?hl=ja
+- https://developer.android.com/guide/topics/sensors/sensors_motion?hl=ko
+- https://developer.android.com/guide/topics/sensors/sensors_motion?hl=pt_br
+- https://developer.android.com/guide/topics/ui/settings
+- https://developer.android.com/guide/topics/ui/settings?hl=id
+- https://developer.android.com/guide/topics/ui/settings?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings?hl=ja
+- https://developer.android.com/guide/topics/ui/settings?hl=ko
+- https://developer.android.com/guide/topics/ui/settings?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/cronet/start
+- https://developer.android.com/guide/topics/connectivity/cronet/start?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/start?hl=id
+- https://developer.android.com/guide/topics/connectivity/cronet/start?hl=ja
+- https://developer.android.com/guide/topics/connectivity/cronet/start?hl=ko
+- https://developer.android.com/guide/topics/connectivity/cronet/start?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet/start?hl=es_419
+- https://developer.android.com/guide/samples
+- https://developer.android.com/guide/components/intents-common
+- https://developer.android.com/guide/components/intents-common?hl=es_419
+- https://developer.android.com/guide/components/intents-common?hl=zh_cn
+- https://developer.android.com/guide/components/intents-common?hl=id
+- https://developer.android.com/guide/components/intents-common?hl=ja
+- https://developer.android.com/guide/components/intents-common?hl=ko
+- https://developer.android.com/guide/components/intents-common?hl=pt_br
+- https://developer.android.com/guide/topics/media/media-formats
+- https://developer.android.com/guide/topics/media/media-formats?hl=es_419
+- https://developer.android.com/guide/topics/media/media-formats?hl=id
+- https://developer.android.com/guide/topics/media/media-formats?hl=ja
+- https://developer.android.com/guide/topics/media/media-formats?hl=ko
+- https://developer.android.com/guide/topics/media/media-formats?hl=pt_br
+- https://developer.android.com/guide/topics/media/media-formats?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-design-graph
+- https://developer.android.com/guide/navigation/navigation-design-graph?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-design-graph?hl=id
+- https://developer.android.com/guide/navigation/navigation-design-graph?hl=ja
+- https://developer.android.com/guide/navigation/navigation-design-graph?hl=ko
+- https://developer.android.com/guide/navigation/navigation-design-graph?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-design-graph?hl=zh_cn
+- https://developer.android.com/guide/app-bundle/asset-delivery
+- https://developer.android.com/guide/app-bundle/asset-delivery?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/asset-delivery?hl=ja
+- https://developer.android.com/guide/app-bundle/asset-delivery?hl=ko
+- https://developer.android.com/guide/app-bundle/asset-delivery?hl=pt-br
+- https://developer.android.com/guide/app-bundle/asset-delivery?hl=es-419
+- https://developer.android.com/guide/app-bundle/asset-delivery?hl=id
+- https://developer.android.com/guide/topics/renderscript/reference/overview
+- https://developer.android.com/guide/background
+- https://developer.android.com/guide/background?hl=id
+- https://developer.android.com/guide/background?hl=ja
+- https://developer.android.com/guide/background?hl=ko
+- https://developer.android.com/guide/background?hl=pt_br
+- https://developer.android.com/guide/background?hl=zh_cn
+- https://developer.android.com/guide/background?hl=es_419
+- https://developer.android.com/guide/topics/renderscript/reference/rs_atomic
+- https://developer.android.com/guide/topics/ui/shortcuts
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetEngine.Builder
+- https://developer.android.com/guide/topics/manifest/intent-filter-element
+- https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=id
+- https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/intent-filter-element?hl=pt_br
+- https://developer.android.com/guide/slices/templates
+- https://developer.android.com/guide/slices/templates?hl=es_419
+- https://developer.android.com/guide/slices/templates?hl=zh_cn
+- https://developer.android.com/guide/slices/templates?hl=id
+- https://developer.android.com/guide/slices/templates?hl=ja
+- https://developer.android.com/guide/slices/templates?hl=ko
+- https://developer.android.com/guide/slices/templates?hl=pt_br
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=es_419
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=id
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=ja
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=ko
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=pt_br
+- https://developer.android.com/guide/topics/media/jet/jetcreator_manual?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/foldables
+- https://developer.android.com/guide/topics/ui/foldables?hl=es_419
+- https://developer.android.com/guide/topics/ui/foldables?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/foldables?hl=id
+- https://developer.android.com/guide/topics/ui/foldables?hl=ja
+- https://developer.android.com/guide/topics/ui/foldables?hl=ko
+- https://developer.android.com/guide/topics/ui/foldables?hl=pt_br
+- https://developer.android.com/guide/topics/media/media-routing
+- https://developer.android.com/guide/topics/media/media-routing?hl=es_419
+- https://developer.android.com/guide/topics/media/media-routing?hl=id
+- https://developer.android.com/guide/topics/media/media-routing?hl=ja
+- https://developer.android.com/guide/topics/media/media-routing?hl=ko
+- https://developer.android.com/guide/topics/media/media-routing?hl=pt_br
+- https://developer.android.com/guide/topics/media/media-routing?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/dialogs
+- https://developer.android.com/guide/topics/ui/dialogs?hl=es-419
+- https://developer.android.com/guide/topics/ui/dialogs?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/dialogs?hl=id
+- https://developer.android.com/guide/topics/ui/dialogs?hl=ja
+- https://developer.android.com/guide/topics/ui/dialogs?hl=ko
+- https://developer.android.com/guide/topics/ui/dialogs?hl=pt-br
+- https://developer.android.com/guide/topics/manifest/uses-permission-element
+- https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/uses-permission-element?hl=pt_br
+- https://developer.android.com/guide/topics/graphics
+- https://developer.android.com/guide/topics/graphics?hl=id
+- https://developer.android.com/guide/topics/graphics?hl=es_419
+- https://developer.android.com/guide/topics/graphics?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics?hl=ja
+- https://developer.android.com/guide/topics/graphics?hl=ko
+- https://developer.android.com/guide/topics/graphics?hl=pt_br
+- https://developer.android.com/guide/topics/ui/tooltips
+- https://developer.android.com/guide/topics/ui/tooltips?hl=es_419
+- https://developer.android.com/guide/topics/ui/tooltips?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/tooltips?hl=id
+- https://developer.android.com/guide/topics/ui/tooltips?hl=ja
+- https://developer.android.com/guide/topics/ui/tooltips?hl=ko
+- https://developer.android.com/guide/topics/ui/tooltips?hl=pt_br
+- https://developer.android.com/guide/topics/media/mediarecorder
+- https://developer.android.com/guide/topics/media/mediarecorder?hl=es_419
+- https://developer.android.com/guide/topics/media/mediarecorder?hl=id
+- https://developer.android.com/guide/topics/media/mediarecorder?hl=ja
+- https://developer.android.com/guide/topics/media/mediarecorder?hl=ko
+- https://developer.android.com/guide/topics/media/mediarecorder?hl=pt_br
+- https://developer.android.com/guide/topics/media/mediarecorder?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/notifiers/toasts
+- https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=es-419
+- https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=id
+- https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=ja
+- https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=ko
+- https://developer.android.com/guide/topics/ui/notifiers/toasts?hl=pt-br
+- https://developer.android.com/guide/topics/ui/multi-window
+- https://developer.android.com/guide/topics/ui/multi-window?hl=es-419
+- https://developer.android.com/guide/topics/ui/multi-window?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/multi-window?hl=id
+- https://developer.android.com/guide/topics/ui/multi-window?hl=ja
+- https://developer.android.com/guide/topics/ui/multi-window?hl=ko
+- https://developer.android.com/guide/topics/ui/multi-window?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=ja
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=ko
+- https://developer.android.com/guide/topics/ui/settings/programmatic-hierarchy?hl=id
+- https://developer.android.com/guide/navigation/navigation-dynamic
+- https://developer.android.com/guide/navigation/navigation-dynamic?hl=ko
+- https://developer.android.com/guide/navigation/navigation-dynamic?hl=es-419
+- https://developer.android.com/guide/navigation/navigation-dynamic?hl=pt-br
+- https://developer.android.com/guide/navigation/navigation-dynamic?hl=id
+- https://developer.android.com/guide/navigation/navigation-dynamic?hl=ja
+- https://developer.android.com/guide/navigation/navigation-dynamic?hl=zh-cn
+- https://developer.android.com/guide/navigation/navigation-pass-data
+- https://developer.android.com/guide/navigation/navigation-pass-data?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-pass-data?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-pass-data?hl=id
+- https://developer.android.com/guide/navigation/navigation-pass-data?hl=ja
+- https://developer.android.com/guide/navigation/navigation-pass-data?hl=ko
+- https://developer.android.com/guide/navigation/navigation-pass-data?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_math
+- https://developer.android.com/guide/topics/data/audit-access
+- https://developer.android.com/guide/topics/data/audit-access?hl=pt-br
+- https://developer.android.com/guide/topics/data/audit-access?hl=ko
+- https://developer.android.com/guide/topics/data/audit-access?hl=es-419
+- https://developer.android.com/guide/topics/data/audit-access?hl=ja
+- https://developer.android.com/guide/topics/data/audit-access?hl=id
+- https://developer.android.com/guide/topics/data/audit-access?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=ja
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=ko
+- https://developer.android.com/guide/topics/ui/settings/components-and-attributes?hl=id
+- https://developer.android.com/guide/topics/ui/declaring-layout
+- https://developer.android.com/guide/topics/ui/declaring-layout?hl=es-419
+- https://developer.android.com/guide/topics/ui/declaring-layout?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/declaring-layout?hl=id
+- https://developer.android.com/guide/topics/ui/declaring-layout?hl=ja
+- https://developer.android.com/guide/topics/ui/declaring-layout?hl=ko
+- https://developer.android.com/guide/topics/ui/declaring-layout?hl=pt-br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_debug
+- https://developer.android.com/guide/topics/media/mediaplayer
+- https://developer.android.com/guide/topics/media/mediaplayer?hl=es_419
+- https://developer.android.com/guide/topics/media/mediaplayer?hl=id
+- https://developer.android.com/guide/topics/media/mediaplayer?hl=ja
+- https://developer.android.com/guide/topics/media/mediaplayer?hl=ko
+- https://developer.android.com/guide/topics/media/mediaplayer?hl=pt_br
+- https://developer.android.com/guide/topics/media/mediaplayer?hl=zh_cn
+- https://developer.android.com/guide/navigation
+- https://developer.android.com/guide/navigation?hl=es_419
+- https://developer.android.com/guide/navigation?hl=zh_cn
+- https://developer.android.com/guide/navigation?hl=id
+- https://developer.android.com/guide/navigation?hl=ja
+- https://developer.android.com/guide/navigation?hl=ko
+- https://developer.android.com/guide/navigation?hl=pt_br
+- https://developer.android.com/guide/topics/ui/layout/recyclerview-custom
+- https://developer.android.com/guide/topics/graphics/hardware-accel
+- https://developer.android.com/guide/topics/graphics/hardware-accel?hl=es_419
+- https://developer.android.com/guide/topics/graphics/hardware-accel?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/hardware-accel?hl=id
+- https://developer.android.com/guide/topics/graphics/hardware-accel?hl=ja
+- https://developer.android.com/guide/topics/graphics/hardware-accel?hl=ko
+- https://developer.android.com/guide/topics/graphics/hardware-accel?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_convert
+- https://developer.android.com/guide/navigation/navigation-ui
+- https://developer.android.com/guide/navigation/navigation-ui?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-ui?hl=id
+- https://developer.android.com/guide/navigation/navigation-ui?hl=ja
+- https://developer.android.com/guide/navigation/navigation-ui?hl=ko
+- https://developer.android.com/guide/navigation/navigation-ui?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-ui?hl=zh_cn
+- https://developer.android.com/guide/topics/permissions/defining
+- https://developer.android.com/guide/topics/permissions/defining?hl=es_419
+- https://developer.android.com/guide/topics/permissions/defining?hl=zh_cn
+- https://developer.android.com/guide/topics/permissions/defining?hl=id
+- https://developer.android.com/guide/topics/permissions/defining?hl=ja
+- https://developer.android.com/guide/topics/permissions/defining?hl=ko
+- https://developer.android.com/guide/topics/permissions/defining?hl=pt_br
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=pt-br
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=ko
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=es-419
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=ja
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=id
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-native?hl=zh-cn
+- https://developer.android.com/guide/topics/manifest/application-element
+- https://developer.android.com/guide/topics/manifest/application-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/application-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/application-element?hl=id
+- https://developer.android.com/guide/topics/manifest/application-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/application-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/application-element?hl=pt_br
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=ko
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=es-419
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=pt-br
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=id
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=ja
+- https://developer.android.com/guide/playcore/asset-delivery/integrate-java?hl=zh-cn
+- https://developer.android.com/guide/practices/compatibility
+- https://developer.android.com/guide/practices/compatibility?hl=es_419
+- https://developer.android.com/guide/practices/compatibility?hl=id
+- https://developer.android.com/guide/practices/compatibility?hl=ja
+- https://developer.android.com/guide/practices/compatibility?hl=ko
+- https://developer.android.com/guide/practices/compatibility?hl=pt_br
+- https://developer.android.com/guide/practices/compatibility?hl=zh_cn
+- https://developer.android.com/guide/app-bundle/play-feature-delivery
+- https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=ko
+- https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=pt-br
+- https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=es-419
+- https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=ja
+- https://developer.android.com/guide/app-bundle/play-feature-delivery?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-library-element
+- https://developer.android.com/guide/topics/manifest/uses-library-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/uses-library-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-library-element?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-library-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-library-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/uses-library-element?hl=pt_br
+- https://developer.android.com/guide/playcore/in-app-review
+- https://developer.android.com/guide/playcore/in-app-review?hl=ko
+- https://developer.android.com/guide/playcore/in-app-review?hl=es-419
+- https://developer.android.com/guide/playcore/in-app-review?hl=pt-br
+- https://developer.android.com/guide/playcore/in-app-review?hl=id
+- https://developer.android.com/guide/playcore/in-app-review?hl=ja
+- https://developer.android.com/guide/playcore/in-app-review?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/menus
+- https://developer.android.com/guide/topics/ui/menus?hl=es-419
+- https://developer.android.com/guide/topics/ui/menus?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/menus?hl=id
+- https://developer.android.com/guide/topics/ui/menus?hl=ja
+- https://developer.android.com/guide/topics/ui/menus?hl=ko
+- https://developer.android.com/guide/topics/ui/menus?hl=pt-br
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=es_419
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=id
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=ja
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=ko
+- https://developer.android.com/guide/topics/ui/look-and-feel/darktheme?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_object_info
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UploadDataSink
+- https://developer.android.com/guide/topics/ui/bubbles
+- https://developer.android.com/guide/topics/ui/bubbles?hl=es-419
+- https://developer.android.com/guide/topics/ui/bubbles?hl=ja
+- https://developer.android.com/guide/topics/ui/bubbles?hl=pt-br
+- https://developer.android.com/guide/topics/ui/bubbles?hl=zh-cn
+- https://developer.android.com/guide/navigation/navigation-principles
+- https://developer.android.com/guide/navigation/navigation-principles?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-principles?hl=id
+- https://developer.android.com/guide/navigation/navigation-principles?hl=ja
+- https://developer.android.com/guide/navigation/navigation-principles?hl=ko
+- https://developer.android.com/guide/navigation/navigation-principles?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-principles?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/nfc
+- https://developer.android.com/guide/topics/connectivity/nfc?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/nfc?hl=id
+- https://developer.android.com/guide/topics/connectivity/nfc?hl=ja
+- https://developer.android.com/guide/topics/connectivity/nfc?hl=ko
+- https://developer.android.com/guide/topics/connectivity/nfc?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/nfc?hl=es_419
+- https://developer.android.com/guide/components/foreground-services
+- https://developer.android.com/guide/topics/graphics/opengl
+- https://developer.android.com/guide/topics/graphics/opengl?hl=es_419
+- https://developer.android.com/guide/topics/graphics/opengl?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/opengl?hl=id
+- https://developer.android.com/guide/topics/graphics/opengl?hl=ja
+- https://developer.android.com/guide/topics/graphics/opengl?hl=ko
+- https://developer.android.com/guide/topics/graphics/opengl?hl=pt_br
+- https://developer.android.com/guide/topics/media/camera
+- https://developer.android.com/guide/topics/media/camera?hl=es_419
+- https://developer.android.com/guide/topics/media/camera?hl=zh_cn
+- https://developer.android.com/guide/topics/media/camera?hl=id
+- https://developer.android.com/guide/topics/media/camera?hl=ja
+- https://developer.android.com/guide/topics/media/camera?hl=ko
+- https://developer.android.com/guide/topics/media/camera?hl=pt_br
+- https://developer.android.com/guide/topics/ui/controls/radiobutton
+- https://developer.android.com/guide/practices/app-design/seamlessness
+- https://developer.android.com/guide/practices/app-design/seamlessness?hl=es_419
+- https://developer.android.com/guide/practices/app-design/seamlessness?hl=id
+- https://developer.android.com/guide/practices/app-design/seamlessness?hl=ja
+- https://developer.android.com/guide/practices/app-design/seamlessness?hl=ko
+- https://developer.android.com/guide/practices/app-design/seamlessness?hl=pt_br
+- https://developer.android.com/guide/practices/app-design/seamlessness?hl=zh_cn
+- https://developer.android.com/guide/topics/media
+- https://developer.android.com/guide/topics/media?hl=id
+- https://developer.android.com/guide/topics/media?hl=es_419
+- https://developer.android.com/guide/topics/media?hl=ja
+- https://developer.android.com/guide/topics/media?hl=ko
+- https://developer.android.com/guide/topics/media?hl=pt_br
+- https://developer.android.com/guide/topics/media?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UploadDataProviders
+- https://developer.android.com/guide/topics/connectivity/wifi-aware
+- https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=id
+- https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=ja
+- https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=ko
+- https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/wifi-aware?hl=zh_cn
+- https://developer.android.com/guide/components/services
+- https://developer.android.com/guide/components/services?hl=es-419
+- https://developer.android.com/guide/components/services?hl=zh-cn
+- https://developer.android.com/guide/components/services?hl=id
+- https://developer.android.com/guide/components/services?hl=ja
+- https://developer.android.com/guide/components/services?hl=ko
+- https://developer.android.com/guide/components/services?hl=pt-br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetEngine
+- https://developer.android.com/guide/topics/text/copy-paste
+- https://developer.android.com/guide/topics/text/copy-paste?hl=es_419
+- https://developer.android.com/guide/topics/text/copy-paste?hl=zh_cn
+- https://developer.android.com/guide/topics/text/copy-paste?hl=id
+- https://developer.android.com/guide/topics/text/copy-paste?hl=ja
+- https://developer.android.com/guide/topics/text/copy-paste?hl=ko
+- https://developer.android.com/guide/topics/text/copy-paste?hl=pt_br
+- https://developer.android.com/guide/topics/resources/drawable-resource
+- https://developer.android.com/guide/topics/resources/drawable-resource?hl=es_419
+- https://developer.android.com/guide/topics/resources/drawable-resource?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/drawable-resource?hl=id
+- https://developer.android.com/guide/topics/resources/drawable-resource?hl=ja
+- https://developer.android.com/guide/topics/resources/drawable-resource?hl=ko
+- https://developer.android.com/guide/topics/resources/drawable-resource?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_allocation_data
+- https://developer.android.com/guide/topics/ui/layout/linear
+- https://developer.android.com/guide/topics/ui/layout/linear?hl=es_419
+- https://developer.android.com/guide/topics/ui/layout/linear?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/layout/linear?hl=id
+- https://developer.android.com/guide/topics/ui/layout/linear?hl=ja
+- https://developer.android.com/guide/topics/ui/layout/linear?hl=ko
+- https://developer.android.com/guide/topics/ui/layout/linear?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=id
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=ja
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=ko
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/nfc/nfc?hl=es_419
+- https://developer.android.com/guide/topics/manifest/permission-tree-element
+- https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=id
+- https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/permission-tree-element?hl=pt_br
+- https://developer.android.com/guide/appendix/faq/framework
+- https://developer.android.com/guide/appendix/faq/framework?hl=es_419
+- https://developer.android.com/guide/appendix/faq/framework?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq/framework?hl=id
+- https://developer.android.com/guide/appendix/faq/framework?hl=ja
+- https://developer.android.com/guide/appendix/faq/framework?hl=ko
+- https://developer.android.com/guide/appendix/faq/framework?hl=pt_br
+- https://developer.android.com/guide/topics/ui/accessibility/testing
+- https://developer.android.com/guide/topics/ui/accessibility/testing?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility/testing?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/testing?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility/testing?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility/testing?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility/testing?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_for_each
+- https://developer.android.com/guide/topics/media/volumeshaper
+- https://developer.android.com/guide/topics/media/volumeshaper?hl=es_419
+- https://developer.android.com/guide/topics/media/volumeshaper?hl=id
+- https://developer.android.com/guide/topics/media/volumeshaper?hl=ja
+- https://developer.android.com/guide/topics/media/volumeshaper?hl=ko
+- https://developer.android.com/guide/topics/media/volumeshaper?hl=pt_br
+- https://developer.android.com/guide/topics/media/volumeshaper?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=zh-cn
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=pt-br
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=es-419
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=ja
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=ko
+- https://developer.android.com/guide/topics/ui/settings/handle-other-form-factors?hl=id
+- https://developer.android.com/guide/topics/sensors
+- https://developer.android.com/guide/topics/sensors?hl=id
+- https://developer.android.com/guide/topics/sensors?hl=es_419
+- https://developer.android.com/guide/topics/sensors?hl=zh_cn
+- https://developer.android.com/guide/topics/sensors?hl=ja
+- https://developer.android.com/guide/topics/sensors?hl=ko
+- https://developer.android.com/guide/topics/sensors?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/usb
+- https://developer.android.com/guide/topics/connectivity/usb?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/usb?hl=id
+- https://developer.android.com/guide/topics/connectivity/usb?hl=ja
+- https://developer.android.com/guide/topics/connectivity/usb?hl=ko
+- https://developer.android.com/guide/topics/connectivity/usb?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/usb?hl=zh_cn
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=id
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=ja
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=pt-br
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=ko
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-native-java?hl=es-419
+- https://developer.android.com/guide/topics/resources/pseudolocales
+- https://developer.android.com/guide/topics/resources/pseudolocales?hl=es_419
+- https://developer.android.com/guide/topics/resources/pseudolocales?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/pseudolocales?hl=id
+- https://developer.android.com/guide/topics/resources/pseudolocales?hl=ja
+- https://developer.android.com/guide/topics/resources/pseudolocales?hl=ko
+- https://developer.android.com/guide/topics/resources/pseudolocales?hl=pt_br
+- https://developer.android.com/guide/topics/text/autofill-services
+- https://developer.android.com/guide/topics/text/autofill-services?hl=es_419
+- https://developer.android.com/guide/topics/text/autofill-services?hl=zh_cn
+- https://developer.android.com/guide/topics/text/autofill-services?hl=id
+- https://developer.android.com/guide/topics/text/autofill-services?hl=ja
+- https://developer.android.com/guide/topics/text/autofill-services?hl=ko
+- https://developer.android.com/guide/topics/text/autofill-services?hl=pt_br
+- https://developer.android.com/guide/topics/display-cutout
+- https://developer.android.com/guide/topics/display-cutout?hl=id
+- https://developer.android.com/guide/topics/display-cutout?hl=es_419
+- https://developer.android.com/guide/topics/display-cutout?hl=ja
+- https://developer.android.com/guide/topics/display-cutout?hl=ko
+- https://developer.android.com/guide/topics/display-cutout?hl=pt_br
+- https://developer.android.com/guide/topics/display-cutout?hl=zh_cn
+- https://developer.android.com/guide/topics/search/searchable-config
+- https://developer.android.com/guide/topics/search/searchable-config?hl=es_419
+- https://developer.android.com/guide/topics/search/searchable-config?hl=id
+- https://developer.android.com/guide/topics/search/searchable-config?hl=ja
+- https://developer.android.com/guide/topics/search/searchable-config?hl=ko
+- https://developer.android.com/guide/topics/search/searchable-config?hl=pt_br
+- https://developer.android.com/guide/topics/search/searchable-config?hl=zh_cn
+- https://developer.android.com/guide/practices/screens_support
+- https://developer.android.com/guide/practices/screens_support?hl=es_419
+- https://developer.android.com/guide/practices/screens_support?hl=zh_cn
+- https://developer.android.com/guide/practices/screens_support?hl=id
+- https://developer.android.com/guide/practices/screens_support?hl=ja
+- https://developer.android.com/guide/practices/screens_support?hl=ko
+- https://developer.android.com/guide/practices/screens_support?hl=pt_br
+- https://developer.android.com/guide/topics/ui/accessibility/apps
+- https://developer.android.com/guide/topics/ui/accessibility/apps?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility/apps?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/apps?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility/apps?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility/apps?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility/apps?hl=pt_br
+- https://developer.android.com/guide/topics/ui/shortcuts/managing-shortcuts
+- https://developer.android.com/guide/topics/manifest/service-element
+- https://developer.android.com/guide/topics/manifest/service-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/service-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/service-element?hl=id
+- https://developer.android.com/guide/topics/manifest/service-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/service-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/service-element?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-nested-graphs
+- https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=id
+- https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=ja
+- https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=ko
+- https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-nested-graphs?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=es_419
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=id
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=ja
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=ko
+- https://developer.android.com/guide/topics/ui/accessibility/additional-resources?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/path-permission-element
+- https://developer.android.com/guide/topics/manifest/path-permission-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/path-permission-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/path-permission-element?hl=id
+- https://developer.android.com/guide/topics/manifest/path-permission-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/path-permission-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/path-permission-element?hl=pt_br
+- https://developer.android.com/guide/topics/location/migration
+- https://developer.android.com/guide/topics/location/migration?hl=es_419
+- https://developer.android.com/guide/topics/location/migration?hl=zh_cn
+- https://developer.android.com/guide/topics/location/migration?hl=id
+- https://developer.android.com/guide/topics/location/migration?hl=ja
+- https://developer.android.com/guide/topics/location/migration?hl=ko
+- https://developer.android.com/guide/topics/location/migration?hl=pt_br
+- https://developer.android.com/guide/topics/admin/device-admin
+- https://developer.android.com/guide/topics/admin/device-admin?hl=es_419
+- https://developer.android.com/guide/topics/admin/device-admin?hl=zh_cn
+- https://developer.android.com/guide/topics/admin/device-admin?hl=id
+- https://developer.android.com/guide/topics/admin/device-admin?hl=ja
+- https://developer.android.com/guide/topics/admin/device-admin?hl=ko
+- https://developer.android.com/guide/topics/admin/device-admin?hl=pt_br
+- https://developer.android.com/guide/topics/resources/complex-xml-resources
+- https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=es_419
+- https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=zh_cn
+- https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=id
+- https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=ja
+- https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=ko
+- https://developer.android.com/guide/topics/resources/complex-xml-resources?hl=pt_br
+- https://developer.android.com/guide/topics/ui/device-control
+- https://developer.android.com/guide/topics/ui/device-control?hl=pt-br
+- https://developer.android.com/guide/topics/ui/device-control?hl=ja
+- https://developer.android.com/guide/topics/ui/device-control?hl=ko
+- https://developer.android.com/guide/topics/ui/device-control?hl=es-419
+- https://developer.android.com/guide/topics/ui/device-control?hl=id
+- https://developer.android.com/guide/topics/ui/device-control?hl=zh-cn
+- https://developer.android.com/guide/topics/resources/providing-resources
+- https://developer.android.com/guide/topics/resources/providing-resources?hl=es-419
+- https://developer.android.com/guide/topics/resources/providing-resources?hl=zh-cn
+- https://developer.android.com/guide/topics/resources/providing-resources?hl=id
+- https://developer.android.com/guide/topics/resources/providing-resources?hl=ja
+- https://developer.android.com/guide/topics/resources/providing-resources?hl=ko
+- https://developer.android.com/guide/topics/resources/providing-resources?hl=pt-br
+- https://developer.android.com/guide/navigation/navigation-getting-started
+- https://developer.android.com/guide/navigation/navigation-getting-started?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-getting-started?hl=id
+- https://developer.android.com/guide/navigation/navigation-getting-started?hl=ja
+- https://developer.android.com/guide/navigation/navigation-getting-started?hl=ko
+- https://developer.android.com/guide/navigation/navigation-getting-started?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-getting-started?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/omapi
+- https://developer.android.com/guide/topics/search/search-dialog
+- https://developer.android.com/guide/topics/search/search-dialog?hl=es_419
+- https://developer.android.com/guide/topics/search/search-dialog?hl=id
+- https://developer.android.com/guide/topics/search/search-dialog?hl=ja
+- https://developer.android.com/guide/topics/search/search-dialog?hl=ko
+- https://developer.android.com/guide/topics/search/search-dialog?hl=pt_br
+- https://developer.android.com/guide/topics/search/search-dialog?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/prop-animation
+- https://developer.android.com/guide/topics/graphics/prop-animation?hl=es_419
+- https://developer.android.com/guide/topics/graphics/prop-animation?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/prop-animation?hl=id
+- https://developer.android.com/guide/topics/graphics/prop-animation?hl=ja
+- https://developer.android.com/guide/topics/graphics/prop-animation?hl=ko
+- https://developer.android.com/guide/topics/graphics/prop-animation?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UrlRequest.Callback
+- https://developer.android.com/guide/topics/connectivity/telecom/prevent-spoofing
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=id
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=ja
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=ko
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/volume-and-earphones?hl=zh_cn
+- https://developer.android.com/guide/fragments/communicate
+- https://developer.android.com/guide/playcore/in-app-review/test
+- https://developer.android.com/guide/playcore/in-app-review/test?hl=ko
+- https://developer.android.com/guide/playcore/in-app-review/test?hl=es-419
+- https://developer.android.com/guide/playcore/in-app-review/test?hl=pt-br
+- https://developer.android.com/guide/playcore/in-app-review/test?hl=id
+- https://developer.android.com/guide/playcore/in-app-review/test?hl=ja
+- https://developer.android.com/guide/playcore/in-app-review/test?hl=zh-cn
+- https://developer.android.com/guide/topics/graphics/fling-animation
+- https://developer.android.com/guide/topics/graphics/fling-animation?hl=es_419
+- https://developer.android.com/guide/topics/graphics/fling-animation?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/fling-animation?hl=id
+- https://developer.android.com/guide/topics/graphics/fling-animation?hl=ja
+- https://developer.android.com/guide/topics/graphics/fling-animation?hl=ko
+- https://developer.android.com/guide/topics/graphics/fling-animation?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/manifest-element
+- https://developer.android.com/guide/topics/manifest/manifest-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/manifest-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/manifest-element?hl=id
+- https://developer.android.com/guide/topics/manifest/manifest-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/manifest-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/manifest-element?hl=pt_br
+- https://developer.android.com/guide/components/broadcasts
+- https://developer.android.com/guide/components/broadcasts?hl=es_419
+- https://developer.android.com/guide/components/broadcasts?hl=id
+- https://developer.android.com/guide/components/broadcasts?hl=ja
+- https://developer.android.com/guide/components/broadcasts?hl=ko
+- https://developer.android.com/guide/components/broadcasts?hl=pt_br
+- https://developer.android.com/guide/components/broadcasts?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/permission-group-element
+- https://developer.android.com/guide/topics/manifest/permission-group-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/permission-group-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/permission-group-element?hl=id
+- https://developer.android.com/guide/topics/manifest/permission-group-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/permission-group-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/permission-group-element?hl=pt_br
+- https://developer.android.com/guide/components/fundamentals
+- https://developer.android.com/guide/components/fundamentals?hl=es-419
+- https://developer.android.com/guide/components/fundamentals?hl=zh-cn
+- https://developer.android.com/guide/components/fundamentals?hl=id
+- https://developer.android.com/guide/components/fundamentals?hl=ja
+- https://developer.android.com/guide/components/fundamentals?hl=ko
+- https://developer.android.com/guide/components/fundamentals?hl=pt-br
+- https://developer.android.com/guide/playcore
+- https://developer.android.com/guide/appendix/faq/commontasks
+- https://developer.android.com/guide/appendix/faq/commontasks?hl=es_419
+- https://developer.android.com/guide/appendix/faq/commontasks?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq/commontasks?hl=id
+- https://developer.android.com/guide/appendix/faq/commontasks?hl=ja
+- https://developer.android.com/guide/appendix/faq/commontasks?hl=ko
+- https://developer.android.com/guide/appendix/faq/commontasks?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=id
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=ja
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=ko
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/nfc/advanced-nfc?hl=es_419
+- https://developer.android.com/guide/start
+- https://developer.android.com/guide/start?hl=es_419
+- https://developer.android.com/guide/start?hl=id
+- https://developer.android.com/guide/start?hl=ja
+- https://developer.android.com/guide/start?hl=ko
+- https://developer.android.com/guide/start?hl=pt_br
+- https://developer.android.com/guide/start?hl=zh_cn
+- https://developer.android.com/guide/topics/renderscript/reference
+- https://developer.android.com/guide/topics/appwidgets/host
+- https://developer.android.com/guide/topics/appwidgets/host?hl=es_419
+- https://developer.android.com/guide/topics/appwidgets/host?hl=zh_cn
+- https://developer.android.com/guide/topics/appwidgets/host?hl=id
+- https://developer.android.com/guide/topics/appwidgets/host?hl=ja
+- https://developer.android.com/guide/topics/appwidgets/host?hl=ko
+- https://developer.android.com/guide/topics/appwidgets/host?hl=pt_br
+- https://developer.android.com/guide/app-bundle/conditional-delivery
+- https://developer.android.com/guide/app-bundle/conditional-delivery?hl=id
+- https://developer.android.com/guide/app-bundle/conditional-delivery?hl=ja
+- https://developer.android.com/guide/app-bundle/conditional-delivery?hl=pt-br
+- https://developer.android.com/guide/app-bundle/conditional-delivery?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/conditional-delivery?hl=ko
+- https://developer.android.com/guide/app-bundle/conditional-delivery?hl=es-419
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/InlineExecutionProhibitedException
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=id
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=ja
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=pt-br
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=ko
+- https://developer.android.com/guide/app-bundle/asset-delivery/build-unity?hl=es-419
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/CronetEngine.Builder.LibraryLoader
+- https://developer.android.com/guide/components/activities/intro-activities
+- https://developer.android.com/guide/components/activities/intro-activities?hl=es_419
+- https://developer.android.com/guide/components/activities/intro-activities?hl=id
+- https://developer.android.com/guide/components/activities/intro-activities?hl=ja
+- https://developer.android.com/guide/components/activities/intro-activities?hl=ko
+- https://developer.android.com/guide/components/activities/intro-activities?hl=pt_br
+- https://developer.android.com/guide/components/activities/intro-activities?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-feature-element
+- https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/uses-feature-element?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/manifest-intro
+- https://developer.android.com/guide/topics/manifest/manifest-intro?hl=es-419
+- https://developer.android.com/guide/topics/manifest/manifest-intro?hl=zh-cn
+- https://developer.android.com/guide/topics/manifest/manifest-intro?hl=id
+- https://developer.android.com/guide/topics/manifest/manifest-intro?hl=ja
+- https://developer.android.com/guide/topics/manifest/manifest-intro?hl=ko
+- https://developer.android.com/guide/topics/manifest/manifest-intro?hl=pt-br
+- https://developer.android.com/guide/topics/ui
+- https://developer.android.com/guide/topics/ui?hl=id
+- https://developer.android.com/guide/topics/ui?hl=es_419
+- https://developer.android.com/guide/topics/ui?hl=zh_cn
+- https://developer.android.com/guide/topics/ui?hl=ja
+- https://developer.android.com/guide/topics/ui?hl=ko
+- https://developer.android.com/guide/topics/ui?hl=pt_br
+- https://developer.android.com/guide/topics/resources/localization
+- https://developer.android.com/guide/topics/resources/localization?hl=es_419
+- https://developer.android.com/guide/topics/resources/localization?hl=id
+- https://developer.android.com/guide/topics/resources/localization?hl=ja
+- https://developer.android.com/guide/topics/resources/localization?hl=ko
+- https://developer.android.com/guide/topics/resources/localization?hl=pt_br
+- https://developer.android.com/guide/topics/resources/localization?hl=zh_cn
+- https://developer.android.com/guide/topics/media/additional-resources
+- https://developer.android.com/guide/topics/media/additional-resources?hl=es_419
+- https://developer.android.com/guide/topics/media/additional-resources?hl=id
+- https://developer.android.com/guide/topics/media/additional-resources?hl=ja
+- https://developer.android.com/guide/topics/media/additional-resources?hl=ko
+- https://developer.android.com/guide/topics/media/additional-resources?hl=pt_br
+- https://developer.android.com/guide/topics/media/additional-resources?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/cronet/reference/org/chromium/net/UploadDataProvider
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=id
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=ja
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=ko
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-app/building-an-audio-app?hl=zh_cn
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=es_419
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=id
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=ja
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=ko
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=pt_br
+- https://developer.android.com/guide/topics/search/adding-recent-query-suggestions?hl=zh_cn
+- https://developer.android.com/guide/topics/renderscript/compute
+- https://developer.android.com/guide/topics/renderscript/compute?hl=es_419
+- https://developer.android.com/guide/topics/renderscript/compute?hl=zh_cn
+- https://developer.android.com/guide/topics/renderscript/compute?hl=id
+- https://developer.android.com/guide/topics/renderscript/compute?hl=ja
+- https://developer.android.com/guide/topics/renderscript/compute?hl=ko
+- https://developer.android.com/guide/topics/renderscript/compute?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/vpn
+- https://developer.android.com/guide/topics/connectivity/vpn?hl=es_419
+- https://developer.android.com/guide/topics/connectivity/vpn?hl=id
+- https://developer.android.com/guide/topics/connectivity/vpn?hl=ja
+- https://developer.android.com/guide/topics/connectivity/vpn?hl=ko
+- https://developer.android.com/guide/topics/connectivity/vpn?hl=pt_br
+- https://developer.android.com/guide/topics/connectivity/vpn?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/drawable-animation
+- https://developer.android.com/guide/topics/graphics/drawable-animation?hl=es_419
+- https://developer.android.com/guide/topics/graphics/drawable-animation?hl=zh_cn
+- https://developer.android.com/guide/topics/graphics/drawable-animation?hl=id
+- https://developer.android.com/guide/topics/graphics/drawable-animation?hl=ja
+- https://developer.android.com/guide/topics/graphics/drawable-animation?hl=ko
+- https://developer.android.com/guide/topics/graphics/drawable-animation?hl=pt_br
+- https://developer.android.com/guide/app-bundle/at-install-delivery
+- https://developer.android.com/guide/app-bundle/at-install-delivery?hl=id
+- https://developer.android.com/guide/app-bundle/at-install-delivery?hl=ja
+- https://developer.android.com/guide/app-bundle/at-install-delivery?hl=pt-br
+- https://developer.android.com/guide/app-bundle/at-install-delivery?hl=zh-cn
+- https://developer.android.com/guide/app-bundle/at-install-delivery?hl=ko
+- https://developer.android.com/guide/app-bundle/at-install-delivery?hl=es-419
+- https://developer.android.com/guide/topics/ui/layout/relative
+- https://developer.android.com/guide/topics/ui/layout/relative?hl=es_419
+- https://developer.android.com/guide/topics/ui/layout/relative?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/layout/relative?hl=id
+- https://developer.android.com/guide/topics/ui/layout/relative?hl=ja
+- https://developer.android.com/guide/topics/ui/layout/relative?hl=ko
+- https://developer.android.com/guide/topics/ui/layout/relative?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/mediabuttons
+- https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=id
+- https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=ja
+- https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=ko
+- https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/mediabuttons?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/layout/cardview
+- https://developer.android.com/guide/topics/ui/layout/cardview?hl=es_419
+- https://developer.android.com/guide/topics/ui/layout/cardview?hl=zh_cn
+- https://developer.android.com/guide/topics/ui/layout/cardview?hl=id
+- https://developer.android.com/guide/topics/ui/layout/cardview?hl=ja
+- https://developer.android.com/guide/topics/ui/layout/cardview?hl=ko
+- https://developer.android.com/guide/topics/ui/layout/cardview?hl=pt_br
+- https://developer.android.com/guide/topics/providers/create-document-provider
+- https://developer.android.com/guide/topics/providers/create-document-provider?hl=es_419
+- https://developer.android.com/guide/topics/providers/create-document-provider?hl=zh_cn
+- https://developer.android.com/guide/topics/providers/create-document-provider?hl=id
+- https://developer.android.com/guide/topics/providers/create-document-provider?hl=ja
+- https://developer.android.com/guide/topics/providers/create-document-provider?hl=ko
+- https://developer.android.com/guide/topics/providers/create-document-provider?hl=pt_br
+- https://developer.android.com/guide/topics/text/spans
+- https://developer.android.com/guide/topics/text/spans?hl=es_419
+- https://developer.android.com/guide/topics/text/spans?hl=zh_cn
+- https://developer.android.com/guide/topics/text/spans?hl=id
+- https://developer.android.com/guide/topics/text/spans?hl=ja
+- https://developer.android.com/guide/topics/text/spans?hl=ko
+- https://developer.android.com/guide/topics/text/spans?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-deep-link
+- https://developer.android.com/guide/navigation/navigation-deep-link?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-deep-link?hl=id
+- https://developer.android.com/guide/navigation/navigation-deep-link?hl=ja
+- https://developer.android.com/guide/navigation/navigation-deep-link?hl=ko
+- https://developer.android.com/guide/navigation/navigation-deep-link?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-deep-link?hl=zh_cn
+- https://developer.android.com/guide/webapps/targeting
+- https://developer.android.com/guide/webapps/targeting?hl=id
+- https://developer.android.com/guide/webapps/targeting?hl=ja
+- https://developer.android.com/guide/webapps/targeting?hl=ko
+- https://developer.android.com/guide/webapps/targeting?hl=pt_br
+- https://developer.android.com/guide/webapps/targeting?hl=zh_cn
+- https://developer.android.com/guide/webapps/targeting?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-form-factors
+- https://developer.android.com/guide/navigation/navigation-form-factors?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-form-factors?hl=id
+- https://developer.android.com/guide/navigation/navigation-form-factors?hl=ja
+- https://developer.android.com/guide/navigation/navigation-form-factors?hl=ko
+- https://developer.android.com/guide/navigation/navigation-form-factors?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-form-factors?hl=zh_cn
+- https://developer.android.com/guide/topics/data/testingbackup
+- https://developer.android.com/guide/topics/data/testingbackup?hl=es_419
+- https://developer.android.com/guide/topics/data/testingbackup?hl=zh_cn
+- https://developer.android.com/guide/topics/data/testingbackup?hl=id
+- https://developer.android.com/guide/topics/data/testingbackup?hl=ja
+- https://developer.android.com/guide/topics/data/testingbackup?hl=ko
+- https://developer.android.com/guide/topics/data/testingbackup?hl=pt_br
+- https://developer.android.com/guide/slices/getting-started
+- https://developer.android.com/guide/slices/getting-started?hl=es_419
+- https://developer.android.com/guide/slices/getting-started?hl=zh_cn
+- https://developer.android.com/guide/slices/getting-started?hl=id
+- https://developer.android.com/guide/slices/getting-started?hl=ja
+- https://developer.android.com/guide/slices/getting-started?hl=ko
+- https://developer.android.com/guide/slices/getting-started?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/supports-screens-element
+- https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=id
+- https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/supports-screens-element?hl=pt_br
+- https://developer.android.com/guide/topics/text/spell-checker-framework
+- https://developer.android.com/guide/topics/text/spell-checker-framework?hl=es_419
+- https://developer.android.com/guide/topics/text/spell-checker-framework?hl=zh_cn
+- https://developer.android.com/guide/topics/text/spell-checker-framework?hl=id
+- https://developer.android.com/guide/topics/text/spell-checker-framework?hl=ja
+- https://developer.android.com/guide/topics/text/spell-checker-framework?hl=ko
+- https://developer.android.com/guide/topics/text/spell-checker-framework?hl=pt_br
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=id
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/uses-configuration-element?hl=pt_br
+- https://developer.android.com/guide/topics/renderscript/reference/rs_value_types
+- https://developer.android.com/guide/topics/appwidgets/overview
+- https://developer.android.com/guide/topics/appwidgets/overview?hl=es_419
+- https://developer.android.com/guide/topics/appwidgets/overview?hl=zh_cn
+- https://developer.android.com/guide/topics/appwidgets/overview?hl=id
+- https://developer.android.com/guide/topics/appwidgets/overview?hl=ja
+- https://developer.android.com/guide/topics/appwidgets/overview?hl=ko
+- https://developer.android.com/guide/topics/appwidgets/overview?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=es_419
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=id
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=ja
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=ko
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=pt_br
+- https://developer.android.com/guide/topics/media-apps/audio-app/mediasession-callbacks?hl=zh_cn
+- https://developer.android.com/guide/topics/connectivity/passpoint
+- https://developer.android.com/guide/topics/manifest/instrumentation-element
+- https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=es_419
+- https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=zh_cn
+- https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=id
+- https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=ja
+- https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=ko
+- https://developer.android.com/guide/topics/manifest/instrumentation-element?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-create-destinations
+- https://developer.android.com/guide/navigation/navigation-create-destinations?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-create-destinations?hl=id
+- https://developer.android.com/guide/navigation/navigation-create-destinations?hl=ja
+- https://developer.android.com/guide/navigation/navigation-create-destinations?hl=ko
+- https://developer.android.com/guide/navigation/navigation-create-destinations?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-create-destinations?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-animate-transitions
+- https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=id
+- https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=ja
+- https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=ko
+- https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-animate-transitions?hl=zh_cn
+- https://developer.android.com/guide/input
+- https://developer.android.com/guide/input?hl=es_419
+- https://developer.android.com/guide/input?hl=id
+- https://developer.android.com/guide/input?hl=ja
+- https://developer.android.com/guide/input?hl=ko
+- https://developer.android.com/guide/input?hl=pt_br
+- https://developer.android.com/guide/input?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq
+- https://developer.android.com/guide/appendix/faq?hl=es_419
+- https://developer.android.com/guide/appendix/faq?hl=zh_cn
+- https://developer.android.com/guide/appendix/faq?hl=id
+- https://developer.android.com/guide/appendix/faq?hl=ja
+- https://developer.android.com/guide/appendix/faq?hl=ko
+- https://developer.android.com/guide/appendix/faq?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=es_419
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=id
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=ja
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=ko
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=pt_br
+- https://developer.android.com/guide/topics/ui/look-and-feel/emoji-compat?hl=zh_cn
+- https://developer.android.com/guide/navigation/navigation-migrate
+- https://developer.android.com/guide/navigation/navigation-migrate?hl=es_419
+- https://developer.android.com/guide/navigation/navigation-migrate?hl=id
+- https://developer.android.com/guide/navigation/navigation-migrate?hl=ja
+- https://developer.android.com/guide/navigation/navigation-migrate?hl=ko
+- https://developer.android.com/guide/navigation/navigation-migrate?hl=pt_br
+- https://developer.android.com/guide/navigation/navigation-migrate?hl=zh_cn
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=es_419
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=id
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=ja
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=ko
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=pt_br
+- https://developer.android.com/guide/components/activities/tasks-and-back-stack?hl=zh_cn
