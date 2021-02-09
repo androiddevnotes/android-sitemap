@@ -71,6 +71,7 @@ The content is generated from [Android Developer Sitemap](https://developer.andr
   - [Google Play](#google-play)
   - [Google](#google)
   - [Samples](#samples)
+  - [Teach](#teach)
 
 - [**Android Open Source Project**](#android-open-source-project)
 
@@ -497,6 +498,14 @@ https://developer.android.com - Android Developers. The official site for Androi
 - Link Count: 7
 
 - [**See all links**](samples.md)
+
+## [Teach](teach.md)
+
+- About: Android Development Resources for Educators.
+
+- Link Count: 1
+
+- [**See all links**](teach.md)
 
 <br>
 
